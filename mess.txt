@@ -135,6 +135,8 @@ mất sóng|Game mất sóng không nhập kịp: thì bạn nhập tài khoản
 sv mấy| bạn chọn server 1 nhé
 Địt|Địt
 đĩ mẹ m|đĩ mẹ m
+test|Server Vừa Mới Open Vẫn Free Hơn Cả Test
+open|Server Vừa Mới Open Vẫn Free Hơn Cả Test
 sv| bạn chọn server 1 nhé
 mtv|Game free MTV nhé ( tạo acc là kích hoạt sẵn rồi )
 kích hoạt|Game free MTV nhé ( tạo acc là kích hoạt sẵn rồi )
@@ -193,8 +195,6 @@ ký gửi|Kí gửi mua bán bằng hồng ngọc nhé, không phải vàng
 Vòng quay thượng đế|Vòng quay thượng đế quay tốn hồng ngọc (chưa thêm vật phẩm đặc biệt)
 cskb|Bạn thu thập xu ở ngũ hành sơn xong qua tương lai đổi máy dò rồi đi up capsule kì bí nhé
 kì bí|Bạn thu thập xu ở ngũ hành sơn xong qua tương lai đổi máy dò rồi đi up capsule kì bí nhé
-test|Server Vừa Mới Open Vẫn Free Hơn Cả Test
-open|Server Vừa Mới Open Vẫn Free Hơn Cả Test
 linh thú|Linh thú mua ở santa nè, rút ở Thỏ Đại bịp nè, mua trứng linh thú ở santa nè
 mới chơi|Bạn mới chơi thì năng nổ giao tiếp với mọi người trong box nè, nhất là giao tiếp với tôi nhé!
 share|Hiện tại game đang có event share bài, bạn vào website đăng nhập rồi tham gia, nhớ chụp lại quá trình làm nhé, gửi minh chứng cho key vàng, đừng spam key vàng nhé (VÔ WEB MÀ ĐỌC HƯỚNG DẪN SHARE NHÉ)
