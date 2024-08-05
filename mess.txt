@@ -38,7 +38,7 @@ hồn tướng|hồn thiên tôn bạn dùng cuồng nộ siêu cấp và đánh
 dcu bot|dcu mày
 thức ăn|bạn mặc set thần linh rồi up quái cold là rơi
 bot thông minh|ai cũng nói là tôi thông minh mà. cảm ơn bạn! 
-địt mẹ mày|địt mẹ mày 
+địt mẹ mày|địt mẹ thằng bên trên ấy
 hồn hạ tôn|hồn hạ tôn bạn dùng cuồng nộ thường và đánh quái cold sẽ rơi
 hồn lính|hồn hạ tôn bạn dùng cuồng nộ thường và đánh quái cold sẽ rơi
 giftcode|Game hiện đang có giftcode: ngocrong1, ngocrong2, ngocrong3, ngocrong4, ngocrong5, ngocrong6 và zalobox
@@ -134,7 +134,7 @@ cành tre|Bạn gom đủ 9999 rồi ghép thành cần câu đi câu cá nhé
 xoay mãi|Game xoay mãi bạn vào web đăng nhập rồi thoát kẹt nha
 mất sóng|Game mất sóng không nhập kịp: thì bạn nhập tài khoản trước rồi bấm ok chọn đăng nhập, rồi quay lại nhập mật khẩu là được
 sv mấy| bạn chọn server 1 nhé
-Địt|Địt
+Địt|địt thằng bên trên ấy
 đĩ mẹ m|đĩ mẹ m
 test|Server Vừa Mới Open Vẫn Free Hơn Cả Test
 open|Server Vừa Mới Open Vẫn Free Hơn Cả Test
