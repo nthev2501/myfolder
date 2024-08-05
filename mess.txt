@@ -75,11 +75,11 @@ câm|mày mới là người phải câm đấy
 đồ tl|đồ thần bạn săn boss hoặc up cold nhé
 hỗ trợ|khung giờ hỗ trợ nhiệm vụ 9-12h sáng tối
 ho tro nv|khung giờ hỗ trợ nhiệm vụ 9-12h sáng tối
-lol bot| chửi cái ***
-bot lol| chửi cái ***
+lol bot|chửi cái gì
+bot lol|chửi cái gì
 bot lồn|lồn má mày chứ lồn
-bot ngu| mày mới là ngu đấy
-bot nguu| nguu cc
+bot ngu|thằng bên trên mới ngu đó
+bot nguu|thằng bên trên mới ngu đó
 ngủ|chúc bạn ngủ ngon 
 đồ nào mạnh|đồ thiên tôn mạnh nhất, bạn cày phiếu giảm giá ở doraemon rồi đổi ở quy lão rồi nâng ở hạt mót hoặc nạp mua cho nhanh
 đồ hạ tôn|bạn xem cách nâng ở hạt mít
@@ -116,11 +116,11 @@ còn sống không|Tôi vẫn còn sống đây, tôi đứng đây chờ bạn 
 ngọc rồng siêu cấp|Ngọc rồng siêu cấp chỉ để ước (không ép được)
 nịnh|Nịnh 1 xíu mà được tăng lương cũng tốt nhỉ
 ai đẹp|admin đẹp nhất nhé! Tôi đánh giá khách quan là như thế
-chán|Tại sao bạn lại chán, ngồi đây tâm sự với tôi này
-ngủ|Chúc bạn ngủ ngon, mơ về mình nhé
+chán|Tại sao bạn lại chán, bắt con gián bỏ vô háng cho đỡ chán
+ngủ|Chúc bạn ngủ ngon!
 nrsc|Ngọc rồng siêu cấp chỉ để ước (không ép được)
-alo|Hello cậu! Mình là Mỹ Nhân
-lô|Hi cậu| Mình là Mỹ Nhân
+alo|Hello anh đẹp trai
+lô|Hello anh đẹp trai
 bot ơi|kêu gì lắm vậy
 chào tôi|Hi! Chào cậu, cho mình làm quen nhé!
 chê bot|Tôi là bản test thôi nên có gì xin thí chủ né ra chỗ khác, đừng để tôi nóng
