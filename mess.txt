@@ -2,7 +2,7 @@ hồng ngọc|hồng ngọc săn boss, up quái cold, hiến tế đồ thần l
 hngoc|hồng ngọc săn boss, up quái cold, hiến tế đồ thần linh, nạp thẻ
 hn|hồng ngọc săn boss, up quái cold, hiến tế đồ thần linh, nạp thẻ
 dcu bot|dcu mày
-xinchaocacban|aloalo
+địa ngục|địa ngục bạn ra gặp Cu Tí ở đảo kame rồi vào map gặp Diêm Vương để xuống nhé
 lặc|lặc má mày chứ lặc
 ngũ hành sơn|ra làng aru gặp Đường tăng để vào Ngũ Hành Sơn
 bot cặc|cặc ba mày chứ cặc
@@ -173,7 +173,6 @@ trái thần long|Bạn mua đất + cây cuốc rồi săn boss đủ 30 điể
 mảnh đất|Bạn mua đất + cây cuốc rồi săn boss đủ 30 điểm sẽ trồng được cây thần long, thu hoạch trái thần long ăn vào tăng chỉ số ( đặc biệt không bị ảnh hưởng với sức mạnh chí tôn )
 cây cuốc|Bạn mua đất + cây cuốc rồi săn boss đủ 30 điểm sẽ trồng được cây thần long, thu hoạch trái thần long ăn vào tăng chỉ số ( đặc biệt không bị ảnh hưởng với sức mạnh chí tôn )
 nông trại|Bạn mua đất + cây cuốc rồi săn boss đủ 30 điểm sẽ trồng được cây thần long, thu hoạch trái thần long ăn vào tăng chỉ số ( đặc biệt không bị ảnh hưởng với sức mạnh chí tôn )
-địa ngục|map địa ngục tìm bà hạt mít đảo kame nhé
 trứng bư|bạn về nhà bấm nút tìm mabu sau đó tiêu diệt sẽ nhận được trứng bư 
 mảnh ts|mảnh thiên sứ up ở hành tinh ngục tù
 max sm|max sức mạnh là 300 tỷ nhé, max chỉ số 780k và 40k
