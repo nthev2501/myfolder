@@ -142,13 +142,13 @@ bang|ai có bang cho nó vô bang đi
 bot cặc|cặc ba mày chứ cặc
 bot hài|Tôi sinh ra cũng để tấu hài cho cái box này, mong được trả lương hậu hĩnh
 còn sống không|Tôi vẫn còn sống đây, tôi đứng đây chờ bạn từ chiều
-ngọc rồng siêu cấp|Ngọc rồng siêu cấp chỉ để ước (không ép được)
+ngọc rồng siêu cấp|Ngọc rồng siêu cấp chỉ để ước (không ép được) (ước được gì thì ước đi rồi biết chứ tôi biết đâu)
 nịnh|Nịnh 1 xíu mà được tăng lương cũng tốt nhỉ
 ai đẹp|admin đẹp nhất nhé! Tôi đánh giá khách quan là như thế
 chán|Tại sao bạn lại chán, bắt con gián bỏ vô háng cho đỡ chán
 bot ngủ|Tôi chưa ngủ đâu nhé
 ngủ|Chúc bạn ngủ ngon!
-nrsc|Ngọc rồng siêu cấp chỉ để ước (không ép được)
+nrsc|Ngọc rồng siêu cấp chỉ để ước (không ép được) (ước được gì thì ước đi rồi biết chứ tôi biết đâu)
 alo|Hello anh đẹp trai
 lô|Hello anh đẹp trai
 bot ơi|kêu gì mà lắm vậy
@@ -174,6 +174,7 @@ test|Server Vừa Mới Open Vẫn Free Hơn Cả Test
 open|Server Vừa Mới Open Vẫn Free Hơn Cả Test
 map sm|up ngũ hành sơn rồi địa ngục ở Cu Tí ( đi vào gặp Diêm Vương )
 mtv|Game free MTV nhé ( tạo acc là kích hoạt sẵn rồi )
+kích hoạt vip|Trang bị kích hoạt vip nâng ở Thiên Sứ whis đảo kame (xem nguyên liệu ở đó luôn nhé)
 kích hoạt|Game free MTV nhé ( tạo acc là kích hoạt sẵn rồi )
 mất NPC|Bạn xoá dữ liệu rồi tải dữ liệu mới nhé
 làng vamchar|Ra trước làng mori có làng vamchar đó bây
