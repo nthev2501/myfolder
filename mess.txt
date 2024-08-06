@@ -137,6 +137,9 @@ chê bot|Tôi là bản test thôi nên có gì xin thí chủ né ra chỗ khá
 Santa|Santa có bán đủ thứ, nạp tiền tự động nữa nhé mọi người
 nm hay td|thích chơi gì chơi, chơi với tôi sẽ vui hơn đấy
 mốc nạp|bạn đăng nhập vô web rồi tự mở mốc nhé
+bot không khôn|ai cũng biết thằng bên trên ngu không khôn mà
+báo thành công|Bạn chụp chỗ Tên server ở chỗ đăng nhập trong game gửi vô đây xem đúng Ngoc Rong Vo Song không, nếu không đúng thì bạn xóa dữ liệu đi nhé mới vào được
+thành công|Bạn chụp chỗ Tên server ở chỗ đăng nhập trong game gửi vô đây xem đúng Ngoc Rong Vo Song không, nếu không đúng thì bạn xóa dữ liệu đi nhé mới vào được
 bot khôn|ai cũng biết rằng tôi khôn mà
 phụ kiện|phụ kiện mua ở santa cho nhanh
 cành tre|Bạn gom đủ 9999 rồi ghép thành cần câu đi câu cá nhé
