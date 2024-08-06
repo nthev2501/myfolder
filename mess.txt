@@ -14,6 +14,7 @@ boss bí ngô|Boss bí ngô khi bạn dùng mắt kính + kính lúp + kẹo mua
 chụp|Chụp đi chụp đi, chụp gửi vô đây xem ké với
 bí kíp tuyệt kĩ|Đi doanh trại đánh quái là rơi bí kíp tuyệt kĩ nhé, xong lên hành tinh kaio học sì kiu đặc biệt
 bí kíp tuyệt kỹ|Đi doanh trại đánh quái là rơi bí kíp tuyệt kĩ nhé, xong lên hành tinh kaio học sì kiu đặc biệt
+bí kíp|Bạn qua núi khỉ vàng gặp goku ssj rồi vào hành tinh yardrat mà up nhé
 chậm|Bạn tăng tốc độ game lên nhé: một số lệnh chat bạn thử từng cái nhé (speed X | cheat_X | tdX | tocdo X - X là Số nhé - không viết hoa)
 thơm|Thơm quá đi, cho hưởng ké xíu
 nút di chuyển|Nút di chuyển bạn bấm vào nút tam giác bên tay trái rồi vào phần Chức Năng, chọn Cấu Hình, rồi chọn Bàn Phím Ảo nhé
@@ -22,7 +23,6 @@ thỏi vàng|hồng ngọc săn boss, up quái cold, hiến tế đồ thần li
 tvang|hồng ngọc săn boss, up quái cold, hiến tế đồ thần linh, nạp thẻ - thỏi vàng làm nhiệm vụ hàng ngày ở bò mộng, hộ tống ở quy lão, nạp thẻ - vàng và ngọc xanh nhận miễn phí ở nhà
 tv|hồng ngọc săn boss, up quái cold, hiến tế đồ thần linh, nạp thẻ - thỏi vàng làm nhiệm vụ hàng ngày ở bò mộng, hộ tống ở quy lão, nạp thẻ - vàng và ngọc xanh nhận miễn phí ở nhà
 mảnh thiên sứ|mảnh thiên sứ up ở hành tinh ngục tù
-tham gia|Chào bạn mới vừa tham gia cộng đồng! Mình là ChatBot của Box này, bạn cần gì thì cứ nói nhé! Vui lòng xóa dữ liệu mới vào được game ( hướng dẫn xóa dữ liệu và cài game ở link đầu tiên trên ghim )
 đăng nhập|đăng nhập game mà xoay vòng vòng thì đăng nhập vào web chọn thoát kẹt ( tắt bản game trước khi vào web )
 mts|mảnh thiên sứ up ở hành tinh ngục tù
 Tiểu đội sát thủ|Tiểu đội sát thủ chỉ xuất hiện ở Núi khỉ đỏ (khung giờ hỗ trợ là 9h-12h sáng và tối ai trong nhiệm vụ mới vào được + boss giới hạn sát thương 30tr để hỗ trợ) (Thời gian 10 phút 1 đợt)
@@ -45,12 +45,11 @@ tk mk|Hướng Dẫn Fix Lỗi Không Vào Được Game: Cách 1: Kiểm tra xe
 chính xác|Hướng Dẫn Fix Lỗi Không Vào Được Game: Cách 1: Kiểm tra xem đúng server chưa (Nếu chưa thì xóa hết bản cũ rồi tải bản mới -> bấm giữ vào app game, chọn Thông Tin Ứng Dụng -> Dữ liệu -> Xóa Dữ Liệu) Cách 2: Kiểm tra xem wifi đã online 4 acc chưa (Tối đa 4 acc 1 wifi) Cách 3: Đăng nhập vào website chọn thoát kẹt (nếu đăng nhập mà xoay hoài) Cách 4: Nếu bị nhòe map, mất NPC thì xóa dữ liệu đi tải lại dữ liệu mới Cách 5: Nhắn cho admin key vàng box zalo (nếu đã thử cả 4 cách đều không được)
 sai|Hướng Dẫn Fix Lỗi Không Vào Được Game: Cách 1: Kiểm tra xem đúng server chưa (Nếu chưa thì xóa hết bản cũ rồi tải bản mới -> bấm giữ vào app game, chọn Thông Tin Ứng Dụng -> Dữ liệu -> Xóa Dữ Liệu) Cách 2: Kiểm tra xem wifi đã online 4 acc chưa (Tối đa 4 acc 1 wifi) Cách 3: Đăng nhập vào website chọn thoát kẹt (nếu đăng nhập mà xoay hoài) Cách 4: Nếu bị nhòe map, mất NPC thì xóa dữ liệu đi tải lại dữ liệu mới Cách 5: Nhắn cho admin key vàng box zalo (nếu đã thử cả 4 cách đều không được)
 item|item thường và siêu cấp đều mở ra từ capsule kì bí nhé
-item siêu cấp|item thường và siêu cấp đều mở ra từ capsule kì bí nhé
 cnsc|item thường và siêu cấp đều mở ra từ capsule kì bí nhé
 cn|item thường và siêu cấp đều mở ra từ capsule kì bí nhé
 hồn thiên tôn|hồn thiên tôn bạn dùng cuồng nộ siêu cấp và đánh quái cold sẽ rơi
 hồn tướng|hồn thiên tôn bạn dùng cuồng nộ siêu cấp và đánh quái cold sẽ rơi 
- im đi|mày mới phải im đấy
+im đi|mày mới phải im đấy
 dcu bot|dcu mày
 thức ăn|bạn mặc set thần linh rồi up quái cold là rơi
 bot thông minh|ai cũng nói là tôi thông minh mà. cảm ơn bạn! 
@@ -61,11 +60,10 @@ code mới|Khi nào game có giftcode mới sẽ có thông báo nha quý dị
 giftcode|Game hiện đang có giftcode: ngocrong1, ngocrong2, ngocrong3, ngocrong4, ngocrong5, ngocrong6 và zalobox
 code|Game hiện đang có giftcode: ngocrong1, ngocrong2, ngocrong3, ngocrong4, ngocrong5, ngocrong6 và zalobox
 link|Bạn có thể tải game bằng link trên ghim hoặc link này nhé: https://ngocrongvosong.com
-tai game|Bạn có thể tải game bằng link trên ghim hoặc link này nhé: https://ngocrongvosong.com
 tải game|Bạn có thể tải game bằng link trên ghim hoặc link này nhé: https://ngocrongvosong.com
 download|Bạn có thể tải game bằng link trên ghim hoặc link này nhé: https://ngocrongvosong.com
 apk|Link tải bản cho các máy android đây nhé: https://ngocrongvosong.com/download/android
-pc|Link tải bản cho các máy tính PC đây nhé: https://ngocrongvosong.com/download/windows
+pc|Link tải bản cho các máy tính PC đây nhé: https://ngocrongvosong.com/download/windows (Tải về xong bạn chọn chuột phải vào File tải về rồi chọn tiếp ExTract Here để giải nén game ra rồi mới mở game nhé - nếu không chơi game sẽ thấy toàn lỗi đấy )
 iphone|Link tải bản cho các máy iphone đây nhé: https://ngocrongvosong.com/download/iphone
 testflight|Link tải bản cho các máy iphone đây nhé: https://ngocrongvosong.com/download/iphone
 ios|Link tải bản cho các máy iphone đây nhé: https://ngocrongvosong.com/download/iphone
@@ -74,8 +72,8 @@ xoá dl|Bạn mở game lên bấm vào chữ Xoá Dữ Liệu ở góc dưới 
 id|NgocRongNThev:14.225.203.19:14445:0,0,0|231
 ip|NgocRongNThev:14.225.203.19:14445:0,0,0|231
 xdl|Bạn mở game lên bấm vào chữ Xoá Dữ Liệu ở góc dưới rồi mở lại game ( bản máy tính thì giải nén ra rồi chơi )
-bảo trì|Game bảo trì thì các bạn chờ tầm 1 phút là vào được rồi nhé
-btri|Game bảo trì thì các bạn chờ tầm 1 phút là vào được rồi nhé
+bảo trì|Game bảo trì thì các bạn chờ tầm 1 phút là vào được rồi (nếu lâu là đang update hoặc fix lỗi)
+btri|Game bảo trì thì các bạn chờ tầm 1 phút là vào được rồi (nếu lâu là đang update hoặc fix lỗi)
 không vào được game|Bạn vào trang chủ đăng nhập vào rồi bấm thoát kẹt thử nhé
 k vô đc game|Bạn vào trang chủ đăng nhập vào rồi bấm thoát kẹt thử nhé
 Testflight|Link testflight đây nhé bạn https://testflight.apple.com/join/Th8WYECm
@@ -86,7 +84,7 @@ Youtube|Link youtube nè https://youtube.com/@ngocrongonline2501
 nạp tiền|Bạn vào trang chủ rồi nạp tự động rồi vô santa đổi sang hồng ngọc hoặc thỏi vàng nhé https://ngocrongvosong.com (tỷ lệ quy đổi 10k = 20k hồng ngọc, 60k = 10k thỏi vàng)
 nạp|Bạn vào trang chủ rồi nạp tự động rồi vô santa đổi sang hồng ngọc hoặc thỏi vàng nhé https://ngocrongvosong.com (tỷ lệ quy đổi 10k = 20k hồng ngọc, 60k = 10k thỏi vàng)
 donate|Bạn vào trang chủ rồi nạp tự động rồi vô santa đổi sang hồng ngọc hoặc thỏi vàng nhé https://ngocrongvosong.com (tỷ lệ quy đổi 10k = 20k hồng ngọc, 60k = 10k thỏi vàng)
-k dc|Không vào được game bạn vào đây nhé https://ngocrongvosong.com/bai-viet?id=84
+k dc|Không vào được game bạn vào đây nhé https://ngocrongvosong.com/bai-viet?id=141
 mặt trăng|Đã xóa map mặt trăng rồi
 tiên môn|Đã xóa map tiên môn rồi
 câm|mày mới là người phải câm đấy
@@ -104,6 +102,8 @@ ngủ|chúc bạn ngủ ngon
 đồ hạ tôn|bạn xem cách nâng ở hạt mít
 lỗi ước rồng| Bạn tắt game rồi vào lại khu là gọi được
 up đâu|up ngũ hành sơn rồi địa ngục ở Cu Tí ( đi vào gặp Diêm Vương )
+up nhanh|up ngũ hành sơn rồi địa ngục ở Cu Tí ( đi vào gặp Diêm Vương )
+up sm|up ngũ hành sơn rồi địa ngục ở Cu Tí ( đi vào gặp Diêm Vương )
 bán nick|Vui lòng thu hồi tin nhắn, hãy vào box mua bán trên ghim
 mua nick|Vui lòng thu hồi tin nhắn, hãy vào box mua bán trên ghim
 bán acc|Vui lòng thu hồi tin nhắn, hãy vào box mua bán trên ghim
@@ -136,32 +136,39 @@ ngọc rồng siêu cấp|Ngọc rồng siêu cấp chỉ để ước (không �
 nịnh|Nịnh 1 xíu mà được tăng lương cũng tốt nhỉ
 ai đẹp|admin đẹp nhất nhé! Tôi đánh giá khách quan là như thế
 chán|Tại sao bạn lại chán, bắt con gián bỏ vô háng cho đỡ chán
+bot ngủ|Tôi chưa ngủ đâu nhé
 ngủ|Chúc bạn ngủ ngon!
 nrsc|Ngọc rồng siêu cấp chỉ để ước (không ép được)
 alo|Hello anh đẹp trai
 lô|Hello anh đẹp trai
-bot ơi|kêu gì lắm vậy
+bot ơi|kêu gì mà lắm vậy
 chào tôi|Hi! Chào cậu, cho mình làm quen nhé!
 chê bot|Tôi là bản test thôi nên có gì xin thí chủ né ra chỗ khác, đừng để tôi nóng
 Santa|Santa có bán đủ thứ, nạp tiền tự động nữa nhé mọi người
-nm hay td|thích chơi gì chơi, chơi với tôi sẽ vui hơn đấy
+nm td|thích chơi gì chơi, chơi với tôi sẽ vui hơn đấy
 mốc nạp|bạn đăng nhập vô web rồi tự mở mốc nhé
 bot không khôn|ai cũng biết thằng bên trên ngu không khôn mà
 báo thành công|Bạn chụp chỗ Tên server ở chỗ đăng nhập trong game gửi vô đây xem đúng Ngoc Rong Vo Song không, nếu không đúng thì bạn xóa dữ liệu đi nhé mới vào được
 thành công|Bạn chụp chỗ Tên server ở chỗ đăng nhập trong game gửi vô đây xem đúng Ngoc Rong Vo Song không, nếu không đúng thì bạn xóa dữ liệu đi nhé mới vào được
 bot khôn|ai cũng biết rằng tôi khôn mà
+đảo hoa|Đảo hoa ra gặp Quy Lão nhé rồi vô nhé 
 phụ kiện|phụ kiện mua ở santa cho nhanh
 cành tre|Bạn gom đủ 9999 rồi ghép thành cần câu đi câu cá nhé
 xoay mãi|Game xoay mãi bạn vào web đăng nhập rồi thoát kẹt nha
 mất sóng|Game mất sóng không nhập kịp: thì bạn nhập tài khoản trước rồi bấm ok chọn đăng nhập, rồi quay lại nhập mật khẩu là được
 sv mấy| bạn chọn server 1 nhé
 Địt|địt thằng bên trên ấy
+lỗi nạp thẻ|Báo lỗi nạp thì liên hệ người có chìa khoá màu vàng trong box zalo nhé
 đĩ mẹ m|đĩ mẹ m
 test|Server Vừa Mới Open Vẫn Free Hơn Cả Test
 open|Server Vừa Mới Open Vẫn Free Hơn Cả Test
+map sm|up ngũ hành sơn rồi địa ngục ở Cu Tí ( đi vào gặp Diêm Vương )
 mtv|Game free MTV nhé ( tạo acc là kích hoạt sẵn rồi )
 kích hoạt|Game free MTV nhé ( tạo acc là kích hoạt sẵn rồi )
 mất NPC|Bạn xoá dữ liệu rồi tải dữ liệu mới nhé
+làng vamchar|Ra trước làng mori có làng vamchar đó bây
+cộng chỉ số nhanh|Cộng chỉ số nhanh ở ô thứ 2 phần chức năng có nhé
+cộng chỉ số chậm|Đệ không lỗi chỉ số đâu, treo lâu là full nhé
 thấy NPC|Bạn xoá dữ liệu rồi tải dữ liệu mới nhé
 tàn sát|tàn sát bản koioctieu bạn mua máy tự động luyện tập rồi sử dụng rồi bấm góc trên cùng bên trái chọn train quái
 chức năng|Các NPC đều có chỉ chức năng, bạn tới đó đọc nhé
@@ -231,11 +238,10 @@ rep ad|Nhắn cho ad thì chờ đi, ad chưa rep là đang bận. rảnh tay ad
 mưa|trời mưa rồi hả, lo lấy đồ đang phơi vô đi
 đăng ký không được|Đăng ký không được thì chụp vô đây anh em chỉ cho nè
 đăng ký k dc|Đăng ký không được thì chụp vô đây anh em chỉ cho nè
-phiếu giảm giá|phiếu giảm giá bạn săn boss đô rê a mon hoặc liễu thần nhé
+phiếu giảm giá|phiếu giảm giá bạn săn boss đô rê a mon hoặc liễu thần nhé (đổi rương thần tiên ở Vados)
 pgg|phiếu giảm giá bạn săn boss đô rê a mon hoặc liễu thần nhé
 đẹp cc|trời đẹp mà
 đền bù|bù khu chứ bù, chơi game free all còn bù
-bí kíp|Bạn qua núi khỉ vàng gặp goku ssj rồi vào hành tinh yardrat mà up nhé
 đẹp đâu|Tôi thấy đẹp mà
 tối rồi|Trời chỗ bạn tối rồi hả, ở chỗ tôi trời sáng mãi
 lạnh|Bạn cảm thấy lạnh thì hãy đến bên tôi, để tôi đốt lửa lên rồi ta cùng tâm sự nhé
