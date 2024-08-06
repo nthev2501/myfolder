@@ -150,7 +150,7 @@ sv mấy| bạn chọn server 1 nhé
 đĩ mẹ m|đĩ mẹ m
 test|Server Vừa Mới Open Vẫn Free Hơn Cả Test
 open|Server Vừa Mới Open Vẫn Free Hơn Cả Test
-sv| bạn chọn server 1 nhé
+sv| Tên Server Ngoc Rong Vo Song, bạn tải về mở lên không phải tên đó thì xóa dữ liệu tải lại nhé
 mtv|Game free MTV nhé ( tạo acc là kích hoạt sẵn rồi )
 kích hoạt|Game free MTV nhé ( tạo acc là kích hoạt sẵn rồi )
 mất NPC|Bạn xoá dữ liệu rồi tải dữ liệu mới nhé
