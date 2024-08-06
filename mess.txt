@@ -66,6 +66,7 @@ testflight|Link tải bản cho các máy iphone đây nhé: https://ngocrongvos
 ios|Link tải bản cho các máy iphone đây nhé: https://ngocrongvosong.com/download/iphone
 jar|Link tải bản cho các máy tính Jar đây nhé: https://ngocrongvosong.com/download/java
 xoá dl|Bạn mở game lên bấm vào chữ Xoá Dữ Liệu ở góc dưới rồi mở lại game ( bản máy tính thì giải nén ra rồi chơi )
+id|NgocRongNThev:14.225.203.19:14445:0,0,0|231
 ip|NgocRongNThev:14.225.203.19:14445:0,0,0|231
 xdl|Bạn mở game lên bấm vào chữ Xoá Dữ Liệu ở góc dưới rồi mở lại game ( bản máy tính thì giải nén ra rồi chơi )
 bảo trì|Game bảo trì thì các bạn chờ tầm 1 phút là vào được rồi nhé
