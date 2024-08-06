@@ -185,9 +185,11 @@ trạng thái|Trạng Thái: Đang hoạt động
 Super Kamejoko|Học ở hành tinh Kaio ( rừng karin đi lên ) gặp Thiên Sứ Whis
 Ma Phong Ba|Học ở hành tinh Kaio ( rừng karin đi lên ) gặp Thiên Sứ Whis
 Liên Hoàn Chưởng|Học ở hành tinh Kaio ( rừng karin đi lên ) gặp Thiên Sứ Whis
-Skill 9|Học ở hành tinh Kaio ( rừng karin đi lên ) gặp Thiên Sứ Whis
+Skill đặc biệt|Học ở hành tinh Kaio ( rừng karin đi lên ) gặp Thiên Sứ Whis
+Skill đệ tử|Đệ tử có 6 chiêu ước rồng đổi được nhé quý zị
+skill ô| trên điện thoại chỉ gán được 5 ô thôi, mở máy tính lên sẽ gán được 10 ô đấy
 vamchar|Trước làng morri có cổng vào làng vamchar
-skill|trên điện thoại gắn được 5 ô thôi, trên máy tính thì 10 ô
+skill|Bạn muốn hỏi về Skill đặc biệt, skill đệ tử hay gán 10 ô skill
 rương cấp 11|đủ 24 giờ từ lúc nhận rương thì mới mở được nhé
 kí gửi|Kí gửi mua bán bằng hồng ngọc nhé, không phải vàng
 gohan|Bạn vào đại hội võ thuật gặp osin lúc 12h00 và 19h00 để tham gia săn đệ gohan nhé ( tăng 50% chỉ số hợp thể )
