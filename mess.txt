@@ -52,16 +52,16 @@ hồn lính|hồn hạ tôn bạn dùng cuồng nộ thường và đánh quái 
 code mới|Khi nào game có giftcode mới sẽ có thông báo nha quý dị
 giftcode|Game hiện đang có giftcode: ngocrong1, ngocrong2, ngocrong3, ngocrong4, ngocrong5, ngocrong6 và zalobox
 code|Game hiện đang có giftcode: ngocrong1, ngocrong2, ngocrong3, ngocrong4, ngocrong5, ngocrong6 và zalobox
-link|Bạn có thể tải game bằng link trên ghim hoặc link này nhé: https://ngocrongnthev.com
-tai game|Bạn có thể tải game bằng link trên ghim hoặc link này nhé: https://ngocrongnthev.com
-tải game|Bạn có thể tải game bằng link trên ghim hoặc link này nhé: https://ngocrongnthev.com
-download|Bạn có thể tải game bằng link trên ghim hoặc link này nhé: https://ngocrongnthev.com
-apk|Link tải bản cho các máy android đây nhé: https://ngocrongnthev.com/download/android
-pc|Link tải bản cho các máy tính PC đây nhé: https://ngocrongnthev.com/download/windows
-iphone|Link tải bản cho các máy iphone đây nhé: https://ngocrongnthev.com/download/iphone
-testflight|Link tải bản cho các máy iphone đây nhé: https://ngocrongnthev.com/download/iphone
-ios|Link tải bản cho các máy iphone đây nhé: https://ngocrongnthev.com/download/iphone
-jar|Link tải bản cho các máy tính Jar đây nhé: https://ngocrongnthev.com/download/java
+link|Bạn có thể tải game bằng link trên ghim hoặc link này nhé: https://ngocrongvosong.com
+tai game|Bạn có thể tải game bằng link trên ghim hoặc link này nhé: https://ngocrongvosong.com
+tải game|Bạn có thể tải game bằng link trên ghim hoặc link này nhé: https://ngocrongvosong.com
+download|Bạn có thể tải game bằng link trên ghim hoặc link này nhé: https://ngocrongvosong.com
+apk|Link tải bản cho các máy android đây nhé: https://ngocrongvosong.com/download/android
+pc|Link tải bản cho các máy tính PC đây nhé: https://ngocrongvosong.com/download/windows
+iphone|Link tải bản cho các máy iphone đây nhé: https://ngocrongvosong.com/download/iphone
+testflight|Link tải bản cho các máy iphone đây nhé: https://ngocrongvosong.com/download/iphone
+ios|Link tải bản cho các máy iphone đây nhé: https://ngocrongvosong.com/download/iphone
+jar|Link tải bản cho các máy tính Jar đây nhé: https://ngocrongvosong.com/download/java
 xoá dl|Bạn mở game lên bấm vào chữ Xoá Dữ Liệu ở góc dưới rồi mở lại game ( bản máy tính thì giải nén ra rồi chơi )
 ip|NgocRongNThev:14.225.203.19:14445:0,0,0|231
 xdl|Bạn mở game lên bấm vào chữ Xoá Dữ Liệu ở góc dưới rồi mở lại game ( bản máy tính thì giải nén ra rồi chơi )
@@ -74,10 +74,10 @@ Appcenter|Link appcenter đây nhé https://s.net.vn/abze
 Fanpage|Link fanpage nè https://www.facebook.com/ngocrongnthevmax
 Tiktok|Link tiktok nè https://www.tiktok.com/@megameonline2024
 Youtube|Link youtube nè https://youtube.com/@ngocrongonline2501
-nạp tiền|Bạn vào trang chủ rồi nạp tự động rồi vô santa đổi sang hồng ngọc hoặc thỏi vàng nhé https://ngocrongnthev.com (tỷ lệ quy đổi 10k = 20k hồng ngọc, 60k = 10k thỏi vàng)
-nạp|Bạn vào trang chủ rồi nạp tự động rồi vô santa đổi sang hồng ngọc hoặc thỏi vàng nhé https://ngocrongnthev.com (tỷ lệ quy đổi 10k = 20k hồng ngọc, 60k = 10k thỏi vàng)
-donate|Bạn vào trang chủ rồi nạp tự động rồi vô santa đổi sang hồng ngọc hoặc thỏi vàng nhé https://ngocrongnthev.com (tỷ lệ quy đổi 10k = 20k hồng ngọc, 60k = 10k thỏi vàng)
-k dc|Không vào được game bạn vào đây nhé https://ngocrongnthev.com/bai-viet?id=84
+nạp tiền|Bạn vào trang chủ rồi nạp tự động rồi vô santa đổi sang hồng ngọc hoặc thỏi vàng nhé https://ngocrongvosong.com (tỷ lệ quy đổi 10k = 20k hồng ngọc, 60k = 10k thỏi vàng)
+nạp|Bạn vào trang chủ rồi nạp tự động rồi vô santa đổi sang hồng ngọc hoặc thỏi vàng nhé https://ngocrongvosong.com (tỷ lệ quy đổi 10k = 20k hồng ngọc, 60k = 10k thỏi vàng)
+donate|Bạn vào trang chủ rồi nạp tự động rồi vô santa đổi sang hồng ngọc hoặc thỏi vàng nhé https://ngocrongvosong.com (tỷ lệ quy đổi 10k = 20k hồng ngọc, 60k = 10k thỏi vàng)
+k dc|Không vào được game bạn vào đây nhé https://ngocrongvosong.com/bai-viet?id=84
 mặt trăng|Đã xóa map mặt trăng rồi
 tiên môn|Đã xóa map tiên môn rồi
 câm|mày mới là người phải câm đấy
@@ -252,7 +252,7 @@ Rương thiên tôn|Các rương đồ ở santa đều được chọn loại v
 mảnh sưu tầm|Mảnh sưu tầm quái nào bạn train quái đó là rơi
 bot fifai|Tôi đâu có biết bắn fifai, tôi chỉ biến bắn tim thôi. Bằng chíu chíu chíu
 bot liên quân|Tôi đâu có biết chơi liên quân. Bạn có thể chỉ tôi không?
-đăng ký|bạn đăng ký tài khoản tại đây nhé https://ngocrongnthev.com/dang-ky
+đăng ký|bạn đăng ký tài khoản tại đây nhé https://ngocrongvosong.com/dang-ky
 dk k dc|Đăng ký không được thì chụp vô đây anh em chỉ cho nè
 Max sdg|HP KI 780K SD 40K nhé
 chờ duyệt|Bài chờ duyệt vẫn tính (yêu cầu chụp lại bài chờ duyệt)
