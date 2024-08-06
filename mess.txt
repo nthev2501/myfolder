@@ -26,10 +26,10 @@ ai lấy|Cho tui, cho tui đi
 kiếm dhd|đồ thiên sứ nâng ở hạt mít (có hướng dẫn)
 kiếm dts|đồ thiên sứ nâng ở hạt mít (có hướng dẫn)
 bịp|thằng bên trên mới bịp nhé
-cái gì|muốn biết cái gì thì xóa dữ liệu tải lại là biết chứ sao t biết
-update|muốn biết cái gì thì xóa dữ liệu tải lại là biết chứ sao t biết
-cái j|muốn biết cái gì thì xóa dữ liệu tải lại là biết chứ sao t biết
-gì đây|muốn biết cái gì thì xóa dữ liệu tải lại là biết chứ sao t biết
+cái gì|Có nhiều thứ tôi chưa được biết đến, bạn cứ gửi vào nhóm đi mọi người sẽ giúp đỡ bạn nhé
+update|Có nhiều thứ tôi chưa được biết đến, bạn cứ gửi vào nhóm đi mọi người sẽ giúp đỡ bạn nhé
+cái j|Có nhiều thứ tôi chưa được biết đến, bạn cứ gửi vào nhóm đi mọi người sẽ giúp đỡ bạn nhé
+gì đây|Có nhiều thứ tôi chưa được biết đến, bạn cứ gửi vào nhóm đi mọi người sẽ giúp đỡ bạn nhé
 lỗi|Hướng Dẫn Fix Lỗi Không Vào Được Game: Cách 1: Kiểm tra xem đúng server chưa (Nếu chưa thì xóa hết bản cũ rồi tải bản mới -> bấm giữ vào app game, chọn Thông Tin Ứng Dụng -> Dữ liệu -> Xóa Dữ Liệu) Cách 2: Kiểm tra xem wifi đã online 4 acc chưa (Tối đa 4 acc 1 wifi) Cách 3: Đăng nhập vào website chọn thoát kẹt (nếu đăng nhập mà xoay hoài) Cách 4: Nếu bị nhòe map, mất NPC thì xóa dữ liệu đi tải lại dữ liệu mới Cách 5: Nhắn cho admin key vàng box zalo (nếu đã thử cả 4 cách đều không được)
 tk mk|Hướng Dẫn Fix Lỗi Không Vào Được Game: Cách 1: Kiểm tra xem đúng server chưa (Nếu chưa thì xóa hết bản cũ rồi tải bản mới -> bấm giữ vào app game, chọn Thông Tin Ứng Dụng -> Dữ liệu -> Xóa Dữ Liệu) Cách 2: Kiểm tra xem wifi đã online 4 acc chưa (Tối đa 4 acc 1 wifi) Cách 3: Đăng nhập vào website chọn thoát kẹt (nếu đăng nhập mà xoay hoài) Cách 4: Nếu bị nhòe map, mất NPC thì xóa dữ liệu đi tải lại dữ liệu mới Cách 5: Nhắn cho admin key vàng box zalo (nếu đã thử cả 4 cách đều không được)
 chính xác|Hướng Dẫn Fix Lỗi Không Vào Được Game: Cách 1: Kiểm tra xem đúng server chưa (Nếu chưa thì xóa hết bản cũ rồi tải bản mới -> bấm giữ vào app game, chọn Thông Tin Ứng Dụng -> Dữ liệu -> Xóa Dữ Liệu) Cách 2: Kiểm tra xem wifi đã online 4 acc chưa (Tối đa 4 acc 1 wifi) Cách 3: Đăng nhập vào website chọn thoát kẹt (nếu đăng nhập mà xoay hoài) Cách 4: Nếu bị nhòe map, mất NPC thì xóa dữ liệu đi tải lại dữ liệu mới Cách 5: Nhắn cho admin key vàng box zalo (nếu đã thử cả 4 cách đều không được)
