@@ -176,6 +176,7 @@ ad ơi|Admin là key vàng ở box zalo nhé (Bạn bấm vào thành viên cộ
 nv khó quá|Game nào cũng có nhiệm vụ dễ nhiệm vụ khó mới là game, dễ quá thì ai cũng qua sẽ đâm ra chán. Nên hãy cứ đam mê đi!
 đồ ts|Đồ thiên sứ thì lấy mảnh thiên sứ rơi ở ngục tù rồi đem ra hạt mít chế tạo
 max cs|HP KI 780K SD 40K nhé
+ad giàu|ad không có tiền mua sịp mặc nữa chứ giàu
 tiền chưa vào|nạp tiền chưa cộng thì chờ 3-5phut chưa cộng thì liên hệ key vàng
 max chi so|HP KI 780K SD 40K
 chi so max|HP KI 780K SD 40K
@@ -189,12 +190,12 @@ skill|trên điện thoại gắn được 5 ô thôi, trên máy tính thì 10 
 rương cấp 11|đủ 24 giờ từ lúc nhận rương thì mới mở được nhé
 kí gửi|Kí gửi mua bán bằng hồng ngọc nhé, không phải vàng
 gohan|Bạn vào đại hội võ thuật gặp osin lúc 12h00 và 19h00 để tham gia săn đệ gohan nhé ( tăng 50% chỉ số hợp thể )
-danh hiệu|Danh hiệu từ lúc nhận đã tăng sẵn chỉ số (lỡ làm mất danh hiệu thì chỉ số vẫn được cộng) ở Thần Mèo Karin nhé
+danh hiệu|Danh hiệu từ lúc nhận đã tăng sẵn chỉ số (lỡ làm mất danh hiệu thì chỉ số vẫn được cộng) ở Thần Mèo Karin trong rừng karin nhé chỗ Bò Mộng
 trái thần long|Bạn mua đất + cây cuốc rồi săn boss đủ 30 điểm sẽ trồng được cây thần long, thu hoạch trái thần long ăn vào tăng chỉ số ( đặc biệt không bị ảnh hưởng với sức mạnh chí tôn )
 mảnh đất|Bạn mua đất + cây cuốc rồi săn boss đủ 30 điểm sẽ trồng được cây thần long, thu hoạch trái thần long ăn vào tăng chỉ số ( đặc biệt không bị ảnh hưởng với sức mạnh chí tôn )
 cây cuốc|Bạn mua đất + cây cuốc rồi săn boss đủ 30 điểm sẽ trồng được cây thần long, thu hoạch trái thần long ăn vào tăng chỉ số ( đặc biệt không bị ảnh hưởng với sức mạnh chí tôn )
 nông trại|Bạn mua đất + cây cuốc rồi săn boss đủ 30 điểm sẽ trồng được cây thần long, thu hoạch trái thần long ăn vào tăng chỉ số ( đặc biệt không bị ảnh hưởng với sức mạnh chí tôn )
-trứng bư|bạn về nhà bấm nút tìm mabu sau đó tiêu diệt sẽ nhận được trứng bư 
+trứng bư|bạn có thể ra đảo kame tìm mabu sau đó tiêu diệt sẽ nhận được trứng bư 
 mảnh ts|mảnh thiên sứ up ở hành tinh ngục tù
 max sm|max sức mạnh là 300 tỷ nhé, max chỉ số 780k và 40k
 bot ơi|hỏi gì cứ hỏi đi? (liên quan đến vật phẩm hay gì cứ hỏi - không viết tắt - đúng chính tả)
@@ -208,8 +209,7 @@ tàu pảy pảy|tàu pảy pảy xuất hiện ở Rừng karin, tiêu diệt h
 auto chỉ số|Auto cộng chỉ số ở ô thứ 2 ở phần chức năng sẽ có auto cộng siêu nhanh
 ok bot|Dạ anh yêu
 cảm ơn bot|Dạ không có gì đâu anh yêu! Nhiệm vụ của em mà
-mấy đệ|có 4 loại đệ : thường (0%), mabu (30%) - săn ma bư ở nhà, gohan (50%) săn bư 12h00 và 19h00 ở đại hội võ thuật, itachi (70%) cày hồng ngọc rồi mua ở santa. (tăng chỉ số hợp thể)
-loại đệ|có 4 loại đệ : thường (0%), mabu (30%) - săn ma bư ở nhà, gohan (50%) săn bư 12h00 và 19h00 ở đại hội võ thuật, itachi (70%) cày hồng ngọc rồi mua ở santa. (tăng chỉ số hợp thể)
+đệ|có 4 loại đệ : thường (0%), mabu (30%) - săn ma bư ở nhà, gohan (50%) săn bư 12h00 và 19h00 ở đại hội võ thuật, itachi (70%) cày hồng ngọc rồi mua ở santa. (tăng chỉ số hợp thể)
 ký gửi|Kí gửi mua bán bằng hồng ngọc nhé, không phải vàng
 Vòng quay thượng đế|Vòng quay thượng đế quay tốn hồng ngọc (chưa thêm vật phẩm đặc biệt)
 cskb|Bạn thu thập xu ở ngũ hành sơn xong qua tương lai đổi máy dò rồi đi up capsule kì bí nhé
