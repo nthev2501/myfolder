@@ -111,7 +111,8 @@ mua acc|Vui lòng thu hồi tin nhắn, hãy vào box mua bán trên ghim
 chiến thần|chiến thần là đệ tử thứ 2 tăng sức mạnh cực mạnh, mua trứng ở chỗ Quy lão rồi vào đảo hoa nhé
 calich| ở đầu rừng bambo
 mảnh ấn|bạn tiêu diệt boss ở Hành tinh ngục tù nhé
-ghsm| bạn mở ghsm ở vách mori nhé
+ghsm| bạn mở ghsm ở vách mori nhé (max 780k 40k 300 tỷ sm)
+giới hạn sức mạnh|bạn mở ghsm ở vách mori nhé (max 780k 40k 300 tỷ sm)
 mấy sao|trang bị thường 10 sao và trang bị vip 12 sao (cày có hết)
 level|trang bị thường 9 cấp và trang bị vip 10 cấp (cày có hết)
 tăng tốc game| chỗ thông báo ở phần chức năng có đầy đủ lệnh auto mod
@@ -272,7 +273,8 @@ mảnh sưu tầm|Mảnh sưu tầm quái nào bạn train quái đó là rơi
 bot fifai|Tôi đâu có biết bắn fifai, tôi chỉ biến bắn tim thôi. Bằng chíu chíu chíu
 bot liên quân|Tôi đâu có biết chơi liên quân. Bạn có thể chỉ tôi không?
 đăng ký|bạn đăng ký tài khoản tại đây nhé https://ngocrongvosong.com/dang-ky
-dk k dc|Đăng ký không được thì chụp vô đây anh em chỉ cho nè
+dky|Đăng ký không được thì chụp vô đây anh em chỉ cho nè
+dk|Đăng ký không được thì chụp vô đây anh em chỉ cho nè
 Max sdg|HP KI 780K SD 40K nhé
 chờ duyệt|Bài chờ duyệt vẫn tính (yêu cầu chụp lại bài chờ duyệt)
 đồ thiên sứ|Đồ thiên sứ nâng ở hạt mít đảo kame (đọc nguyên liệu ở đó)
