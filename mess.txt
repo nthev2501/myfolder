@@ -25,6 +25,7 @@ tđst|Tiểu đội sát thủ chỉ xuất hiện ở Núi khỉ đỏ (khung g
 xử lí|đăng nhập game mà xoay vòng vòng thì đăng nhập vào web chọn thoát kẹt ( tắt bản game trước khi vào web )
 ai lấy|Cho tui, cho tui đi
 dọc|IPhone bị màn hình dọc bạn: Bạn tắt cái khóa xoay màn hình đi. xong tắt game mở lên lại. xoay ngang trước khi mở nhé
+màn hình|IPhone bị màn hình dọc bạn: Bạn tắt cái khóa xoay màn hình đi. xong tắt game mở lên lại. xoay ngang trước khi mở nhé
 kiếm dhd|đồ thiên sứ nâng ở hạt mít (có hướng dẫn)
 kiếm dts|đồ thiên sứ nâng ở hạt mít (có hướng dẫn)
 bịp|thằng bên trên mới bịp nhé
