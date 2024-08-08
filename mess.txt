@@ -1,8 +1,8 @@
 hồng ngọc|hồng ngọc săn boss, up quái cold, hiến tế đồ thần linh, nạp thẻ 
 thỏi vàng|thỏi vàng làm nhiệm vụ hàng ngày ở bò mộng, hộ tống ở quy lão, nạp thẻ
 vàng|vàng và ngọc xanh nhận miễn phí ở nhà
-hngoc|hồng ngọc săn boss, up quái cold, hiến tế đồ thần linh, nạp thẻ - thỏi vàng làm nhiệm vụ hàng ngày ở bò mộng, hộ tống ở quy lão, nạp thẻ - vàng và ngọc xanh nhận miễn phí ở nhà
-hn|hồng ngọc săn boss, up quái cold, hiến tế đồ thần linh, nạp thẻ - thỏi vàng làm nhiệm vụ hàng ngày ở bò mộng, hộ tống ở quy lão, nạp thẻ - vàng và ngọc xanh nhận miễn phí ở nhà
+hngoc|hồng ngọc săn boss, up quái cold, hiến tế đồ thần linh, nạp thẻ
+hn|hồng ngọc săn boss, up quái cold, hiến tế đồ thần linh, nạp thẻ
 dcu bot|dcu mày
 bò mộng|Bò mộng ở Rừng karin có giao nhiệm vụ hàng ngày nhận được thỏi vàng, cày chân mệnh chí tôn ở đó luôn nhé. 1000 điểm lên 1 level chân mệnh đó 
 auto cộng|Auto nâng chỉ số ở ô thứ 2 phần chức năng nhé
@@ -33,11 +33,11 @@ thơm|Thơm quá đi, cho hưởng ké xíu
 nút di chuyển|Nút di chuyển bạn bấm vào nút tam giác bên tay trái rồi vào phần Chức Năng, chọn Cấu Hình, rồi chọn Bàn Phím Ảo nhé
 fide|boss fide 10 phút 1 đợt (xuất hiện tại núi khỉ vàng)
 thỏi vàng|hồng ngọc săn boss, up quái cold, hiến tế đồ thần linh, nạp thẻ - thỏi vàng làm nhiệm vụ hàng ngày ở bò mộng, hộ tống ở quy lão, nạp thẻ - vàng và ngọc xanh nhận miễn phí ở nhà
-tvang|hồng ngọc săn boss, up quái cold, hiến tế đồ thần linh, nạp thẻ 
-tv|thỏi vàng làm nhiệm vụ hàng ngày ở bò mộng, hộ tống ở quy lão, nạp thẻ - vàng và ngọc xanh nhận miễn phí ở nhà
+tvang|thỏi vàng làm nhiệm vụ hàng ngày ở bò mộng, hộ tống ở quy lão, nạp thẻ 
+tv|thỏi vàng làm nhiệm vụ hàng ngày ở bò mộng, hộ tống ở quy lão, nạp thẻ 
 mảnh thiên sứ|mảnh thiên sứ up ở hành tinh ngục tù
 đăng nhập|đăng nhập game mà xoay vòng vòng thì đăng nhập vào web chọn thoát kẹt ( tắt bản game trước khi vào web )
-mts|mảnh thiên sứ up ở hành tinh ngục tù
+mts|mảnh thiên sứ up ở hành tinh ngục tùf ip
 Tiểu đội sát thủ|Tiểu đội sát thủ chỉ xuất hiện ở Núi khỉ đỏ (khung giờ hỗ trợ là 9h-12h sáng và tối ai trong nhiệm vụ mới vào được + boss giới hạn sát thương 30tr để hỗ trợ) (Thời gian 10 phút 1 đợt)
 tdst|Tiểu đội sát thủ chỉ xuất hiện ở Núi khỉ đỏ (khung giờ hỗ trợ là 9h-12h sáng và tối ai trong nhiệm vụ mới vào được + boss giới hạn sát thương 30tr để hỗ trợ) (Thời gian 10 phút 1 đợt)
 số 4|Tiểu đội sát thủ chỉ xuất hiện ở Núi khỉ đỏ (khung giờ hỗ trợ là 9h-12h sáng và tối ai trong nhiệm vụ mới vào được + boss giới hạn sát thương 30tr để hỗ trợ) (Thời gian 10 phút 1 đợt)
@@ -88,7 +88,6 @@ bảo trì|Game bảo trì thì các bạn chờ tầm 1 phút là vào được
 btri|Game bảo trì thì các bạn chờ tầm 1 phút là vào được rồi (nếu lâu là đang update hoặc fix lỗi)
 không vào được game|Bạn vào trang chủ đăng nhập vào rồi bấm thoát kẹt thử nhé
 k vô đc game|Bạn vào trang chủ đăng nhập vào rồi bấm thoát kẹt thử nhé
-Testflight|Link testflight đây nhé bạn https://testflight.apple.com/join/Th8WYECm
 Appcenter|Link appcenter đây nhé https://s.net.vn/abze
 Fanpage|Link fanpage nè https://www.facebook.com/ngocrongnthevmax
 Tiktok|Link tiktok nè https://www.tiktok.com/@megameonline2024
@@ -113,9 +112,7 @@ ngủ|chúc bạn ngủ ngon
 đồ nào mạnh|đồ thiên tôn mạnh nhất, bạn cày phiếu giảm giá ở doraemon rồi đổi ở quy lão rồi nâng ở hạt mót hoặc nạp mua cho nhanh
 đồ hạ tôn|bạn xem cách nâng ở hạt mít
 lỗi ước rồng| Bạn tắt game rồi vào lại khu là gọi được
-up đâu|up ngũ hành sơn rồi địa ngục ở Cu Tí ( đi vào gặp Diêm Vương )
-up nhanh|up ngũ hành sơn rồi địa ngục ở Cu Tí ( đi vào gặp Diêm Vương )
-up sm|up ngũ hành sơn rồi địa ngục ở Cu Tí ( đi vào gặp Diêm Vương )
+up|up ngũ hành sơn rồi địa ngục ở Cu Tí ( đi vào gặp Diêm Vương )
 bán nick|Vui lòng thu hồi tin nhắn, hãy vào box mua bán trên ghim
 mua nick|Vui lòng thu hồi tin nhắn, hãy vào box mua bán trên ghim
 bán acc|Vui lòng thu hồi tin nhắn, hãy vào box mua bán trên ghim
