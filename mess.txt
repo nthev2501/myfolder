@@ -234,6 +234,8 @@ nông trại|Bạn mua đất + cây cuốc rồi săn boss đủ 30 điểm s�
 trứng bư|bạn có thể ra đảo kame tìm mabu sau đó tiêu diệt sẽ nhận được trứng bư 
 mảnh ts|mảnh thiên sứ up ở hành tinh ngục tù
 max sm|max sức mạnh là 300 tỷ nhé, max chỉ số 780k và 40k
+sdg|max sức mạnh là 300 tỷ nhé, max chỉ số 780k và 40k
+hpg|max sức mạnh là 300 tỷ nhé, max chỉ số 780k và 40k
 bot ơi|hỏi gì cứ hỏi đi? (liên quan đến vật phẩm hay gì cứ hỏi - không viết tắt - đúng chính tả)
 bot rep|hỏi gì cứ hỏi đi? (liên quan đến vật phẩm hay gì cứ hỏi - không viết tắt - đúng chính tả)
 bot trả lời|hỏi gì cứ hỏi đi? (liên quan đến vật phẩm hay gì cứ hỏi - không viết tắt - đúng chính tả)
