@@ -19,6 +19,11 @@ nhoè màn hình|nhoè màn hình, tình trạng này bạn nên tắt game mở
 lag khi đăng nhập bị xoay|lag khi đăng nhập bị xoay, tình trạng này bạn tắt game và vào trang chủ, đăng nhập vào và bấm nút thoát kẹt sẽ vào được game
 lag khi đã vào game|lag khi đã vào game, tình trạng này bạn thử thoát game vào lại, nếu không khắc phục được có thể nhắn cho admin
 game giật giật|Tình trạng game giật giật là do FPS máy bạn bị tụt thấp, nếu bạn sài bản Vũ Đăng hãy chọn cấu hình cao (đừng chọn cấu hình thấp)
+k vô dc|Bạn cung cấp về tình trạng của bạn: [game giật giật], [lag khi đã vào game], [lag khi đăng nhập bị xoay], [nhoè màn hình], [tốc độ chậm]. Các lag khác bạn quay video hoặc ảnh gửi vào box để mọi người hỗ trợ
+k vào dc|Bạn cung cấp về tình trạng của bạn: [game giật giật], [lag khi đã vào game], [lag khi đăng nhập bị xoay], [nhoè màn hình], [tốc độ chậm]. Các lag khác bạn quay video hoặc ảnh gửi vào box để mọi người hỗ trợ
+không vào được|Bạn cung cấp về tình trạng của bạn: [game giật giật], [lag khi đã vào game], [lag khi đăng nhập bị xoay], [nhoè màn hình], [tốc độ chậm]. Các lag khác bạn quay video hoặc ảnh gửi vào box để mọi người hỗ trợ
+k vô được|Bạn cung cấp về tình trạng của bạn: [game giật giật], [lag khi đã vào game], [lag khi đăng nhập bị xoay], [nhoè màn hình], [tốc độ chậm]. Các lag khác bạn quay video hoặc ảnh gửi vào box để mọi người hỗ trợ
+k vào được|Bạn cung cấp về tình trạng của bạn: [game giật giật], [lag khi đã vào game], [lag khi đăng nhập bị xoay], [nhoè màn hình], [tốc độ chậm]. Các lag khác bạn quay video hoặc ảnh gửi vào box để mọi người hỗ trợ
 lag|Bạn cung cấp về tình trạng của bạn: [game giật giật], [lag khi đã vào game], [lag khi đăng nhập bị xoay], [nhoè màn hình], [tốc độ chậm]. Các lag khác bạn quay video hoặc ảnh gửi vào box để mọi người hỗ trợ
 lỗi|Bạn đang gặp lỗi gì? [không vào được game] hay [không thấy npc] ? Lỗi khác thì bạn quay video hoặc hình ảnh rồi gửi vào box để mọi người hỗ trợ bạn nha!
 không vào được game|Bạn không vào được game ở [nick mới] hay [nick cũ] ?
@@ -107,6 +112,70 @@ Youtube|Link youtube nè https://youtube.com/@ngocrongonline2501
 nạp tiền|Bạn vào trang chủ rồi nạp tự động rồi vô santa đổi sang hồng ngọc hoặc thỏi vàng nhé (tỷ lệ quy đổi 10k = 20k hồng ngọc, 60k = 10k thỏi vàng)
 nạp|Bạn vào trang chủ rồi nạp tự động rồi vô santa đổi sang hồng ngọc hoặc thỏi vàng nhé (tỷ lệ quy đổi 10k = 20k hồng ngọc, 60k = 10k thỏi vàng)
 donate|Bạn vào trang chủ rồi nạp tự động rồi vô santa đổi sang hồng ngọc hoặc thỏi vàng nhé (tỷ lệ quy đổi 10k = 20k hồng ngọc, 60k = 10k thỏi vàng)
+code mới|Khi nào game có giftcode mới sẽ có thông báo nha quý dị
+đồ thần linh|đồ thần bạn săn boss hoặc up cold nhé
+đồ tl|đồ thần bạn săn boss hoặc up cold nhé
+hỗ trợ|khung giờ hỗ trợ nhiệm vụ 9-12h sáng tối
+ho tro nv|khung giờ hỗ trợ nhiệm vụ 9-12h sáng tối
+bán nick|Vui lòng thu hồi tin nhắn, hãy vào box mua bán trên ghim
+mua nick|Vui lòng thu hồi tin nhắn, hãy vào box mua bán trên ghim
+bán acc|Vui lòng thu hồi tin nhắn, hãy vào box mua bán trên ghim
+bay acc|Vui lòng thu hồi tin nhắn, hãy vào box mua bán trên ghim
+bay nick|Vui lòng thu hồi tin nhắn, hãy vào box mua bán trên ghim
+bán nick|Vui lòng thu hồi tin nhắn, hãy vào box mua bán trên ghim
+chiến thần|chiến thần là đệ tử thứ 2 tăng sức mạnh cực mạnh, mua trứng ở chỗ Quy lão rồi vào đảo hoa nhé
+calich| ở đầu rừng bambo
+Đồ vip|Trang bị kích hoạt vip nâng ở Thiên Sứ whis đảo kame (xem nguyên liệu ở đó luôn nhé)
+trang bị vip|Trang bị kích hoạt vip nâng ở Thiên Sứ whis đảo kame (xem nguyên liệu ở đó luôn nhé)
+mảnh ấn|bạn tiêu diệt boss ở Hành tinh ngục tù nhé
+ghsm| bạn mở ghsm ở vách mori nhé (max 780k 40k 300 tỷ sm)
+mấy sao|trang bị thường 10 sao và trang bị vip 12 sao (cày có hết)
+level|trang bị thường 9 cấp và trang bị vip 10 cấp (cày có hết)
+pt|ai có bang cho nó vô bang đi kìa
+cày chay|Mèo méo meo mèo meo...mlem..mlem
+đá quý|đá quý săn tiểu đội đường tăng hoặc đi khí gas ở làng aru nhé
+dbv|đá bảo vệ bạn đi doanh trại rơi đầy
+khuyến mãi|Game khuyến mãi nạp thẻ tối đa 30% chứ không có quá nha mọi người
+km nạp|Game khuyến mãi nạp thẻ tối đa 30% chứ không có quá nha mọi người
+đổi|Hôm nay trời đẹp thế nhỉ?
+đá bảo vệ|đá bảo vệ bạn đi doanh trại rơi đầy
+ngọc rồng siêu cấp|Ngọc rồng siêu cấp chỉ để ước (không ép được) (ước được gì thì ước đi rồi biết chứ tôi biết đâu)
+ai đẹp|admin đẹp nhất nhé! Tôi đánh giá khách quan là như thế
+chán|Tại sao bạn lại chán, bắt con gián bỏ vô háng cho đỡ chán
+bot ngủ|Tôi chưa ngủ đâu nhé
+ngủ|Chúc bạn ngủ ngon!
+nrsc|Ngọc rồng siêu cấp chỉ để ước (không ép được) (ước được gì thì ước đi rồi biết chứ tôi biết đâu)
+alo|Hello anh đẹp trai
+lô|Hello anh đẹp trai
+bot ơi|kêu gì mà lắm vậy
+chào tôi|Hi! Chào cậu, cho mình làm quen nhé!
+chê bot|Tôi là bản test thôi nên có gì xin thí chủ né ra chỗ khác, đừng để tôi nóng
+Santa|Santa có bán đủ thứ, nạp tiền tự động nữa nhé mọi người
+nm td|thích chơi gì chơi, chơi với tôi sẽ vui hơn đấy
+mốc nạp|bạn đăng nhập vô web rồi tự mở mốc nhé
+bot không khôn|ai cũng biết thằng bên trên ngu không khôn mà
+báo thành công|Bạn chụp chỗ Tên server ở chỗ đăng nhập trong game gửi vô đây xem đúng Ngoc Rong Vo Song không, nếu không đúng thì bạn xóa dữ liệu đi nhé mới vào được
+thành công|Bạn chụp chỗ Tên server ở chỗ đăng nhập trong game gửi vô đây xem đúng Ngoc Rong Vo Song không, nếu không đúng thì bạn xóa dữ liệu đi nhé mới vào được
+bot khôn|ai cũng biết rằng tôi khôn mà
+còn sống không|Tôi vẫn còn sống đây, tôi đứng đây chờ bạn từ chiều
+phụ kiện|phụ kiện mua ở santa cho nhanh
+cành tre|Bạn gom đủ 9999 rồi ghép thành cần câu đi câu cá nhé
+sv mấy| bạn chọn server 1 nhé
+test|Server Vừa Mới Open Vẫn Free Hơn Cả Test
+open|Server Vừa Mới Open Vẫn Free Hơn Cả Test
+op|Server Vừa Mới Open Vẫn Free Hơn Cả Test
+mtv|Game free MTV nhé ( tạo acc là kích hoạt sẵn rồi )
+kích hoạt vip|Trang bị kích hoạt vip nâng ở Thiên Sứ whis đảo kame (xem nguyên liệu ở đó luôn nhé)
+kích hoạt|Game free MTV nhé ( tạo acc là kích hoạt sẵn rồi )
+tàn sát|tàn sát bản koioctieu bạn mua máy tự động luyện tập rồi sử dụng rồi bấm góc trên cùng bên trái chọn train quái
+chức năng|Các NPC đều có chỉ chức năng, bạn tới đó đọc nhé
+tỷ lệ nạp|Quy đổi ở santa có tỷ lệ bạn ra xem nhé
+tỉ lệ nạp|tỉ lệ nạp bạn xem ở santa nhé ( rồi vô website nạp nhé )
+
+
+
+
+
 
 
 
@@ -160,91 +229,23 @@ im đi|mày mới phải im đấy
 dcu bot|dcu mày
 
 bot thông minh|ai cũng nói là tôi thông minh mà. cảm ơn bạn! 
-code mới|Khi nào game có giftcode mới sẽ có thông báo nha quý dị
 
-xoá dl|Bạn mở game lên bấm vào chữ Xoá Dữ Liệu ở góc dưới rồi mở lại game ( bản máy tính thì giải nén ra rồi chơi )
 
-xdl|Bạn mở game lên bấm vào chữ Xoá Dữ Liệu ở góc dưới rồi mở lại game ( bản máy tính thì giải nén ra rồi chơi )
-bảo trì|Server rất ít bảo trì (nên bạn hãy kiểm tra lại mạng các thứ )
-btri|Server rất ít bảo trì (nên bạn hãy kiểm tra lại mạng các thứ )
-không vào được game|Bạn vào trang chủ đăng nhập vào rồi bấm thoát kẹt thử nhé
-k vô đc game|Bạn vào trang chủ đăng nhập vào rồi bấm thoát kẹt thử nhé
-
-k dc|Không vào được game bạn vào đây nhé https://ngocrongvosong.com/bai-viet?id=141
-mặt trăng|Đã xóa map mặt trăng rồi
-tiên môn|Đã xóa map tiên môn rồi
 câm|mày mới là người phải câm đấy
-đồ thần linh|đồ thần bạn săn boss hoặc up cold nhé
-đồ tl|đồ thần bạn săn boss hoặc up cold nhé
-hỗ trợ|khung giờ hỗ trợ nhiệm vụ 9-12h sáng tối
-ho tro nv|khung giờ hỗ trợ nhiệm vụ 9-12h sáng tối
+
 lol bot|chửi cái gì
 bot lol|chửi cái gì
 bot lồn|lồn má mày chứ lồn
 bot ngu|thằng bên trên mới ngu đó
 bot nguu|thằng bên trên mới ngu đó
 ngủ|chúc bạn ngủ ngon 
-đồ nào mạnh|đồ thiên tôn mạnh nhất, bạn cày phiếu giảm giá ở doraemon rồi đổi ở quy lão rồi nâng ở hạt mót hoặc nạp mua cho nhanh
-đồ hạ tôn|bạn xem cách nâng ở hạt mít
 lỗi ước rồng| Bạn tắt game rồi vào lại khu là gọi được
-up|up ngũ hành sơn rồi địa ngục ở Cu Tí ( đi vào gặp Diêm Vương )
-bán nick|Vui lòng thu hồi tin nhắn, hãy vào box mua bán trên ghim
-mua nick|Vui lòng thu hồi tin nhắn, hãy vào box mua bán trên ghim
-bán acc|Vui lòng thu hồi tin nhắn, hãy vào box mua bán trên ghim
-mua acc|Vui lòng thu hồi tin nhắn, hãy vào box mua bán trên ghim
-chiến thần|chiến thần là đệ tử thứ 2 tăng sức mạnh cực mạnh, mua trứng ở chỗ Quy lão rồi vào đảo hoa nhé
-calich| ở đầu rừng bambo
-Đồ vip|Trang bị kích hoạt vip nâng ở Thiên Sứ whis đảo kame (xem nguyên liệu ở đó luôn nhé)
-trang bị vip|Trang bị kích hoạt vip nâng ở Thiên Sứ whis đảo kame (xem nguyên liệu ở đó luôn nhé)
-mảnh ấn|bạn tiêu diệt boss ở Hành tinh ngục tù nhé
-ghsm| bạn mở ghsm ở vách mori nhé (max 780k 40k 300 tỷ sm)
-giới hạn sức mạnh|bạn mở ghsm ở vách mori nhé (max 780k 40k 300 tỷ sm)
-mấy sao|trang bị thường 10 sao và trang bị vip 12 sao (cày có hết)
-level|trang bị thường 9 cấp và trang bị vip 10 cấp (cày có hết)
-tăng tốc game| chỗ thông báo ở phần chức năng có đầy đủ lệnh auto mod
-lệnh|chỗ thông báo ở phần chức năng có đầy đủ lệnh auto mod
-mod|chỗ thông báo ở phần chức năng có đầy đủ lệnh auto mod
-nâng nhanh| ô thứ 2 chỗ chức năng có auto nâng chỉ số
-pt|ai có bang cho nó vô bang đi kìa
-cày chay|Mèo méo meo mèo meo...mlem..mlem
-vps|mọi người đăng nhập vào web rồi mua vps treo game đi nè
-đá quý|đá quý săn tiểu đội đường tăng hoặc đi khí gas ở làng aru nhé
-dbv|đá bảo vệ bạn đi doanh trại rơi đầy
-khuyến mãi|Game khuyến mãi nạp thẻ tối đa 30% chứ không có quá nha mọi người
-km nạp|Game khuyến mãi nạp thẻ tối đa 30% chứ không có quá nha mọi người
-đổi|Hôm nay trời đẹp thế nhỉ?
-đá bảo vệ|đá bảo vệ bạn đi doanh trại rơi đầy
-màn dọc|bạn tắt cái khóa xoay màn hình đi rồi mở lại game xoay ngang điện thoại là được
-màn hình dọc|bạn tắt cái khóa xoay màn hình đi rồi mở lại game xoay ngang điện thoại là được
-bang|ai có bang cho nó vô bang đi
+
+
+
+
 bot cặc|cặc ba mày chứ cặc
 bot hài|Tôi sinh ra cũng để tấu hài cho cái box này, mong được trả lương hậu hĩnh
-còn sống không|Tôi vẫn còn sống đây, tôi đứng đây chờ bạn từ chiều
-ngọc rồng siêu cấp|Ngọc rồng siêu cấp chỉ để ước (không ép được) (ước được gì thì ước đi rồi biết chứ tôi biết đâu)
-nịnh|Nịnh 1 xíu mà được tăng lương cũng tốt nhỉ
-ai đẹp|admin đẹp nhất nhé! Tôi đánh giá khách quan là như thế
-chán|Tại sao bạn lại chán, bắt con gián bỏ vô háng cho đỡ chán
-bot ngủ|Tôi chưa ngủ đâu nhé
-ngủ|Chúc bạn ngủ ngon!
-nrsc|Ngọc rồng siêu cấp chỉ để ước (không ép được) (ước được gì thì ước đi rồi biết chứ tôi biết đâu)
-alo|Hello anh đẹp trai
-lô|Hello anh đẹp trai
-bot ơi|kêu gì mà lắm vậy
-chào tôi|Hi! Chào cậu, cho mình làm quen nhé!
-chê bot|Tôi là bản test thôi nên có gì xin thí chủ né ra chỗ khác, đừng để tôi nóng
-Santa|Santa có bán đủ thứ, nạp tiền tự động nữa nhé mọi người
-nm td|thích chơi gì chơi, chơi với tôi sẽ vui hơn đấy
-mốc nạp|bạn đăng nhập vô web rồi tự mở mốc nhé
-bot không khôn|ai cũng biết thằng bên trên ngu không khôn mà
-báo thành công|Bạn chụp chỗ Tên server ở chỗ đăng nhập trong game gửi vô đây xem đúng Ngoc Rong Vo Song không, nếu không đúng thì bạn xóa dữ liệu đi nhé mới vào được
-thành công|Bạn chụp chỗ Tên server ở chỗ đăng nhập trong game gửi vô đây xem đúng Ngoc Rong Vo Song không, nếu không đúng thì bạn xóa dữ liệu đi nhé mới vào được
-bot khôn|ai cũng biết rằng tôi khôn mà
-đảo hoa|Đảo hoa ra gặp Quy Lão nhé rồi vô nhé 
-phụ kiện|phụ kiện mua ở santa cho nhanh
-cành tre|Bạn gom đủ 9999 rồi ghép thành cần câu đi câu cá nhé
-xoay mãi|Game xoay mãi bạn vào web đăng nhập rồi thoát kẹt nha
-mất sóng|Game mất sóng không nhập kịp: thì bạn nhập tài khoản trước rồi bấm ok chọn đăng nhập, rồi quay lại nhập mật khẩu là được
-sv mấy| bạn chọn server 1 nhé
 Địt|địt cái đầu mày chứ địt
 thông đít|thông đít mày
 óc lồn|lồn mà có óc hử?
@@ -253,21 +254,8 @@ solo|nào nào? muốn gì nào? muốn solo thì nhào vô nào?
 mệt|làm gì mà mệt hả?
 lỗi nạp thẻ|Báo lỗi nạp thì liên hệ người có chìa khoá màu vàng trong box zalo nhé
 đĩ mẹ m|đĩ mẹ m
-test|Server Vừa Mới Open Vẫn Free Hơn Cả Test
-open|Server Vừa Mới Open Vẫn Free Hơn Cả Test
-map sm|up ngũ hành sơn rồi địa ngục ở Cu Tí ( đi vào gặp Diêm Vương )
-mtv|Game free MTV nhé ( tạo acc là kích hoạt sẵn rồi )
-kích hoạt vip|Trang bị kích hoạt vip nâng ở Thiên Sứ whis đảo kame (xem nguyên liệu ở đó luôn nhé)
-kích hoạt|Game free MTV nhé ( tạo acc là kích hoạt sẵn rồi )
-mất NPC|Bạn xoá dữ liệu rồi tải dữ liệu mới nhé
-làng vamchar|Ra trước làng mori có làng vamchar đó bây
-cộng chỉ số nhanh|Cộng chỉ số nhanh ở ô thứ 2 phần chức năng có nhé
-cộng chỉ số chậm|Đệ không lỗi chỉ số đâu, treo lâu là full nhé
-thấy NPC|Bạn xoá dữ liệu rồi tải dữ liệu mới nhé
-tàn sát|tàn sát bản koioctieu bạn mua máy tự động luyện tập rồi sử dụng rồi bấm góc trên cùng bên trái chọn train quái
-chức năng|Các NPC đều có chỉ chức năng, bạn tới đó đọc nhé
-tỷ lệ nạp|Quy đổi ở santa có tỷ lệ bạn ra xem nhé
-tỉ lệ nạp|tỉ lệ nạp bạn xem ở santa nhé ( rồi vô website nạp nhé )
+
+
 adr21|adr21 đã được tắt đi và các chức năng adr21 đã được gắn vào nhiều npc khác
 android21|android21 đã được tắt đi và các chức năng adr21 đã được gắn vào nhiều npc khác
 admin|Admin là key vàng ở box zalo nhé (Bạn bấm vào thành viên cộng đồng, rồi sẽ thấy người có cái chìa khóa vàng - là admin đó )
