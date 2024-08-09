@@ -54,6 +54,7 @@ xu mua máy dò|Xu mua máy dò bạn đánh quái ngũ hành sơn là rơi nhé
 mở giới hạn sức mạnh|Bạn ra vách núi morri gặp quốc vương để mở giới hạn sức mạnh nhé
 sức mạnh max|Sức mạnh max hiện tại cho sư phụ và đệ tử là 300 tỷ
 sức mạnh|Bạn muốn hỏi về cái gì? [sức mạnh max], [chỉ số sư phụ], [mở giới hạn sức mạnh], [chỉ số đệ tử]
+sd max|Chỉ số max hiện tại cho sư phụ và đệ tử là 780K và 40K (Sư phụ có thể [trùng sinh] để tăng thêm)
 chỉ số max|Chỉ số max hiện tại cho sư phụ và đệ tử là 780K và 40K (Sư phụ có thể [trùng sinh] để tăng thêm)
 nguyên liệu trùng sinh|Bạn cần có Canh Mạnh Bà để trùng sinh
 trùng sinh|Trùng sinh sẽ tăng thêm 5% chỉ số gốc (819K và 42K) [nguyên liệu trùng sinh]
