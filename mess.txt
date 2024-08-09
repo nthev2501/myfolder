@@ -132,6 +132,7 @@ mấy sao|trang bị thường 10 sao và trang bị vip 12 sao (cày có hết)
 level|trang bị thường 9 cấp và trang bị vip 10 cấp (cày có hết)
 tăng tốc game| chỗ thông báo ở phần chức năng có đầy đủ lệnh auto mod
 lệnh|chỗ thông báo ở phần chức năng có đầy đủ lệnh auto mod
+mod|chỗ thông báo ở phần chức năng có đầy đủ lệnh auto mod
 nâng nhanh| ô thứ 2 chỗ chức năng có auto nâng chỉ số
 pt|ai có bang cho nó vô bang đi kìa
 cày chay|Mèo méo meo mèo meo...mlem..mlem
