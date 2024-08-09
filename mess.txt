@@ -142,6 +142,7 @@ km nạp|Game khuyến mãi nạp thẻ tối đa 30% chứ không có quá nha 
 đá bảo vệ|đá bảo vệ bạn đi doanh trại rơi đầy
 ngọc rồng siêu cấp|Ngọc rồng siêu cấp chỉ để ước (không ép được) (ước được gì thì ước đi rồi biết chứ tôi biết đâu)
 ai đẹp|admin đẹp nhất nhé! Tôi đánh giá khách quan là như thế
+bot đẹp|admin đẹp nhất nhé! Tôi đánh giá khách quan là như thế
 chán|Tại sao bạn lại chán, bắt con gián bỏ vô háng cho đỡ chán
 bot ngủ|Tôi chưa ngủ đâu nhé
 ngủ|Chúc bạn ngủ ngon!
