@@ -75,7 +75,7 @@ link|Bạn có thể tải game bằng link trên ghim hoặc link này nhé: ht
 tải game|Bạn có thể tải game bằng link trên ghim hoặc link này nhé: https://ngocrongvosong.com
 download|Bạn có thể tải game bằng link trên ghim hoặc link này nhé: https://ngocrongvosong.com
 apk|Link tải bản cho các máy android đây nhé: https://ngocrongvosong.com/download/android
-pc|Link tải bản cho các máy tính PC đây nhé: https://ngocrongvosong.com/download/windows (Tải về xong bạn chọn chuột phải vào File tải về rồi chọn tiếp ExTract Here để giải nén game ra rồi mới mở game nhé - nếu không chơi game sẽ thấy toàn lỗi đấy )
+pc|Link tải PC đây nhé: https://ngocrongvosong.com/download/windows (Tải xong bạn chọn chuột phải vào File tải về rồi chọn tiếp ExTract Here để giải nén game )
 iphone|Link tải bản cho các máy iphone đây nhé: https://ngocrongvosong.com/download/iphone
 testflight|Link tải bản cho các máy iphone đây nhé: https://ngocrongvosong.com/download/iphone
 ios|Link tải bản cho các máy iphone đây nhé: https://ngocrongvosong.com/download/iphone
