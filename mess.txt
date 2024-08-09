@@ -6,6 +6,7 @@ tvang|thỏi vàng làm nhiệm vụ hàng ngày ở [bò mộng], [hộ tống]
 tv|thỏi vàng làm nhiệm vụ hàng ngày ở [bò mộng], [hộ tống] ở quy lão, [nạp thẻ]
 vàng|vàng và ngọc xanh nhận miễn phí ở nhà
 ngọc|vàng và ngọc xanh nhận miễn phí ở nhà
+bot pin|Tôi chạy bằng điện trực tiếp nên không có sài pin
 bò mộng|Bò mộng ở Rừng karin có giao nhiệm vụ hàng ngày nhận được [thỏi vàng], cày [chân mệnh] chí tôn ở đó luôn nhé. 1000 điểm lên 1 level [chân mệnh] đó 
 map|Bạn muốn hỏi về map nào nhỉ? [ngục tù], [địa ngục], [sau đảo], [vũ trụ 9], [vamchar], [đảo hoa], [làng lá]
 địa ngục|địa ngục bạn ra gặp Cu Tí ở đảo kame rồi vào map gặp Diêm Vương để xuống nhé
