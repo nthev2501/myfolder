@@ -65,8 +65,9 @@ sai|Hướng Dẫn Fix Lỗi Không Vào Được Game: Cách 1: Kiểm tra xem 
 item|item thường và siêu cấp đều mở ra từ capsule kì bí nhé
 cnsc|item thường và siêu cấp đều mở ra từ capsule kì bí nhé
 cn|item thường và siêu cấp đều mở ra từ capsule kì bí nhé
-hồn thiên tôn|hồn thiên tôn bạn dùng cuồng nộ siêu cấp và đánh quái cold sẽ rơi
+hồn thiên tôn|hồn chí tôn (thiên tôn) bạn dùng cuồng nộ siêu cấp và đánh quái cold sẽ rơi
 hồn tướng|hồn thiên tôn bạn dùng cuồng nộ siêu cấp và đánh quái cold sẽ rơi 
+hồn chí tôn|hồn chí tôn (thiên tôn) bạn dùng cuồng nộ siêu cấp và đánh quái cold sẽ rơi
 im đi|mày mới phải im đấy
 dcu bot|dcu mày
 thức ăn|bạn mặc set thần linh rồi up quái cold là rơi
