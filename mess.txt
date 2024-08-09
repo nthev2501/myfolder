@@ -89,8 +89,8 @@ xoá dl|Bạn mở game lên bấm vào chữ Xoá Dữ Liệu ở góc dưới 
 id|NgocRongNThev:14.225.203.19:14445:0,0,0|231
 ip|NgocRongNThev:14.225.203.19:14445:0,0,0|231
 xdl|Bạn mở game lên bấm vào chữ Xoá Dữ Liệu ở góc dưới rồi mở lại game ( bản máy tính thì giải nén ra rồi chơi )
-bảo trì|Game bảo trì thì các bạn chờ tầm 1 phút là vào được rồi (nếu lâu là đang update hoặc fix lỗi)
-btri|Game bảo trì thì các bạn chờ tầm 1 phút là vào được rồi (nếu lâu là đang update hoặc fix lỗi)
+bảo trì|Server rất ít bảo trì (nên bạn hãy kiểm tra lại mạng các thứ )
+btri|Server rất ít bảo trì (nên bạn hãy kiểm tra lại mạng các thứ )
 không vào được game|Bạn vào trang chủ đăng nhập vào rồi bấm thoát kẹt thử nhé
 k vô đc game|Bạn vào trang chủ đăng nhập vào rồi bấm thoát kẹt thử nhé
 Appcenter|Link appcenter đây nhé https://s.net.vn/abze
