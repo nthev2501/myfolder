@@ -104,8 +104,8 @@ ios|Link tải bản cho các máy iphone đây nhé: https://ngocrongvosong.com
 jar|Link tải bản cho các máy tính Jar đây nhé: https://ngocrongvosong.com/download/java
 id|NgocRongNThev:14.225.203.19:14445:0,0,0|231
 ip|NgocRongNThev:14.225.203.19:14445:0,0,0|231
-bảo trì|Server rất ít bảo trì (nên bạn hãy kiểm tra lại mạng các thứ )
-btri|Server rất ít bảo trì (nên bạn hãy kiểm tra lại mạng các thứ )
+bảo trì|Server rất ít bảo trì (nên bạn hãy kiểm tra lại mạng các thứ ) - Nếu bảo trì thì tầm 1 phút là vào được rồi
+btri|Server rất ít bảo trì (nên bạn hãy kiểm tra lại mạng các thứ ) - Nếu bảo trì thì tầm 1 phút là vào được rồi
 Appcenter|Link appcenter đây nhé https://s.net.vn/abze
 Fanpage|Link fanpage nè https://www.facebook.com/ngocrongnthevmax
 Tiktok|Link tiktok nè https://www.tiktok.com/@megameonline2024
