@@ -69,6 +69,7 @@ dọc|IPhone bị màn hình dọc bạn: Bạn tắt cái khóa xoay màn hình
 màn hình|IPhone bị màn hình dọc bạn: Bạn tắt cái khóa xoay màn hình đi. xong tắt game mở lên lại. xoay ngang trước khi mở nhé
 nút di chuyển|Nút di chuyển bạn bấm vào nút tam giác bên tay trái rồi vào phần Chức Năng, chọn Cấu Hình, rồi chọn Bàn Phím Ảo nhé
 xoá dữ liệu|Chọn loại thiết bị bạn đang dùng? [xoá dữ liệu PC], [xoá dữ liệu apk], [xoá dữ liệu ios], [xoá dữ liệu Jar]
+xdl|Chọn loại thiết bị bạn đang dùng? [xoá dữ liệu PC], [xoá dữ liệu apk], [xoá dữ liệu ios], [xoá dữ liệu Jar]
 đăng ký|đăng ký không được thì chụp màn hình lại gửi vào đây mọi người hướng dẫn nhé
 dky|đăng ký không được thì chụp màn hình lại gửi vào đây mọi người hướng dẫn nhé
 tạo|đăng ký không được thì chụp màn hình lại gửi vào đây mọi người hướng dẫn nhé
@@ -83,9 +84,29 @@ mảnh hồn|Bạn mua [kính lúp], [kính soi], và [viên kẹo] sau đó đi
 kính soi|Bạn mua [kính lúp], [kính soi], và [viên kẹo] sau đó đi tìm [mảnh hồn] nhé (có thể tìm được [rương chí tôn] từ chức năng này đó) Các [mảnh hồn] có thể đổi vài món đồ ở santa đó
 kính lúp|Bạn mua [kính lúp], [kính soi], và [viên kẹo] sau đó đi tìm [mảnh hồn] nhé (có thể tìm được [rương chí tôn] từ chức năng này đó) Các [mảnh hồn] có thể đổi vài món đồ ở santa đó
 viên kẹo|Bạn mua [kính lúp], [kính soi], và [viên kẹo] sau đó đi tìm [mảnh hồn] nhé (có thể tìm được [rương chí tôn] từ chức năng này đó) Các [mảnh hồn] có thể đổi vài món đồ ở santa đó
-
-
-
+thức ăn|bạn mặc set thần linh rồi up quái cold là rơi
+giftcode|Game hiện đang có giftcode: ngocrong1, ngocrong2, ngocrong3, ngocrong4, ngocrong5, ngocrong6 và zalobox
+code|Game hiện đang có giftcode: ngocrong1, ngocrong2, ngocrong3, ngocrong4, ngocrong5, ngocrong6 và zalobox
+link|Bạn có thể tải game bằng link trên ghim hoặc link này nhé: https://ngocrongvosong.com
+tải game|Bạn có thể tải game bằng link trên ghim hoặc link này nhé: https://ngocrongvosong.com
+download|Bạn có thể tải game bằng link trên ghim hoặc link này nhé: https://ngocrongvosong.com
+apk|Link tải bản cho các máy android đây nhé: https://ngocrongvosong.com/download/android
+pc|Link tải PC đây nhé: https://ngocrongvosong.com/download/windows (Tải xong bạn chọn chuột phải vào File tải về rồi chọn tiếp ExTract Here để giải nén game )
+iphone|Link tải bản cho các máy iphone đây nhé: https://ngocrongvosong.com/download/iphone
+testflight|Link tải bản cho các máy iphone đây nhé: https://ngocrongvosong.com/download/iphone
+ios|Link tải bản cho các máy iphone đây nhé: https://ngocrongvosong.com/download/iphone
+jar|Link tải bản cho các máy tính Jar đây nhé: https://ngocrongvosong.com/download/java
+id|NgocRongNThev:14.225.203.19:14445:0,0,0|231
+ip|NgocRongNThev:14.225.203.19:14445:0,0,0|231
+bảo trì|Server rất ít bảo trì (nên bạn hãy kiểm tra lại mạng các thứ )
+btri|Server rất ít bảo trì (nên bạn hãy kiểm tra lại mạng các thứ )
+Appcenter|Link appcenter đây nhé https://s.net.vn/abze
+Fanpage|Link fanpage nè https://www.facebook.com/ngocrongnthevmax
+Tiktok|Link tiktok nè https://www.tiktok.com/@megameonline2024
+Youtube|Link youtube nè https://youtube.com/@ngocrongonline2501
+nạp tiền|Bạn vào trang chủ rồi nạp tự động rồi vô santa đổi sang hồng ngọc hoặc thỏi vàng nhé (tỷ lệ quy đổi 10k = 20k hồng ngọc, 60k = 10k thỏi vàng)
+nạp|Bạn vào trang chủ rồi nạp tự động rồi vô santa đổi sang hồng ngọc hoặc thỏi vàng nhé (tỷ lệ quy đổi 10k = 20k hồng ngọc, 60k = 10k thỏi vàng)
+donate|Bạn vào trang chủ rồi nạp tự động rồi vô santa đổi sang hồng ngọc hoặc thỏi vàng nhé (tỷ lệ quy đổi 10k = 20k hồng ngọc, 60k = 10k thỏi vàng)
 
 
 
@@ -120,9 +141,6 @@ thơm|Thơm quá đi, cho hưởng ké xíu
 fide|boss fide 10 phút 1 đợt (xuất hiện tại núi khỉ vàng)
 
 
-đăng nhập|đăng nhập game mà xoay vòng vòng thì đăng nhập vào web chọn thoát kẹt ( tắt bản game trước khi vào web )
-
-
 xử lí|đăng nhập game mà xoay vòng vòng thì đăng nhập vào web chọn thoát kẹt ( tắt bản game trước khi vào web )
 ai lấy|Cho tui, cho tui đi
 
@@ -140,35 +158,18 @@ gì đây|Có nhiều thứ tôi chưa được biết đến, bạn cứ gửi 
 
 im đi|mày mới phải im đấy
 dcu bot|dcu mày
-thức ăn|bạn mặc set thần linh rồi up quái cold là rơi
+
 bot thông minh|ai cũng nói là tôi thông minh mà. cảm ơn bạn! 
 code mới|Khi nào game có giftcode mới sẽ có thông báo nha quý dị
-giftcode|Game hiện đang có giftcode: ngocrong1, ngocrong2, ngocrong3, ngocrong4, ngocrong5, ngocrong6 và zalobox
-code|Game hiện đang có giftcode: ngocrong1, ngocrong2, ngocrong3, ngocrong4, ngocrong5, ngocrong6 và zalobox
-link|Bạn có thể tải game bằng link trên ghim hoặc link này nhé: https://ngocrongvosong.com
-tải game|Bạn có thể tải game bằng link trên ghim hoặc link này nhé: https://ngocrongvosong.com
-download|Bạn có thể tải game bằng link trên ghim hoặc link này nhé: https://ngocrongvosong.com
-apk|Link tải bản cho các máy android đây nhé: https://ngocrongvosong.com/download/android
-pc|Link tải PC đây nhé: https://ngocrongvosong.com/download/windows (Tải xong bạn chọn chuột phải vào File tải về rồi chọn tiếp ExTract Here để giải nén game )
-iphone|Link tải bản cho các máy iphone đây nhé: https://ngocrongvosong.com/download/iphone
-testflight|Link tải bản cho các máy iphone đây nhé: https://ngocrongvosong.com/download/iphone
-ios|Link tải bản cho các máy iphone đây nhé: https://ngocrongvosong.com/download/iphone
-jar|Link tải bản cho các máy tính Jar đây nhé: https://ngocrongvosong.com/download/java
+
 xoá dl|Bạn mở game lên bấm vào chữ Xoá Dữ Liệu ở góc dưới rồi mở lại game ( bản máy tính thì giải nén ra rồi chơi )
-id|NgocRongNThev:14.225.203.19:14445:0,0,0|231
-ip|NgocRongNThev:14.225.203.19:14445:0,0,0|231
+
 xdl|Bạn mở game lên bấm vào chữ Xoá Dữ Liệu ở góc dưới rồi mở lại game ( bản máy tính thì giải nén ra rồi chơi )
 bảo trì|Server rất ít bảo trì (nên bạn hãy kiểm tra lại mạng các thứ )
 btri|Server rất ít bảo trì (nên bạn hãy kiểm tra lại mạng các thứ )
 không vào được game|Bạn vào trang chủ đăng nhập vào rồi bấm thoát kẹt thử nhé
 k vô đc game|Bạn vào trang chủ đăng nhập vào rồi bấm thoát kẹt thử nhé
-Appcenter|Link appcenter đây nhé https://s.net.vn/abze
-Fanpage|Link fanpage nè https://www.facebook.com/ngocrongnthevmax
-Tiktok|Link tiktok nè https://www.tiktok.com/@megameonline2024
-Youtube|Link youtube nè https://youtube.com/@ngocrongonline2501
-nạp tiền|Bạn vào trang chủ rồi nạp tự động rồi vô santa đổi sang hồng ngọc hoặc thỏi vàng nhé (tỷ lệ quy đổi 10k = 20k hồng ngọc, 60k = 10k thỏi vàng)
-nạp|Bạn vào trang chủ rồi nạp tự động rồi vô santa đổi sang hồng ngọc hoặc thỏi vàng nhé (tỷ lệ quy đổi 10k = 20k hồng ngọc, 60k = 10k thỏi vàng)
-donate|Bạn vào trang chủ rồi nạp tự động rồi vô santa đổi sang hồng ngọc hoặc thỏi vàng nhé (tỷ lệ quy đổi 10k = 20k hồng ngọc, 60k = 10k thỏi vàng)
+
 k dc|Không vào được game bạn vào đây nhé https://ngocrongvosong.com/bai-viet?id=141
 mặt trăng|Đã xóa map mặt trăng rồi
 tiên môn|Đã xóa map tiên môn rồi
