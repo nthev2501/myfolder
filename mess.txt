@@ -171,29 +171,13 @@ tàn sát|tàn sát bản koioctieu bạn mua máy tự động luyện tập r�
 chức năng|Các NPC đều có chỉ chức năng, bạn tới đó đọc nhé
 tỷ lệ nạp|Quy đổi ở santa có tỷ lệ bạn ra xem nhé
 tỉ lệ nạp|tỉ lệ nạp bạn xem ở santa nhé ( rồi vô website nạp nhé )
-
-
-
-
-
-
-
-
-
-
-
-
-
-dcu bot|dcu mày
-
-lặc|lặc má mày chứ lặc
-bot ơi| Có tôi đây! bạn muốn hỏi gì? nhớ ghi đúng chính tả tôi mới hiểu nhé
-Tiêu diệt ở đâu|Nhiệm vụ bò mộng có chỉ chỗ Quái đó quí zị
-code live|Nào admin live mới có, chứ admin đang nuôi con lười
-ngũ hành sơn|ra làng aru gặp Đường tăng để vào Ngũ Hành Sơn
-bot cặc|cặc ba mày chứ cặc
-đéo tin|Đéo tin thì thôi ai mượn m tin
-
+kiếm dhd|đồ thiên sứ nâng ở hạt mít (có hướng dẫn)
+kiếm dts|đồ thiên sứ nâng ở hạt mít (có hướng dẫn)
+bịp|thằng bên trên mới bịp nhé
+cái gì|Có nhiều thứ tôi chưa được biết đến, bạn cứ gửi vào nhóm đi mọi người sẽ giúp đỡ bạn nhé
+update|Có nhiều thứ tôi chưa được biết đến, bạn cứ gửi vào nhóm đi mọi người sẽ giúp đỡ bạn nhé
+cái j|Có nhiều thứ tôi chưa được biết đến, bạn cứ gửi vào nhóm đi mọi người sẽ giúp đỡ bạn nhé
+gì đây|Có nhiều thứ tôi chưa được biết đến, bạn cứ gửi vào nhóm đi mọi người sẽ giúp đỡ bạn nhé
 varon|Ngọc rồng Varon mua source của Server này nhen
 food|Ngọc rồng Varon mua source của Server này nhen
 mp3|Ngọc rồng Varon mua source của Server này nhen
@@ -204,35 +188,21 @@ bot dỗi|Đừng để tôi phải nóng nhé! Tới công chiện liền
 bot yêu|Tôi đang thầm yêu bạn nè! Xíu chúng ta in bóc nhau nhé
 boss bí ngô|Boss bí ngô khi bạn dùng mắt kính + kính lúp + kẹo mua ở Sau đảo kame (gặp Cu Tí) dùng để dò hồn sẽ rơi ra mảnh hồn đổi được rương thần linh kích hoạt với rương mị lực mở ra cốt chí tôn đó
 chụp|Chụp đi chụp đi, chụp gửi vô đây xem ké với
-
+dcu bot|dcu mày
+lặc|lặc má mày chứ lặc
+bot ơi| Có tôi đây! bạn muốn hỏi gì? nhớ ghi đúng chính tả tôi mới hiểu nhé
+Tiêu diệt ở đâu|Nhiệm vụ bò mộng có chỉ chỗ Quái đó quí zị
+code live|Nào admin live mới có, chứ admin đang nuôi con lười
+ngũ hành sơn|ra làng aru gặp Đường tăng để vào Ngũ Hành Sơn
+bot cặc|cặc ba mày chứ cặc
+đéo tin|Đéo tin thì thôi ai mượn m tin
 thơm|Thơm quá đi, cho hưởng ké xíu
-
 fide|boss fide 10 phút 1 đợt (xuất hiện tại núi khỉ vàng)
-
-
-xử lí|đăng nhập game mà xoay vòng vòng thì đăng nhập vào web chọn thoát kẹt ( tắt bản game trước khi vào web )
 ai lấy|Cho tui, cho tui đi
-
-kiếm dhd|đồ thiên sứ nâng ở hạt mít (có hướng dẫn)
-kiếm dts|đồ thiên sứ nâng ở hạt mít (có hướng dẫn)
-bịp|thằng bên trên mới bịp nhé
-cái gì|Có nhiều thứ tôi chưa được biết đến, bạn cứ gửi vào nhóm đi mọi người sẽ giúp đỡ bạn nhé
-update|Có nhiều thứ tôi chưa được biết đến, bạn cứ gửi vào nhóm đi mọi người sẽ giúp đỡ bạn nhé
-cái j|Có nhiều thứ tôi chưa được biết đến, bạn cứ gửi vào nhóm đi mọi người sẽ giúp đỡ bạn nhé
-gì đây|Có nhiều thứ tôi chưa được biết đến, bạn cứ gửi vào nhóm đi mọi người sẽ giúp đỡ bạn nhé
-
-
-
-
-
 im đi|mày mới phải im đấy
 dcu bot|dcu mày
-
 bot thông minh|ai cũng nói là tôi thông minh mà. cảm ơn bạn! 
-
-
 câm|mày mới là người phải câm đấy
-
 lol bot|chửi cái gì
 bot lol|chửi cái gì
 bot lồn|lồn má mày chứ lồn
@@ -240,10 +210,6 @@ bot ngu|thằng bên trên mới ngu đó
 bot nguu|thằng bên trên mới ngu đó
 ngủ|chúc bạn ngủ ngon 
 lỗi ước rồng| Bạn tắt game rồi vào lại khu là gọi được
-
-
-
-
 bot cặc|cặc ba mày chứ cặc
 bot hài|Tôi sinh ra cũng để tấu hài cho cái box này, mong được trả lương hậu hĩnh
 Địt|địt cái đầu mày chứ địt
@@ -254,10 +220,6 @@ solo|nào nào? muốn gì nào? muốn solo thì nhào vô nào?
 mệt|làm gì mà mệt hả?
 lỗi nạp thẻ|Báo lỗi nạp thì liên hệ người có chìa khoá màu vàng trong box zalo nhé
 đĩ mẹ m|đĩ mẹ m
-
-
-adr21|adr21 đã được tắt đi và các chức năng adr21 đã được gắn vào nhiều npc khác
-android21|android21 đã được tắt đi và các chức năng adr21 đã được gắn vào nhiều npc khác
 admin|Admin là key vàng ở box zalo nhé (Bạn bấm vào thành viên cộng đồng, rồi sẽ thấy người có cái chìa khóa vàng - là admin đó )
 Kiệt|Admin là key vàng ở box zalo nhé (Bạn bấm vào thành viên cộng đồng, rồi sẽ thấy người có cái chìa khóa vàng - là admin đó )
 dame|Server dame trung (giải thích: dame gốc: boss yếu, dame trung: boss trâu, dame ảo: boss siêu trâu) không khác gì nhau cả
@@ -365,7 +327,3 @@ vãi|Anh em đô nết cho ad đi chứ đêm qua ad có chia sẻ với tui là
 mvbt|Nguyên liệu nâng cấp Bông tai cấp 2-3 sẽ rơi ở hành tinh fide (các map nappa, khỉ đỏ,..) rồi ra Bà Hạt Mít vách núi để nâng. Bông tai Cấp 4 (Bông Tai Vô Song) thì cày hồng ngọc rồi mua ở Santa
 porata|Nguyên liệu nâng cấp Bông tai cấp 2-3 sẽ rơi ở hành tinh fide (các map nappa, khỉ đỏ,..) rồi ra Bà Hạt Mít vách núi để nâng. Bông tai Cấp 4 (Bông Tai Vô Song) thì cày hồng ngọc rồi mua ở Santa
 bông tai|Nguyên liệu nâng cấp Bông tai cấp 2-3 sẽ rơi ở hành tinh fide (các map nappa, khỉ đỏ,..) rồi ra Bà Hạt Mít vách núi để nâng. Bông tai Cấp 4 (Bông Tai Vô Song) thì cày hồng ngọc rồi mua ở Santa
-game lỗi|Nếu bạn bị nhòe map, mất npc, xoay mãi, không tạo được nhân vật bạn vào đây xem cách khắc phục thử nhé: http://ngocrongvosong.com/bai-viet?id=141
-lag|Nếu bạn bị nhòe map, mất npc, xoay mãi, không tạo được nhân vật bạn vào đây xem cách khắc phục thử nhé: http://ngocrongvosong.com/bai-viet?id=141
-nhòe map|Nếu bạn bị nhòe map, mất npc, xoay mãi, không tạo được nhân vật bạn vào đây xem cách khắc phục thử nhé: http://ngocrongvosong.com/bai-viet?id=141
-npc|Nếu bạn bị nhòe map, mất npc, xoay mãi, không tạo được nhân vật bạn vào đây xem cách khắc phục thử nhé: http://ngocrongvosong.com/bai-viet?id=141
