@@ -332,6 +332,10 @@ bông tai vô song|Thu thập hồng ngọc rồi mua ở santa (tác dụng v�
 cách nâng bông tai|Thu thập nguyên liệu rồi nâng ở hạt mít sau vách núi
 bông tai|Bạn muốn hỏi điều gì về bông tai? [bông tai cấp 2], [bông tai cấp 3], [bông tai vô song], [cách nâng bông tai]
 sợ chưa|Chưa sợ, ngon nhào zô
+bot var|ngon vào đây mà var này
+bot ny|Tôi làm gì đã có ny, tôi còn đang sợ ế đây này
+bot nhà nghỉ|Khách sạn thì mình còn suy nghĩ lại
+
 
 
 
