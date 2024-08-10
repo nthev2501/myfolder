@@ -10,6 +10,7 @@ map|Bạn muốn hỏi về map nào nhỉ? [ngục tù], [địa ngục], [sau 
 địa ngục|địa ngục bạn ra gặp Cu Tí ở đảo kame rồi vào map gặp Diêm Vương để xuống nhé
 ngục tù|ngục tù bạn vào rừng karin rồi đi miết miết lên trên là tới
 sau đảo|Gặp Cu Tí để vào sau đảo
+website|Link website: https://ngocrongnthev.com
 ngáo bot|Ngáo đâu, mày mới ngáo đó
 vũ trụ 9|Bạn chat 'm' hoặc 'map' để vào Vũ trụ số 9
 vamchar|Làng vamchar bạn tới làng morri để vào nhé
