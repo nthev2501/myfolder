@@ -239,6 +239,7 @@ Liên Hoàn Chưởng|Học ở hành tinh Kaio ( rừng karin đi lên ) gặp 
 Skill đặc biệt|Học ở hành tinh Kaio ( rừng karin đi lên ) gặp Thiên Sứ Whis
 Skill đệ tử|Đệ tử có 6 chiêu ước rồng thường đổi được skill 2-3-4, rồng từ các event đổi skill 1-5 nhé quý zị
 skill ô| trên điện thoại chỉ gán được 5 ô thôi, mở máy tính lên sẽ gán được 10 ô đấy
+5 chiêu| trên điện thoại chỉ gán được 5 ô thôi, mở máy tính lên sẽ gán được 10 ô đấy
 vamchar|Trước làng morri có cổng vào làng vamchar
 skill|Bạn muốn hỏi về [Skill đặc biệt], [skill đệ tử] hay [gán ô skill]
 rương cấp 11|đủ 24 giờ từ lúc nhận rương thì mới mở được nhé
