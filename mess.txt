@@ -9,6 +9,8 @@ bò mộng|Bò mộng ở Rừng karin có giao nhiệm vụ hàng ngày nhận 
 địa ngục|địa ngục bạn ra gặp Cu Tí ở đảo kame rồi vào map gặp Diêm Vương để xuống nhé
 ngục tù|ngục tù bạn vào rừng karin rồi đi miết miết lên trên là tới
 sau đảo|Gặp Cu Tí để vào sau đảo
+tạo nv|Bạn chọn cấu hình cao mới tạo nhân vật được nhé
+tạo nhân vật|Bạn chọn cấu hình cao mới tạo nhân vật được nhé
 điểm boss|Điểm boss bạn đánh boss sẽ có điểm ( tuỳ boss ngẫu nhiên chứ không xác định được boss nào rơi điểm )
 website|Link website: https://ngocrongnthev.com
 ngáo bot|Ngáo đâu, mày mới ngáo đó
