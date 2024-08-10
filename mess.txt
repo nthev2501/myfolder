@@ -90,7 +90,8 @@ mảnh hồn|Bạn mua [kính lúp], [kính soi], và [viên kẹo] sau đó đi
 kính soi|Bạn mua [kính lúp], [kính soi], và [viên kẹo] sau đó đi tìm [mảnh hồn] nhé (có thể tìm được [rương chí tôn] từ chức năng này đó) Các [mảnh hồn] có thể đổi vài món đồ ở santa đó
 kính lúp|Bạn mua [kính lúp], [kính soi], và [viên kẹo] sau đó đi tìm [mảnh hồn] nhé (có thể tìm được [rương chí tôn] từ chức năng này đó) Các [mảnh hồn] có thể đổi vài món đồ ở santa đó
 viên kẹo|Bạn mua [kính lúp], [kính soi], và [viên kẹo] sau đó đi tìm [mảnh hồn] nhé (có thể tìm được [rương chí tôn] từ chức năng này đó) Các [mảnh hồn] có thể đổi vài món đồ ở santa đó
-thức ăn|bạn mặc set thần linh rồi up quái cold là rơi
+thức ăn|Thức ăn bạn mặc set thần linh rồi up quái cold là rơi
+black goku|Black goku mạnh vcl đấy mấy cưng, rơi nhẫn thời không để vào map Chilled
 giftcode|Game hiện đang có giftcode: ngocrong1, ngocrong2, ngocrong3, ngocrong4, ngocrong5, ngocrong6 và zalobox
 code|Game hiện đang có giftcode: ngocrong1, ngocrong2, ngocrong3, ngocrong4, ngocrong5, ngocrong6 và zalobox
 link|Bạn có thể tải game bằng link trên ghim hoặc link này nhé: https://ngocrongvosong.com
