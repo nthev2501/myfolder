@@ -326,8 +326,12 @@ vãi|Anh em đô nết cho ad đi chứ đêm qua ad có chia sẻ với tui là
 đá xanh|Nguyên liệu nâng cấp Bông tai cấp 2-3 sẽ rơi ở hành tinh fide (các map nappa, khỉ đỏ,..) rồi ra Bà Hạt Mít vách núi để nâng. Bông tai Cấp 4 (Bông Tai Vô Song) thì cày hồng ngọc rồi mua ở Santa
 đá đỏ|Nguyên liệu nâng cấp Bông tai cấp 2-3 sẽ rơi ở hành tinh fide (các map nappa, khỉ đỏ,..) rồi ra Bà Hạt Mít vách núi để nâng. Bông tai Cấp 4 (Bông Tai Vô Song) thì cày hồng ngọc rồi mua ở Santa
 mvbt|Nguyên liệu nâng cấp Bông tai cấp 2-3 sẽ rơi ở hành tinh fide (các map nappa, khỉ đỏ,..) rồi ra Bà Hạt Mít vách núi để nâng. Bông tai Cấp 4 (Bông Tai Vô Song) thì cày hồng ngọc rồi mua ở Santa
-porata|Nguyên liệu nâng cấp Bông tai cấp 2-3 sẽ rơi ở hành tinh fide (các map nappa, khỉ đỏ,..) rồi ra Bà Hạt Mít vách núi để nâng. Bông tai Cấp 4 (Bông Tai Vô Song) thì cày hồng ngọc rồi mua ở Santa
-bông tai|Nguyên liệu nâng cấp Bông tai cấp 2-3 sẽ rơi ở hành tinh fide (các map nappa, khỉ đỏ,..) rồi ra Bà Hạt Mít vách núi để nâng. Bông tai Cấp 4 (Bông Tai Vô Song) thì cày hồng ngọc rồi mua ở Santa
+porata|Bạn muốn hỏi điều gì về bông tai? [bông tai cấp 2], [bông tai cấp 3], [bông tai vô song], [cách nâng bông tai]
+bông tai cấp 2|Bông tai cấp 2 max 15%, nguyên liệu rơi ở các map bên fide (nappa,..khỉ vàng)
+bông tai cấp 3|Bông tai cấp 3 max 25%, nguyên liệu rơi ở các map bên fide (nappa,..khỉ vàng)
+bông tai vô song|Thu thập hồng ngọc rồi mua ở santa (tác dụng với đệ tử Itachi tăng 70% chỉ số)
+cách nâng bông tai|Thu thập nguyên liệu rồi nâng ở hạt mít sau vách núi
+bông tai|Bạn muốn hỏi điều gì về bông tai? [bông tai cấp 2], [bông tai cấp 3], [bông tai vô song], [cách nâng bông tai]
 sợ chưa|Chưa sợ, ngon nhào zô
 
 
