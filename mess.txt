@@ -117,7 +117,8 @@ nạp tiền|Bạn vào trang chủ rồi nạp tự động rồi vô santa đ�
 nạp|Bạn vào trang chủ rồi nạp tự động rồi vô santa đổi sang hồng ngọc hoặc thỏi vàng nhé (tỷ lệ quy đổi 10k = 20k hồng ngọc, 60k = 10k thỏi vàng)
 donate|Bạn vào trang chủ rồi nạp tự động rồi vô santa đổi sang hồng ngọc hoặc thỏi vàng nhé (tỷ lệ quy đổi 10k = 20k hồng ngọc, 60k = 10k thỏi vàng)
 code mới|Khi nào game có giftcode mới sẽ có thông báo nha quý dị
-đồ thần linh|đồ thần bạn săn boss hoặc up cold nhé
+đồ thần|đồ thần bạn săn boss hoặc up cold nhé
+dtl|đồ thần bạn săn boss hoặc up cold nhé
 đồ tl|đồ thần bạn săn boss hoặc up cold nhé
 hỗ trợ|khung giờ hỗ trợ nhiệm vụ 9-12h sáng tối
 ho tro nv|khung giờ hỗ trợ nhiệm vụ 9-12h sáng tối
@@ -169,6 +170,8 @@ test|Server Vừa Mới Open Vẫn Free Hơn Cả Test
 open|Server Vừa Mới Open Vẫn Free Hơn Cả Test
 op|Server Vừa Mới Open Vẫn Free Hơn Cả Test
 mtv|Game free MTV nhé ( tạo acc là kích hoạt sẵn rồi )
+mở tv|Game free MTV nhé ( tạo acc là kích hoạt sẵn rồi )
+mở thành viên|Game free MTV nhé ( tạo acc là kích hoạt sẵn rồi )
 kích hoạt vip|Trang bị kích hoạt vip nâng ở Thiên Sứ whis đảo kame (xem nguyên liệu ở đó luôn nhé)
 kích hoạt|Game free MTV nhé ( tạo acc là kích hoạt sẵn rồi )
 tàn sát|tàn sát bản koioctieu bạn mua máy tự động luyện tập rồi sử dụng rồi bấm góc trên cùng bên trái chọn train quái
