@@ -143,8 +143,7 @@ ngọc rồng siêu cấp|Ngọc rồng siêu cấp chỉ để ước (không �
 ai đẹp|admin đẹp nhất nhé! Tôi đánh giá khách quan là như thế
 bot đẹp|admin đẹp nhất nhé! Tôi đánh giá khách quan là như thế
 chán|Tại sao bạn lại chán, bắt con gián bỏ vô háng cho đỡ chán
-bot ngủ|Tôi chưa ngủ đâu nhé
-ngủ|Chúc bạn ngủ ngon!
+bot ngủ|Tôi không ngủ đâu nhé, tôi luôn sẵn sàng phục vụ bạn
 nrsc|Ngọc rồng siêu cấp chỉ để ước (không ép được) (ước được gì thì ước đi rồi biết chứ tôi biết đâu)
 alo|Hello anh đẹp trai
 lô|Hello anh đẹp trai
@@ -203,13 +202,10 @@ ai lấy|Cho tui, cho tui đi
 im đi|mày mới phải im đấy
 dcu bot|dcu mày
 bot thông minh|ai cũng nói là tôi thông minh mà. cảm ơn bạn! 
-câm|mày mới là người phải câm đấy
-lol bot|chửi cái gì
-bot lol|chửi cái gì
+câm bot|mày mới là người phải câm đấy
 bot lồn|lồn má mày chứ lồn
-bot ngu|thằng bên trên mới ngu đó
-bot nguu|thằng bên trên mới ngu đó
-ngủ|chúc bạn ngủ ngon 
+bot ngu|mày mới là thằng ngu đó
+bot nguu|mày mới là thằng nguu đó
 lỗi ước rồng| Bạn tắt game rồi vào lại khu là gọi được
 bot cặc|cặc ba mày chứ cặc
 bot hài|Tôi sinh ra cũng để tấu hài cho cái box này, mong được trả lương hậu hĩnh
