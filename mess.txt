@@ -47,7 +47,7 @@ lệnh|Bạn muốn hỏi về lệnh gì? [tăng tốc], [cộng chỉ số], [
 chậm|Bạn muốn hỏi về lệnh gì? [tăng tốc], [cộng chỉ số], [đầy đủ]
 auto|Bạn muốn hỏi về lệnh gì? [tăng tốc], [cộng chỉ số], [đầy đủ]
 cộng chỉ số|Bạn bấm vào ô thứ 2 ở phần Chức Năng có Auto cộng chỉ số nhanh
-tăng tốc|Bạn tăng tốc độ game bằng: một số lệnh chat bạn thử từng cái nhé (speed X | cheat_X | tdX | tocdo X - X là Số nhé - không viết hoa)
+tốc|Bạn tăng tốc độ game bằng: một số lệnh chat bạn thử từng cái nhé (speed X | cheat_X | tdX | tocdo X - X là Số nhé - không viết hoa)
 đầy đủ|Bạn bấm vào phần Thông Báo chỗ Chức Năng sẽ có đầy đủ lệnh cho bạn
 up sm|Bạn ép sức đánh cho đồ rồi vào Ngũ Hành Sơn ở Làng Aru up cho lẹ, Sau đó đến địa ngục ở Cu Tí Đảo Kame vào sau đảo gặp Diêm Vương
 cày sm|Bạn ép sức đánh cho đồ rồi vào Ngũ Hành Sơn ở Làng Aru up cho lẹ, Sau đó đến địa ngục ở Cu Tí Đảo Kame vào sau đảo gặp Diêm Vương
