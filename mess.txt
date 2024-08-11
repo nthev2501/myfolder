@@ -45,9 +45,7 @@ winrar|Bạn tải về rồi bấm cài đặt rồi tiếp tục như bên tr�
 xoá dữ liệu apk|Để xoá dữ liệu bản Android bạn bấm giữ vào app game ->Chọn Thông tin ứng dụng -> Dung lượng lưu trữ -> Xoá dữ liệu
 xoá dữ liệu ios|Bạn xoá game tải lại là được hoặc bấm nút Xoá dữ liệu màu trắng ở góc
 xoá dữ liệu jar|Nếu sài Jar trên Android bạn xoá J2Me Loader đi, sau đó cài lại là được. Trên Pc thì xem hướng dẫn ở đây: https://youtu.be/Od90G9deiI4
-lệnh|Bạn muốn hỏi về lệnh gì? [tăng tốc], [cộng chỉ số], [đầy đủ]
 chậm|Bạn tăng tốc độ game bằng: một số lệnh chat bạn thử từng cái nhé (speed X | cheat_X | tdX | tocdo X - X là Số nhé - không viết hoa)
-auto|Bạn muốn hỏi về lệnh gì? [tăng tốc], [cộng chỉ số], [đầy đủ]
 cộng chỉ số|Bạn bấm vào ô thứ 2 ở phần Chức Năng có Auto cộng chỉ số nhanh
 tốc|Bạn tăng tốc độ game bằng: một số lệnh chat bạn thử từng cái nhé (speed X | cheat_X | tdX | tocdo X - X là Số nhé - không viết hoa)
 đầy đủ|Bạn bấm vào phần Thông Báo chỗ Chức Năng sẽ có đầy đủ lệnh cho bạn
@@ -277,6 +275,7 @@ ngục tù|Hành tinh ngục tù bạn vào Rừng karin chỗ bò mộng đó, 
 tàu pảy pảy|tàu pảy pảy xuất hiện ở Rừng karin, tiêu diệt hắn sẽ rơi item siêu cấp nhé. Thời gian xuất hiện t đâu có biết
 auto chỉ số|Auto cộng chỉ số ở ô thứ 2 ở phần chức năng sẽ có auto cộng siêu nhanh
 ok bot|Dạ anh yêu
+auto|Auto mod có full ở phần Thông Báo chỗ Chức Năng
 cảm ơn bot|Dạ không có gì đâu anh yêu! Nhiệm vụ của em mà
 đệ|có 4 loại đệ : thường (0%), mabu (30%) - săn ma bư đảo kame, gohan (50%) săn bư 12h00 và 19h00 ở đại hội võ thuật, itachi (70%) cày hồng ngọc rồi mua ở santa. (tăng chỉ số hợp thể)
 ký gửi|Kí gửi mua bán bằng hồng ngọc nhé, không phải vàng
