@@ -65,6 +65,7 @@ bảo trì,btri|Server rất ít bảo trì (nên bạn hãy kiểm tra lại m�
 Fanpage|Link fanpage nè https://www.facebook.com/ngocrongnthevmax
 Tiktok|Link tiktok nè https://www.tiktok.com/@megameonline2024
 Youtube|Link youtube nè https://youtube.com/@ngocrongonline2501
+cập nhật mới|Tin mới: Mỗi tháng sẽ clear bang hội 1 lần để tối ưu độ mượt từ server
 nạp,donate|Bạn vào trang chủ rồi nạp tự động rồi vô santa đổi sang hồng ngọc hoặc thỏi vàng nhé (tỷ lệ quy đổi 10k = 20k hồng ngọc, 60k = 10k thỏi vàng)
 code mới|Khi nào game có giftcode mới sẽ có thông báo nha quý dị
 đồ thần,dtl,đồ tl|đồ thần bạn săn boss hoặc up cold nhé
@@ -81,7 +82,7 @@ cày chay|Mèo méo meo mèo meo...mlem..mlem
 đá quý,da quy|đá quý săn tiểu đội đường tăng hoặc đi khí gas ở làng aru nhé
 dbv,đá bảo vệ|đá bảo vệ bạn đi doanh trại rơi đầy
 khuyến mãi,km nạp|Game khuyến mãi nạp thẻ tối đa 30% chứ không có quá nha mọi người
-đổi|Hôm nay trời đẹp thế nhỉ?
+đổi|Hãy chat cập nhật mới để tôi cho bạn biết những tin tức mới nhất nhé
 ngọc rồng siêu cấp,nrsc,ngọc rồng sc, nr siêu cấp,ước được gì|Ngọc rồng siêu cấp chỉ để ước (không ép được) (ước được gì thì ước đi rồi biết chứ tôi biết đâu)
 ai đẹp,bot đẹp|admin đẹp nhất nhé! Tôi đánh giá khách quan là như thế
 chán|Tại sao bạn lại chán, bắt con gián bỏ vô háng cho đỡ chán
