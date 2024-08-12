@@ -159,9 +159,8 @@ bot ơi,bot rep,con bot,bot trả lời|hỏi gì cứ hỏi đi? (liên quan đ
 ước ngọc rồng|ước ngọc rồng thường đổi được skill 2-3-4 đệ tử nhé
 mị nương|rút cải trang mị nương ở Vua Hùng có tỷ lệ ra vĩnh viễn (nếu rút đủ 10 lần sẽ ra vĩnh viễn - không cần rút liên tục)
 tàu pảy pảy|tàu pảy pảy xuất hiện ở Rừng karin, tiêu diệt hắn sẽ rơi item siêu cấp nhé. Thời gian xuất hiện t đâu có biết
-ok bot|Dạ anh yêu
 lệnh,auto|Auto mod có full ở phần Thông Báo chỗ Chức Năng
-cảm ơn bot|Dạ không có gì đâu anh yêu! Nhiệm vụ của em mà
+cảm ơn bot,ok bot|Dạ không có gì đâu anh yêu! Nhiệm vụ của em mà
 đệ tử,gohan,itachi,mabu,ma bư,trứng bư,mabư,bư|có 4 loại đệ : thường (0%), mabu (30%) - săn ma bư đảo kame, gohan (50%) săn bư 12h00 và 19h00 ở đại hội võ thuật, itachi (70%) cày hồng ngọc rồi mua ở santa. (tăng chỉ số hợp thể)
 Vòng quay thượng đế|Vòng quay thượng đế quay tốn hồng ngọc (chưa thêm vật phẩm đặc biệt)
 linh thú|Linh thú mua ở santa nè, rút ở Thỏ Đại bịp nè, mua trứng linh thú ở santa nè
@@ -171,11 +170,10 @@ khắc ấn vô song|Khắc ấn sẽ không mất bông tai vô song nhé
 chân mệnh,tu luyện|bạn lên hành tinh kaio gặp thiên sứ whis để nâng chân mệnh nhé. điểm tu luyện làm nhiệm vụ tu luyện của bò mộng. 1000 điểm 1 level
 người yêu bot|Máy móc mà được yêu thì chắc tôi yêu bạn đầu tiên đấy!
 rep ad,admin,Kiệt|Admin là người có chìa khóa vàng, mình không phải ad, ad chưa rep là đang bận. rảnh tay ad sẽ rep liền. đừng có hối nhé
-mưa|trời mưa rồi hả, lo lấy đồ đang phơi vô đi
+mưa|trời mưa rồi hả, chỗ tôi trời vẫn sáng nè
 phiếu giảm giá,pgg|phiếu giảm giá bạn săn boss đô rê a mon hoặc liễu thần nhé (đổi rương thần tiên ở Vados)
-đẹp cc|trời đẹp mà
 đền bù|bù khu chứ bù, chơi game free all còn bù
-đẹp đâu|Tôi thấy đẹp mà
+đẹp đâu,đẹp cc|Tôi thấy đẹp mà
 tối rồi|Trời chỗ bạn tối rồi hả, ở chỗ tôi trời sáng mãi
 lạnh|Bạn cảm thấy lạnh thì hãy đến bên tôi, để tôi đốt lửa lên rồi ta cùng tâm sự nhé
 nóng|nóng quá thì mình cùng đi biển thôi, nước mát quá nè
