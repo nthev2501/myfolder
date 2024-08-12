@@ -76,7 +76,7 @@ kuku,mập đầu đinh,map dau dinh,rambo|Mấy boss KuKu,Mdđ,Rambo (5phút) b
 Đồ vip,trang bị vip|Trang bị kích hoạt vip nâng ở Thiên Sứ whis đảo kame (xem nguyên liệu ở đó luôn nhé)
 mảnh ấn|bạn tiêu diệt boss ở Hành tinh ngục tù nhé
 mấy sao,level|trang bị thường 10 sao và trang bị vip 12 sao, trang bị thường 9 cấp và trang bị vip 10 cấp (cày có hết)
-pt xin, bang xin|ai có bang cho nó vô bang đi kìa
+mất pt, mất bang,clear pt, lỗi pt,lỗi bang,clear bang|Mỗi tháng sẽ clear bang hội để lọc toàn bộ clone (tối ưu cho server) (không bù đâu nên không cần báo)
 cày chay|Mèo méo meo mèo meo...mlem..mlem
 đá quý,da quy|đá quý săn tiểu đội đường tăng hoặc đi khí gas ở làng aru nhé
 dbv,đá bảo vệ|đá bảo vệ bạn đi doanh trại rơi đầy
