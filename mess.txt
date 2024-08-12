@@ -72,6 +72,7 @@ hỗ trợ,ho tro nv|khung giờ hỗ trợ nhiệm vụ 9-12h sáng tối
 bán nick,mua nick,bán nick,bán acc,bay nick,bay acc|Vui lòng thu hồi tin nhắn, hãy vào box mua bán trên ghim
 chiến thần|chiến thần là đệ tử thứ 2 tăng sức mạnh cực mạnh, mua trứng ở chỗ Quy lão rồi vào đảo hoa nhé
 calich| ở đầu rừng bambo
+kuku,mập đầu đinh,map dau dinh,rambo|Mấy boss KuKu,Mdđ,Rambo bạn ra Thành Phố Vegeta Gặp Cui để tìm nhanh nhé (boss chết thì chờ rồi tìm tiếp)
 Đồ vip,trang bị vip|Trang bị kích hoạt vip nâng ở Thiên Sứ whis đảo kame (xem nguyên liệu ở đó luôn nhé)
 mảnh ấn|bạn tiêu diệt boss ở Hành tinh ngục tù nhé
 mấy sao,level|trang bị thường 10 sao và trang bị vip 12 sao, trang bị thường 9 cấp và trang bị vip 10 cấp (cày có hết)
