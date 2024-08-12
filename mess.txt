@@ -195,7 +195,7 @@ Rương thiên tôn|Các rương đồ ở santa đều được chọn loại v
 mảnh sưu tầm|Mảnh sưu tầm quái nào bạn train quái đó là rơi
 chờ duyệt|Bài chờ duyệt vẫn tính (yêu cầu chụp lại bài chờ duyệt)
 thg,vãi|Anh em đô nết cho ad đi chứ đêm qua ad có chia sẻ với tui là ad dạo này đói ác. Thương ad quá đi!
-bông tai,porata,mvbt,đá đỏ, đá xanh|Bông tai cấp 2 max 15%, 3 max 25%,  bông tai vô song 25+ CSVIP, nguyên liệu rơi ở các map bên fide (nappa,..khỉ vàng) (Nâng cấp ở hạt mít vách núi)
+bông tai,porata,mvbt,đá đỏ, đá xanh|Bông tai cấp 2 max 15% (mảnh vỡ, mảnh hồn, đá xanh lam), 3 max 25% (đá xanh (không phải đá xanh lam), đá đỏ, đá tím),  bông tai vô song 25+ CSVIP (cày hngoc r mua ở santa), nguyên liệu rơi ở các map bên fide (nappa,..khỉ vàng) (Nâng cấp ở hạt mít vách núi)
 sợ chưa|Chưa sợ, ngon nhào zô
 bot var|ngon vào đây mà var này
 bot ny|Tôi làm gì đã có ny, tôi còn đang sợ ế đây này
