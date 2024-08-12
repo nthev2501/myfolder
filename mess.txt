@@ -49,7 +49,10 @@ chỉ số đệ|Đệ tử không lỗi sức mạnh và chỉ số, bạn treo
 bí kíp, yadat, yardrat|Bạn qua núi khỉ vàng gặp goku ssj rồi vào hành tinh yardrat up bí kíp cải trang. Và Đi doanh trại đánh quái là rơi bí kíp tuyệt kĩ nhé, xong lên hành tinh kaio học sì kiu đặc biệt
 mảnh thiên sứ, mts, mảnh ts, manh ts|mảnh thiên sứ up ở hành tinh ngục tù xong đem ra Thiên sứ whis đảo kame mà nâng (đọc nguyên liệu ở đó)
 câu cá|Câu cá thì mua cần câu rồi bấm sử dụng là được (1 lần câu 500 hồng ngọc - không mất cần câu)
-Tiểu đội sát thủ,tdst,boss số, số 4, tđst|Tiểu đội sát thủ (10phút) chỉ xuất hiện ở Núi khỉ đỏ (khung giờ hỗ trợ là 9h-12h sáng và tối ai trong nhiệm vụ mới vào được + boss giới hạn sát thương 30tr để hỗ trợ)
+Tiểu đội sát thủ,tdst,boss số, số 4, tđst|Tiểu đội sát thủ (thời gian: 10 phút) (địa chỉ: Núi khỉ đỏ) (hỗ trợ: có) (sát thương tối đa: 30.000.000)
+Fide|Fide (thời gian: 10 phút) (địa chỉ: Núi khỉ vàng) (hỗ trợ: có) (sát thương tối đa: 50.000.000)
+androi19,androi20,kore,apk19,apk20|Android19-20 (thời gian: 15 phút) (địa chỉ: Thành phố phía nam) (hỗ trợ: có) (sát thương tối đa: 70.000.000)
+pic,poc,kingkong,ppkk|Pic-Poc-Kingkong (thời gian: 15 phút) (địa chỉ: Thành phố phía bắc) (hỗ trợ: có) (sát thương tối đa: 100.000.000)
 dọc,màn hình|IPhone bị màn hình dọc bạn: Bạn tắt cái khóa xoay màn hình đi. xong tắt game mở lên lại. xoay ngang trước khi mở nhé
 nút di chuyển|Nút di chuyển bạn bấm vào nút tam giác bên tay trái rồi vào phần Chức Năng, chọn Cấu Hình, rồi chọn Bàn Phím Ảo nhé
 xoá dữ liệu,xdl|Chọn loại thiết bị bạn đang dùng? [xoá dữ liệu PC], [xoá dữ liệu apk], [xoá dữ liệu ios], [xoá dữ liệu Jar]
