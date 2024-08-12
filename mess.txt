@@ -1,6 +1,4 @@
-hồng ngọc|hồng ngọc săn boss, up quái cold, hiến tế [đồ thần linh], [nạp thẻ]
-hngoc|hồng ngọc săn boss, up quái cold, hiến tế [đồ thần linh], [nạp thẻ]
-hn|hồng ngọc săn boss, up quái cold, hiến tế [đồ thần linh], [nạp thẻ]
+hồng ngọc,hngoc,hn|hồng ngọc săn boss, up quái cold, hiến tế [đồ thần linh], [nạp thẻ]
 thỏi vàng|thỏi vàng làm nhiệm vụ hàng ngày ở [bò mộng], [hộ tống] ở quy lão, [nạp thẻ] (vàng và ngọc xanh nhận miễn phí ở nhà)
 tvang|thỏi vàng làm nhiệm vụ hàng ngày ở [bò mộng], [hộ tống] ở quy lão, [nạp thẻ] (vàng và ngọc xanh nhận miễn phí ở nhà)
 tv|thỏi vàng làm nhiệm vụ hàng ngày ở [bò mộng], [hộ tống] ở quy lão, [nạp thẻ] (vàng và ngọc xanh nhận miễn phí ở nhà)
