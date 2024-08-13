@@ -170,48 +170,48 @@ skill ô,5 chiêu|:; trên điện thoại chỉ gán được 5 ô thôi, mở 
 vamchar|:; Trước làng morri có cổng vào làng vamchar
 rương cấp 11|:; đủ 24 giờ từ lúc nhận rương thì mới mở được nhé
 kí gửi,ký gửi|:; Kí gửi mua bán bằng hồng ngọc nhé, không phải vàng
-danh hiệu,dhieu|Danh hiệu từ lúc nhận đã tăng sẵn chỉ số (lỡ làm mất danh hiệu thì chỉ số vẫn được cộng) ở Thần Mèo Karin trong rừng karin nhé chỗ Bò Mộng
-trái thần long,mảnh đất,cây cuốc,khu đất,nông trại|Bạn mua đất + cây cuốc rồi săn boss đủ 30 điểm sẽ trồng được cây thần long, thu hoạch trái thần long ăn vào tăng chỉ số ( đặc biệt không bị ảnh hưởng với sức mạnh chí tôn )
-max sm,sdg,hpg,max sd, max hp|max sức mạnh là 300 tỷ nhé, max chỉ số 780k và 40k
-bot ơi,bot rep,con bot,bot trả lời|hỏi gì cứ hỏi đi? (liên quan đến vật phẩm hay gì cứ hỏi - không viết tắt - đúng chính tả)
-ước ngọc rồng|ước ngọc rồng thường đổi được skill 2-3-4 đệ tử nhé
-mị nương|rút cải trang mị nương ở Vua Hùng có tỷ lệ ra vĩnh viễn (nếu rút đủ 10 lần sẽ ra vĩnh viễn - không cần rút liên tục)
-tàu pảy pảy|tàu pảy pảy xuất hiện ở Rừng karin, tiêu diệt hắn sẽ rơi item siêu cấp nhé. Thời gian xuất hiện t đâu có biết
-lệnh,auto|Auto mod có full ở phần Thông Báo chỗ Chức Năng
-cảm ơn bot,ok bot|Dạ không có gì đâu anh yêu! Nhiệm vụ của em mà
-scam|Sì Trái Cam là hành vi vi phạm đạo đức của một con người! Xin đừng Sì Trái Cam
-đệ tử,gohan,itachi,mabu,ma bư,trứng bư,mabư,bư|có 4 loại đệ : thường (0%), mabu (30%) - săn ma bư đảo kame, gohan (50%) săn bư 12h00 và 19h00 ở đại hội võ thuật, itachi (70%) cày hồng ngọc rồi mua ở santa. (tăng chỉ số hợp thể)
-Vòng quay thượng đế|Vòng quay thượng đế quay tốn hồng ngọc (chưa thêm vật phẩm đặc biệt)
-linh thú|Linh thú mua ở santa nè, rút ở Thỏ Đại bịp nè, mua trứng linh thú ở santa nè
-mới chơi|Bạn mới chơi thì năng nổ giao tiếp với mọi người trong box nè, nhất là giao tiếp với tôi nhé!
-share,event|Muốn biết có event gì thì vào trang chủ đăng nhập rồi qua trang diễn đàn mà đọc đi nhé, có hướng dẫn hết (siêng thì ăn kiêng, lười thì ăn đb)
-khắc ấn vô song|Khắc ấn sẽ không mất bông tai vô song nhé
-chân mệnh,tu luyện,vòng chân|bạn lên hành tinh kaio gặp thiên sứ whis để nâng chân mệnh nhé. điểm tu luyện làm nhiệm vụ tu luyện của bò mộng. 1000 điểm 1 level
-người yêu bot|Máy móc mà được yêu thì chắc tôi yêu bạn đầu tiên đấy!
-rep ad,admin,Kiệt|Admin là người có chìa khóa vàng, mình không phải ad, ad chưa rep là đang bận. rảnh tay ad sẽ rep liền. đừng có hối nhé
-mưa|trời mưa rồi hả, chỗ tôi trời vẫn sáng nè
-phiếu giảm giá,pgg|phiếu giảm giá bạn săn boss đô rê a mon hoặc liễu thần nhé (đổi rương thần tiên ở Vados)
-đền bù|bù khu chứ bù, chơi game free all còn bù
-đẹp đâu,đẹp cc|Tôi thấy đẹp mà
-tối rồi|Trời chỗ bạn tối rồi hả, ở chỗ tôi trời sáng mãi
-lạnh|Bạn cảm thấy lạnh thì hãy đến bên tôi, để tôi đốt lửa lên rồi ta cùng tâm sự nhé
-nóng|nóng quá thì mình cùng đi biển thôi, nước mát quá nè
-ngọc hóa|Ngọc hóa kiếm ở boss Cooler, max 7 level nhé
-hộ tống|bạn hộ tống thằng nhóc về đến làng hoặc vách núi cạnh làng nhé
-bỏ qua nv|Bạn bỏ qua nhiệm vụ ở Quy lão đó, ngon ác, bỏ 1 lần hẳn 1 level không phải nhiệm vụ nhỏ
-cốt|Cốt chí tôn rơi từ các sự kiện và chức năng khác nhau. ép vào trang bị sẽ tăng chỉ số trang bị cực mạnh, nếu mặc đủ 3 món sẽ tăng thêm 10%, 4 món 20%, 5 món 30%. Những ai đứng gần sẽ bị giảm sát thương đi 50% mỗi 30 giây. Nhai trái thần long để không bị giảm khi đứng gần Chí Tôn nhé
-set gì|set love nhé (setlove cùng mình nè)
-pháo trẻ trâu|sử dụng pháo trẻ trâu sẽ nổ banh lon cả khu nhé
-ngọc bội,eyes|Bạn mua ngọc bội ở santa, sau đó mang bội lên người rồi train quái ở Làng lá (đường vào ở quy lão - đến đảo - chạy qua trái sẽ đến làng lá) Bạn train sẽ rơi mảnh mắt. thu thập đủ mảnh mắt thì nâng bội lên Susano (eyes chính thức) mới nâng thì eyes sẽ 1% 3 loại chỉ số. up càng nhiều nâng càng nhiều chỉ số susano sẽ tăng lên. hãy nâng susano lên 50% 55% 55% rồi mới đi đục lỗ ép sao nhé
-đá nâng cấp,tat,ruby|Đá nâng cấp ở santa bạn có thể mua rồi sử dụng sẽ ra 1 đống đá nâng cấp nhé (thạch anh tím, ruby, titan,..)
-đổi tên|Thẻ đổi tên mua ở santa, được đổi tên thành có Dấu viết hoa và kí tự đặc biệt nhé (đừng đặt quá dài sẽ bị mất thẻ đổi tên mà không đổi được tên)
-trứng linh thú|trứng linh thú thì chờ 60 phút nó mới cho nở nhé
-Rương thiên tôn|Các rương đồ ở santa đều được chọn loại và chọn set (không phải ngẫu nhiên nhé)
-mảnh sưu tầm|Mảnh sưu tầm quái nào bạn train quái đó là rơi
-chờ duyệt|Bài chờ duyệt vẫn tính (yêu cầu chụp lại bài chờ duyệt)
-thg,vãi|Anh em đô nết cho ad đi chứ đêm qua ad có chia sẻ với tui là ad dạo này đói ác. Thương ad quá đi!
-bông tai,porata,mvbt,đá đỏ, đá xanh|Bông tai cấp 2 max 15% (mảnh vỡ, mảnh hồn, đá xanh lam), 3 max 25% (đá xanh (không phải đá xanh lam), đá đỏ, đá tím),  bông tai vô song 25+ CSVIP (cày hngoc r mua ở santa), nguyên liệu rơi ở các map bên fide (nappa,..khỉ vàng) (Nâng cấp ở hạt mít vách núi)
-sợ chưa|Chưa sợ, ngon nhào zô
-bot var|ngon vào đây mà var này
-bot ny|Tôi làm gì đã có ny, tôi còn đang sợ ế đây này
-bot nhà nghỉ|Khách sạn thì mình còn suy nghĩ lại
+danh hiệu,dhieu|:; Danh hiệu từ lúc nhận đã tăng sẵn chỉ số (lỡ làm mất danh hiệu thì chỉ số vẫn được cộng) ở Thần Mèo Karin trong rừng karin nhé chỗ Bò Mộng
+trái thần long,mảnh đất,cây cuốc,khu đất,nông trại|:; Bạn mua đất + cây cuốc rồi săn boss đủ 30 điểm sẽ trồng được cây thần long, thu hoạch trái thần long ăn vào tăng chỉ số ( đặc biệt không bị ảnh hưởng với sức mạnh chí tôn )
+max sm,sdg,hpg,max sd, max hp|:; max sức mạnh là 300 tỷ nhé, max chỉ số 780k và 40k
+bot ơi,bot rep,con bot,bot trả lời|:3 hỏi gì cứ hỏi đi? (liên quan đến vật phẩm hay gì cứ hỏi - không viết tắt - đúng chính tả)
+ước ngọc rồng|:; ước ngọc rồng thường đổi được skill 2-3-4 đệ tử nhé
+mị nương|:; rút cải trang mị nương ở Vua Hùng có tỷ lệ ra vĩnh viễn (nếu rút đủ 10 lần sẽ ra vĩnh viễn - không cần rút liên tục)
+tàu pảy pảy|:; tàu pảy pảy xuất hiện ở Rừng karin, tiêu diệt hắn sẽ rơi item siêu cấp nhé. Thời gian xuất hiện t đâu có biết
+lệnh,auto|:; Auto mod có full ở phần Thông Báo chỗ Chức Năng
+cảm ơn bot,ok bot|:3 Dạ không có gì đâu anh yêu! Nhiệm vụ của em mà
+scam|:! Sì Trái Cam là hành vi vi phạm đạo đức của một con người! Xin đừng Sì Trái Cam
+đệ tử,gohan,itachi,mabu,ma bư,trứng bư,mabư,bư|:; có 4 loại đệ : thường (0%), mabu (30%) - săn ma bư đảo kame, gohan (50%) săn bư 12h00 và 19h00 ở đại hội võ thuật, itachi (70%) cày hồng ngọc rồi mua ở santa. (tăng chỉ số hợp thể)
+Vòng quay thượng đế|:; Vòng quay thượng đế quay tốn hồng ngọc (chưa thêm vật phẩm đặc biệt)
+linh thú|:; Linh thú mua ở santa nè, rút ở Thỏ Đại bịp nè, mua trứng linh thú ở santa nè
+mới chơi|:3 Bạn mới chơi thì năng nổ giao tiếp với mọi người trong box nè, nhất là giao tiếp với tôi nhé!
+share,event|:; Muốn biết có event gì thì vào trang chủ đăng nhập rồi qua trang diễn đàn mà đọc đi nhé, có hướng dẫn hết (siêng thì ăn kiêng, lười thì ăn đb)
+khắc ấn vô song|:; Khắc ấn sẽ không mất bông tai vô song nhé
+chân mệnh,tu luyện,vòng chân|:; bạn lên hành tinh kaio gặp thiên sứ whis để nâng chân mệnh nhé. điểm tu luyện làm nhiệm vụ tu luyện của bò mộng. 1000 điểm 1 level
+người yêu bot|:3 Máy móc mà được yêu thì chắc tôi yêu bạn đầu tiên đấy!
+rep ad,admin,Kiệt|:3 Admin là người có chìa khóa vàng, mình không phải ad, ad chưa rep là đang bận. rảnh tay ad sẽ rep liền. đừng có hối nhé
+mưa|:( trời mưa rồi hả, chỗ tôi trời vẫn sáng nè
+phiếu giảm giá,pgg|:; phiếu giảm giá bạn săn boss đô rê a mon hoặc liễu thần nhé (đổi rương thần tiên ở Vados)
+đền bù|:> bù khu chứ bù, chơi game free all còn bù
+đẹp đâu,đẹp cc|:; Tôi thấy đẹp mà
+tối rồi|:> Trời chỗ bạn tối rồi hả, ở chỗ tôi trời sáng mãi
+lạnh|:; Bạn cảm thấy lạnh thì hãy đến bên tôi, để tôi đốt lửa lên rồi ta cùng tâm sự nhé
+nóng|:3 nóng quá thì mình cùng đi biển thôi, nước mát quá nè
+ngọc hóa|:; Ngọc hóa kiếm ở boss Cooler, max 7 level nhé
+hộ tống|:; bạn hộ tống thằng nhóc về đến làng hoặc vách núi cạnh làng nhé
+bỏ qua nv|:; Bạn bỏ qua nhiệm vụ ở Quy lão đó, ngon ác, bỏ 1 lần hẳn 1 level không phải nhiệm vụ nhỏ
+cốt|:; Cốt chí tôn rơi từ các sự kiện và chức năng khác nhau. ép vào trang bị sẽ tăng chỉ số trang bị cực mạnh, nếu mặc đủ 3 món sẽ tăng thêm 10%, 4 món 20%, 5 món 30%. Những ai đứng gần sẽ bị giảm sát thương đi 50% mỗi 30 giây. Nhai trái thần long để không bị giảm khi đứng gần Chí Tôn nhé
+set gì|:3 set love nhé (setlove cùng mình nè)
+pháo trẻ trâu|:; sử dụng pháo trẻ trâu sẽ nổ banh lon cả khu nhé
+ngọc bội,eyes|:; Bạn mua ngọc bội ở santa, sau đó mang bội lên người rồi train quái ở Làng lá (đường vào ở quy lão - đến đảo - chạy qua trái sẽ đến làng lá) Bạn train sẽ rơi mảnh mắt. thu thập đủ mảnh mắt thì nâng bội lên Susano (eyes chính thức) mới nâng thì eyes sẽ 1% 3 loại chỉ số. up càng nhiều nâng càng nhiều chỉ số susano sẽ tăng lên. hãy nâng susano lên 50% 55% 55% rồi mới đi đục lỗ ép sao nhé
+đá nâng cấp,tat,ruby|:; Đá nâng cấp ở santa bạn có thể mua rồi sử dụng sẽ ra 1 đống đá nâng cấp nhé (thạch anh tím, ruby, titan,..)
+đổi tên|:; Thẻ đổi tên mua ở santa, được đổi tên thành có Dấu viết hoa và kí tự đặc biệt nhé (đừng đặt quá dài sẽ bị mất thẻ đổi tên mà không đổi được tên)
+trứng linh thú|:; trứng linh thú thì chờ 60 phút nó mới cho nở nhé
+Rương thiên tôn|:; Các rương đồ ở santa đều được chọn loại và chọn set (không phải ngẫu nhiên nhé)
+mảnh sưu tầm|:; Mảnh sưu tầm quái nào bạn train quái đó là rơi
+chờ duyệt|:; Bài chờ duyệt vẫn tính (yêu cầu chụp lại bài chờ duyệt)
+thg,vãi|:3 Anh em đô nết cho ad đi chứ đêm qua ad có chia sẻ với tui là ad dạo này đói ác. Thương ad quá đi!
+bông tai,porata,mvbt,đá đỏ, đá xanh|:3 Bông tai cấp 2 max 15% (mảnh vỡ, mảnh hồn, đá xanh lam), 3 max 25% (đá xanh (không phải đá xanh lam), đá đỏ, đá tím),  bông tai vô song 25+ CSVIP (cày hngoc r mua ở santa), nguyên liệu rơi ở các map bên fide (nappa,..khỉ vàng) (Nâng cấp ở hạt mít vách núi)
+sợ chưa|:! Chưa sợ, ngon nhào zô
+bot var|:! ngon vào đây mà var này
+bot ny|:3 Tôi làm gì đã có ny, tôi còn đang sợ ế đây này
+bot nhà nghỉ|:3 Khách sạn thì mình còn suy nghĩ lại
