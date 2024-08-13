@@ -84,7 +84,7 @@ cập nhật mới|Tin mới: Mỗi tháng sẽ clear bang hội 1 lần để t
 nạp,donate|Bạn vào trang chủ rồi nạp tự động rồi vô santa đổi sang hồng ngọc hoặc thỏi vàng nhé (tỷ lệ quy đổi 10k = 20k hồng ngọc, 60k = 10k thỏi vàng)
 code mới|Khi nào game có giftcode mới sẽ có thông báo nha quý dị
 đồ thần,dtl,đồ tl|đồ thần bạn săn boss hoặc up cold nhé (dâng hiến ở thiên sứ whis)
-hỗ trợ,ho tro nv|khung giờ hỗ trợ nhiệm vụ 9-12h sáng tối
+hỗ trợ,ho tro nv|khung giờ hỗ trợ nhiệm vụ 9-12h sáng tối (ai nhiệm vụ đó mới được vào khu)
 bán nick,mua nick,bán nick,bán acc,bay nick,bay acc|Vui lòng thu hồi tin nhắn, hãy vào box mua bán trên ghim
 chiến thần|chiến thần là đệ tử thứ 2 tăng sức mạnh cực mạnh, mua trứng ở chỗ Quy lão rồi vào đảo hoa nhé
 calich| ở đầu rừng bambo
