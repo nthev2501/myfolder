@@ -57,6 +57,11 @@ Tiểu đội sát thủ,tdst,boss số, số 4, tđst|Tiểu đội sát thủ 
 Fide|Fide (thời gian: 10 phút) (địa chỉ: Núi khỉ vàng) (hỗ trợ: có) (sát thương tối đa: 50.000.000)
 androi19,androi20,kore,apk19,apk20|Android19-20 (thời gian: 15 phút) (địa chỉ: Thành phố phía nam) (hỗ trợ: có) (sát thương tối đa: 70.000.000)
 pic,poc,kingkong,ppkk|Pic-Poc-Kingkong (thời gian: 15 phút) (địa chỉ: Thành phố phía bắc) (hỗ trợ: có) (sát thương tối đa: 100.000.000)
+xên thị trấn,cell thị trấn,xên bọ hung,ginder,thị trấn|Xên ở thị trấn Ginder (thời gian: 15 phút) (địa chỉ: Thị trấn Ginder) (hỗ trợ: có) (sát thương tối đa: 400.000.000)
+xên võ đài,cell võ đài,siêu bọ hung,võ đài,vo dai|Xên ở Võ đài Xên Bọ Hung (thời gian: 15 phút) (địa chỉ: Võ Đài Xên Bọ Hung) (hỗ trợ: có) (sát thương tối đa: 500.000.000)
+doremon,doraemon,nobita,shizuka,chaien,xeko|Boss Tiểu đội doraemon (thời gian: 20 phút) (địa chỉ: không xác định) (hỗ trợ: không) (sát thương tối đa: không)
+doremon,doraemon,nobita,shizuka,chaien,xeko|Boss Tiểu đội doraemon (thời gian: 20 phút) (địa chỉ: không xác định) (hỗ trợ: không) (sát thương tối đa: không)
+hải tặc,luffy,nami,zoro,sanji,brook|Boss Tiểu đội Luffy (thời gian: 20 phút) (địa chỉ: không xác định) (hỗ trợ: không) (sát thương tối đa: 100.000.000)
 dọc,màn hình|IPhone bị màn hình dọc bạn: Bạn tắt cái khóa xoay màn hình đi. xong tắt game mở lên lại. xoay ngang trước khi mở nhé
 nút di chuyển|Nút di chuyển bạn bấm vào nút tam giác bên tay trái rồi vào phần Chức Năng, chọn Cấu Hình, rồi chọn Bàn Phím Ảo nhé
 xoá dữ liệu,xdl|Chọn loại thiết bị bạn đang dùng? [xoá dữ liệu PC], [xoá dữ liệu apk], [xoá dữ liệu ios], [xoá dữ liệu Jar]
