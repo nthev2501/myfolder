@@ -1,175 +1,175 @@
-hồng ngọc,hong ngoc,đỏ ngọc,hngoc,hn|Hồng ngọc săn boss, up quái cold, hiến tế đồ thần linh, nạp thẻ
-thỏi,tvang,tv|thỏi vàng làm nhiệm vụ hàng ngày ở bò mộng, hộ tống ở quy lão, nạp thẻ (vàng và ngọc xanh nhận miễn phí ở nhà)
-spl,sao pha lê|Sao pha lê bạn train quái gì cũng rơi, hoặc xin người chơi khác
-bot pin|Tôi chạy bằng điện trực tiếp nên không có sài pin nhen
-bò mộng,nvhn,bo mong|Bò mộng ở Rừng karin có giao nhiệm vụ hàng ngày nhận được thỏi vàng, cày chân mệnh chí tôn ở đó luôn nhé. 1000 điểm lên 1 level chân mệnh đó
-địa ngục|Map địa ngục bạn ra gặp Cu Tí ở đảo kame rồi vào map gặp Diêm Vương để xuống nhé
-ngục tù,htnt|Hành tinh ngục tù bạn vào rừng karin rồi đi miết miết lên trên là tới
-tiểu hạt|Bạn đi doanh trại giết boss sẽ rơi tiểu hạt nhiệm vụ
-sau đảo|Gặp Cu Tí để vào sau đảo
-hihi|hihi
-hehe|hehe
-bán bot|Bán cái lol chứ bán
-haha|haha
-bot bot|kêu gì thế?
-khúc gỗ,keo dán,giấy,cái cưa|khúc gỗ,keo dán,giấy,cái cưa là vật phẩm sự kiện (gỗ + cưa = giấy, giấy + kéo = sách)
-cay|Cay thì mua sữa về uống, tiện mua dùm tui thùng vinamilk luôn nhé. Cảm ơn!
-potaufeu|Hang potaufeu bạn đến trạm tàu vũ trụ trái đất tìm thằng Jaco để vào đánh nhân bản rơi item siêu cấp
-doanh trại|Vào rừng bambo gặp lính canh để vào doanh trại, tất cả người đứng gần phải xong nhiệm vụ 24 mới được đi
-up đâu, up sm, úp đâu, úp sm|Bạn ép sức đánh cho đồ rồi vào Ngũ Hành Sơn ở Làng Aru up cho lẹ, Sau đó đến địa ngục ở Cu Tí Đảo Kame vào sau đảo gặp Diêm Vương
-kẹt|kẹp map thì đăng nhập vào web rồi bấm nút thoát kẹt nhé
-làm về|Đi làm về mệt mỏi thì kệ chứ kể chi z
-tạo nv,tạo nhân vật,tao nv|Bạn chọn cấu hình cao mới tạo nhân vật được nhé
-điểm boss|Điểm boss bạn đánh boss sẽ có điểm ( tuỳ boss ngẫu nhiên chứ không xác định được boss nào rơi điểm )
-website,trang chủ,web|Link website: https://ngocrongnthev.com
-ngáo bot|Ngáo đâu, mày mới ngáo đó
-vũ trụ 9|Bạn chat 'm' hoặc 'map' để vào Vũ trụ số 9
-vamchar|Làng vamchar bạn tới làng morri để vào nhé
-đảo hoa|gặp Quy lão để vào đảo hoa
-làng lá|Từ đảo hoa chạy sang trái là đến làng lá
-nhoè màn hình|nhoè màn hình, tình trạng này bạn nên tắt game mở lại, nếu không khắc phục được thì bạn hãy Xoá dữ liệu và tải lại dữ liệu mới (chat [xoá dữ liệu] để tôi hướng dẫn)
-lag khi đăng nhập bị xoay|lag khi đăng nhập bị xoay, tình trạng này bạn tắt game và vào trang chủ, đăng nhập vào và bấm nút thoát kẹt sẽ vào được game
-lag khi đã vào game|lag khi đã vào game, tình trạng này bạn thử thoát game vào lại, nếu không khắc phục được có thể nhắn cho admin
-game giật giật|Tình trạng game giật giật là do FPS máy bạn bị tụt thấp, nếu bạn sài bản Vũ Đăng hãy chọn cấu hình cao (đừng chọn cấu hình thấp)
-k vô dc,k vào dc,k vào được,không vào được game,k vô được,không vào được|Bạn cung cấp về tình trạng của bạn: [game giật giật], [lag khi đã vào game], [lag khi đăng nhập bị xoay], [nhoè màn hình], [tốc độ chậm]. Các lag khác bạn quay video hoặc ảnh gửi vào box để mọi người hỗ trợ
-lag|Bạn cung cấp về tình trạng của bạn: [game giật giật], [lag khi đã vào game], [lag khi đăng nhập bị xoay], [nhoè màn hình], [tốc độ chậm]. Các lag khác bạn quay video hoặc ảnh gửi vào box để mọi người hỗ trợ
-lỗi|Bạn đang gặp lỗi gì? [không vào được game] hay [không thấy npc] ? Lỗi khác thì bạn quay video hoặc hình ảnh rồi gửi vào box để mọi người hỗ trợ bạn nha!
-không thấy npc|Hãy xoá dữ liệu để tải dữ liệu mới, chọn loại thiết bị bạn đang dùng? [xoá dữ liệu PC], [xoá dữ liệu apk], [xoá dữ liệu ios], [xoá dữ liệu Jar]
-xoá dữ liệu PC|Bản Pc bạn chuột phải vào file tải về chọn Extract Here (k thấy extract here thì chat [Winrar] để mình gửi link tải). Mở game lên rồi bấm chữ Xoá Dữ Liệu dưới góc là được
-winrar|Bạn tải về rồi bấm cài đặt rồi tiếp tục như bên trên tôi chỉ: https://www.win-rar.com/fileadmin/winrar-versions/winrar/winrar-x64-701.exe   
-xoá dữ liệu apk|Để xoá dữ liệu bản Android bạn bấm giữ vào app game ->Chọn Thông tin ứng dụng -> Dung lượng lưu trữ -> Xoá dữ liệu
-xoá dữ liệu ios|Bạn xoá game tải lại là được hoặc bấm nút Xoá dữ liệu màu trắng ở góc
-xoá dữ liệu jar|Nếu sài Jar trên Android bạn xoá J2Me Loader đi, sau đó cài lại là được. Trên Pc thì xem hướng dẫn ở đây: https://youtu.be/Od90G9deiI4
-chậm,tốc|Bạn tăng tốc độ game bằng: một số lệnh chat bạn thử từng cái nhé (speed X | cheat_X | tdX | tocdo X - X là Số nhé - không viết hoa)
-cộng chỉ số,auto chỉ số,cộng cs,tăng cs|Bạn bấm vào ô thứ 2 ở phần Chức Năng có Auto cộng chỉ số nhanh
-up sm,cày sm|Bạn ép sức đánh cho đồ rồi vào Ngũ Hành Sơn ở Làng Aru up cho lẹ, Sau đó đến địa ngục ở Cu Tí Đảo Kame vào sau đảo gặp Diêm Vương
-cuồng nộ,item,cnsc,cn,bh, bổ huyết,bổ khí,bk|Các loại item và item siêu cấp đều mở ra từ capsule kì bí
-cskb,capsule,kì bí|Capsule kì bí rơi ở tương lai khi bạn sử dụng máy dò và đánh quái [xu mua máy dò]
-đồng xu,xu mua máy dò|Xu mua máy dò bạn đánh quái ngũ hành sơn là rơi nhé
-thật ko|Nói xạo đó kaka
-sức mạnh,chỉ số max,ghsm|Bạn ra vách núi morri gặp quốc vương để mở giới hạn sức mạnh nhé (Sức mạnh max hiện tại cho sư phụ và đệ tử là 300 tỷ) Chỉ số max hiện tại cho sư phụ và đệ tử là 780K và 40K (Sư phụ có thể [trùng sinh] để tăng thêm)
-trùng sinh|Bạn cần có Canh Mạnh Bà để trùng sinh, Trùng sinh sẽ tăng thêm 5% chỉ số gốc (819K và 42K) [nguyên liệu trùng sinh]
-mạnh bà|Canh mạnh bà bạn có thể mua ở Sau đảo hoặc thu thập x999 11 nguyên liệu ở địa ngục để nấu Canh mạnh bà
-chỉ số đệ|Đệ tử không lỗi sức mạnh và chỉ số, bạn treo up lâu là full hết
-bí kíp, yadat, yardrat|Bạn qua núi khỉ vàng gặp goku ssj rồi vào hành tinh yardrat up bí kíp cải trang. Và Đi doanh trại đánh quái là rơi bí kíp tuyệt kĩ nhé, xong lên hành tinh kaio học sì kiu đặc biệt
-mảnh thiên sứ, mts, mảnh ts, manh ts|mảnh thiên sứ up ở hành tinh ngục tù xong đem ra Thiên sứ whis đảo kame mà nâng (đọc nguyên liệu ở đó)
-câu cá|Câu cá thì mua cần câu rồi bấm sử dụng là được (1 lần câu 500 hồng ngọc - không mất cần câu)
-Tiểu đội sát thủ,tdst,boss số, số 4, tđst|Tiểu đội sát thủ (thời gian: 10 phút) (địa chỉ: Núi khỉ đỏ) (hỗ trợ: có) (sát thương tối đa: 30.000.000)
-Fide|Fide (thời gian: 10 phút) (địa chỉ: Núi khỉ vàng) (hỗ trợ: có) (sát thương tối đa: 50.000.000)
-androi19,androi20,kore,apk19,apk20|Android19-20 (thời gian: 15 phút) (địa chỉ: Thành phố phía nam) (hỗ trợ: có) (sát thương tối đa: 70.000.000)
-pic,poc,kingkong,ppkk|Pic-Poc-Kingkong (thời gian: 15 phút) (địa chỉ: Thành phố phía bắc) (hỗ trợ: có) (sát thương tối đa: 100.000.000)
-xên thị trấn,cell thị trấn,xên bọ hung,ginder,thị trấn|Xên ở thị trấn Ginder (thời gian: 15 phút) (địa chỉ: Thị trấn Ginder) (hỗ trợ: có) (sát thương tối đa: 400.000.000)
-xên võ đài,cell võ đài,siêu bọ hung,võ đài,vo dai|Xên ở Võ đài Xên Bọ Hung (thời gian: 15 phút) (địa chỉ: Võ Đài Xên Bọ Hung) (hỗ trợ: có) (sát thương tối đa: 500.000.000)
-doremon,doraemon,nobita,shizuka,chaien,xeko|Boss Tiểu đội doraemon (thời gian: 20 phút) (địa chỉ: không xác định) (hỗ trợ: không) (sát thương tối đa: không)
-doremon,doraemon,nobita,shizuka,chaien,xeko|Boss Tiểu đội doraemon (thời gian: 20 phút) (địa chỉ: không xác định) (hỗ trợ: không) (sát thương tối đa: không)
-hải tặc,luffy,nami,zoro,sanji,brook|Boss Tiểu đội Luffy (thời gian: 20 phút) (địa chỉ: không xác định) (hỗ trợ: không) (sát thương tối đa: 100.000.000)
-dọc,màn hình|IPhone bị màn hình dọc bạn: Bạn tắt cái khóa xoay màn hình đi. xong tắt game mở lên lại. xoay ngang trước khi mở nhé
-nút di chuyển|Nút di chuyển bạn bấm vào nút tam giác bên tay trái rồi vào phần Chức Năng, chọn Cấu Hình, rồi chọn Bàn Phím Ảo nhé
-xoá dữ liệu,xdl|Chọn loại thiết bị bạn đang dùng? [xoá dữ liệu PC], [xoá dữ liệu apk], [xoá dữ liệu ios], [xoá dữ liệu Jar]
-đăng ký,dky,tạo,sai,chính xác,đăng nhập|đăng ký hoặc đăng nhập không được thì chụp màn hình lại gửi vào đây mọi người hướng dẫn nhé
-hồn|Hãy cho mình biết bạn muốn hỏi về hồn gì? [hồn thiên tôn], [hồn hạ tôn], [hồn chí tôn], [mảnh hồn]
-hồn thiên tôn,hồn chí tôn|hồn thiên tôn hay còn gọi là hồn chí tôn, Cách kiếm: bạn dùng cuồng nộ siêu cấp và đánh quái cold sẽ rơi, Cách dùng: bạn xem ở Bà Hạt Mít
-hồn hạ tôn|hồn hạ tôn, Cách kiếm: bạn dùng cuồng nộ thường và đánh quái cold sẽ rơi, Cách dùng: bạn xem ở Bà Hạt Mít
-mảnh hồn,kính soi,kính lúp,viên kẹo|Bạn mua [kính lúp], [kính soi], và [viên kẹo] sau đó đi tìm [mảnh hồn] nhé (có thể tìm được [rương chí tôn] từ chức năng này đó) Các [mảnh hồn] có thể đổi vài món đồ ở santa đó
-thức ăn,thuc an, đồ ăn|Thức ăn bạn mặc set thần linh rồi up quái cold là rơi
-black goku|Black goku mạnh vcl đấy mấy cưng, rơi nhẫn thời không để vào map Chilled
-giftcode,code|Game hiện đang có giftcode: ngocrong1, ngocrong2, ngocrong3, ngocrong4, ngocrong5, ngocrong6, zalobox và ngocrongnthevcom
-link tải,tải game,download,apk,pc,máy tính, iphone,ios,jar,testflight,appcenter|Bạn có thể tải game (đầy đủ mọi thứ) bằng link trên ghim hoặc link này nhé: https://ngocrongvosong.com
-id,ip,ipsv|Nhập đầy đủ từ NgocRong đến hết |231:         NgocRongNThev:14.225.203.19:14445:0,0,0|231
-bảo trì,btri|Thấy bảo trì thì lo mà thoát game đi (không thoát mất đồ khỏi ib ad - ad không có rep đâu) :))
-Fanpage|Link fanpage nè https://www.facebook.com/ngocrongnthevmax
-Tiktok|Link tiktok nè https://www.tiktok.com/@megameonline2024
-Youtube|Link youtube nè https://youtube.com/@ngocrongonline2501
-cập nhật mới|Tin mới: Mỗi tháng sẽ clear bang hội 1 lần để tối ưu độ mượt từ server
-nạp,donate|Bạn vào trang chủ rồi nạp tự động rồi vô santa đổi sang hồng ngọc hoặc thỏi vàng nhé (tỷ lệ quy đổi 10k = 20k hồng ngọc, 60k = 10k thỏi vàng)
-code mới|Khi nào game có giftcode mới sẽ có thông báo nha quý dị
-đồ thần,dtl,đồ tl|đồ thần bạn săn boss hoặc up cold nhé (dâng hiến ở thiên sứ whis)
-hỗ trợ,ho tro nv|khung giờ hỗ trợ nhiệm vụ 9-12h sáng tối (ai nhiệm vụ đó mới được vào khu)
-bán nick,mua nick,bán nick,bán acc,bay nick,bay acc|Vui lòng thu hồi tin nhắn, hãy vào box mua bán trên ghim
-chiến thần|chiến thần là đệ tử thứ 2 tăng sức mạnh cực mạnh, mua trứng ở chỗ Quy lão rồi vào đảo hoa nhé
-calich| ở đầu rừng bambo
-kuku,mập đầu đinh,map dau dinh,rambo|Mấy boss KuKu,Mdđ,Rambo (5phút) bạn ra Thành Phố Vegeta Gặp Cui để tìm nhanh nhé (boss chết thì chờ rồi tìm tiếp)
-Đồ vip,trang bị vip|Trang bị kích hoạt vip nâng ở Thiên Sứ whis đảo kame (xem nguyên liệu ở đó luôn nhé)
-mảnh ấn|bạn tiêu diệt boss ở Hành tinh ngục tù nhé
-mấy sao,level|trang bị thường 10 sao và trang bị vip 12 sao, trang bị thường 9 cấp và trang bị vip 10 cấp (cày có hết)
-mất pt, mất bang,xóa pt,xóa bang,clear pt, lỗi pt,lỗi bang,clear bang|Mỗi tháng sẽ clear bang hội để lọc toàn bộ clone (tối ưu cho server) (không bù đâu nên không cần báo)
-cày chay|Mèo méo meo mèo meo...mlem..mlem
-đá quý,da quy,khí gas,khi gas|đá quý săn tiểu đội đường tăng hoặc đi khí gas ở làng aru nhé
-dbv,đá bảo vệ|đá bảo vệ bạn đi doanh trại rơi đầy
-khuyến mãi,km nạp|Game khuyến mãi nạp thẻ tối đa 30% chứ không có quá nha mọi người
-đổi|Bạn ơi bạn ơi, xin hãy viết đúng chính tả và đừng viết tắt tôi mới hiểu bạn nói gì! :))
-ngọc rồng siêu cấp,nrsc,ngọc rồng sc, nr siêu cấp,ước được gì|Ngọc rồng siêu cấp chỉ để ước (không ép được) (ước được gì thì ước đi rồi biết chứ tôi biết đâu)
-ai đẹp,bot đẹp|admin đẹp nhất nhé! Tôi đánh giá khách quan là như thế
-chán|Tại sao bạn lại chán, bắt con gián bỏ vô háng cho đỡ chán
-bot ngủ|Tôi không ngủ đâu nhé, tôi luôn sẵn sàng phục vụ bạn
-alo,lô,alô,hello,chào|Hello anh đẹp trai
-bot ơi,alo bot,bot đâu|kêu gì mà lắm vậy
-chào bot|Hi! Chào cậu, cho mình làm quen nhé!
-chê bot|Chê lol gì mà chê
-nm td|thích chơi gì chơi, chơi với tôi sẽ vui hơn đấy
-mốc nạp|bạn đăng nhập vô web rồi tự mở mốc nhé
-thành công|Bạn gặp vấn đề khi vào game, hãy chụp chỗ Tên server ở chỗ đăng nhập trong game gửi vô đây xem đúng Ngoc Rong Vo Song không, nếu không đúng thì bạn xóa dữ liệu đi nhé mới vào được
-bot khôn,bot không khôn|ai cũng biết rằng tôi khôn mà
-còn sống không|Tôi vẫn còn sống đây, tôi đứng đây chờ bạn từ chiều
-phụ kiện|phụ kiện mua ở santa cho nhanh
-cành tre|Bạn gom đủ 9999 rồi ghép thành cần câu đi câu cá nhé
-sv mấy| bạn chọn server 1 nhé
-test,open,op,sv|Server Vừa Mới Open Vẫn Free Hơn Cả Test
-mtv,mở tv,mở thành viên,kích hoạt|Game free MTV nhé (tạo acc là kích hoạt sẵn rồi)
-tàn sát|Lệnh tàn sát ở thông báo phần chức năng, còn tàn sát bản koioctieu bạn mua máy tự động luyện tập rồi sử dụng rồi bấm góc trên cùng bên trái chọn train quái
-chức năng|Các NPC đều có chỉ chức năng, bạn tới đó đọc nhé
-tỷ lệ nạp,tỉ lệ nạp, tỷ lệ quy đổi, tỉ lệ quy đổi|Quy đổi ở santa có tỷ lệ bạn ra xem nhé
-dhd, dts, đồ hủy diệt, đồ thiên sứ, đồ ts|Nâng cấp đồ ở thiên sứ đảo kame (có hướng dẫn)
-bịp|thằng bên trên mới bịp nhé
-cái gì,update,cái j,gì đây|Có nhiều thứ tôi chưa được biết đến, bạn cứ gửi vào nhóm đi mọi người sẽ giúp đỡ bạn nhé
-varon,food,mp3|Ngọc rồng Varon mua source của Server này nhen
-lỡ đổi đệ,quên tháo|Lỡ đổi thì lỗi tại mình chứ ai mà hỏi, tự chịu đi kaka
-bot giận,bot dỗi|Tôi không biết giận đâu, ai chửi thì tôi chửi lại
-bot yêu|Tôi đang thầm yêu bạn nè! Xíu chúng ta in bóc nhau nhé
-boss bí ngô|Boss bí ngô khi bạn dùng mắt kính + kính lúp + kẹo mua ở Sau đảo kame (gặp Cu Tí) dùng để dò hồn sẽ rơi ra mảnh hồn đổi được rương thần linh kích hoạt với rương mị lực mở ra cốt chí tôn đó
-chụp|Chụp đi chụp đi, chụp gửi vô đây xem ké với
-dcu bot|dcu mày
-lặc|lặc má mày chứ lặc
-ra chửi tụi nó|nào? nào? thằng nào ngon thì bước ra đây nào?
-bot ơi| Có tôi đây! bạn muốn hỏi gì? nhớ ghi đúng chính tả tôi mới hiểu nhé
-Tiêu diệt ở đâu|Nhiệm vụ bò mộng có chỉ chỗ Quái đó quí zị
-code live|Nào admin live mới có, chứ admin đang nuôi con lười
-ngũ hành sơn|ra làng aru gặp Đường tăng để vào Ngũ Hành Sơn
-bot cặc|cặc ba mày chứ cặc
-đéo tin|Đéo tin thì thôi ai mượn m tin
-thơm|Thơm quá đi, cho hưởng ké xíu
-fide|boss fide 10 phút 1 đợt (xuất hiện tại núi khỉ vàng)
-ai lấy|Cho tui, cho tui đi
-im đi|mày mới phải im đấy
-dcu bot|dcu mày
-bot thông minh|ai cũng nói là tôi thông minh mà. cảm ơn bạn! 
-câm bot|mày mới là người phải câm đấy
-bot lồn|lồn má mày chứ lồn
-bot ngu|mày mới là thằng ngu đó
-bot nguu|mày mới là thằng nguu đó
-lỗi ước rồng| Bạn tắt game rồi vào lại khu là gọi được
-bot cặc|cặc ba mày chứ cặc
-bot hài|Tôi sinh ra cũng để tấu hài cho cái box này, mong được trả lương hậu hĩnh
-Địt|địt cái đầu mày chứ địt
-thông đít|thông đít mày
-óc lồn|lồn mà có óc hử?
-bot nói nhiều|nói nhiều sao bằng mày được hả nhóc
-solo|nào nào? muốn gì nào? muốn solo thì nhào vô nào?
-mệt|làm gì mà mệt hả?
-lỗi nạp thẻ|Báo lỗi nạp thì liên hệ người có chìa khoá màu vàng trong box zalo nhé
-đĩ mẹ m|đĩ mẹ m
-dame sao,dame gì,dame gốc,dame ảo,dame trung|Server dame trung (giải thích: dame gốc: boss yếu, dame trung: boss trâu, dame ảo: boss siêu trâu) không khác gì nhau cả
-nv khó quá|Game nào cũng có nhiệm vụ dễ nhiệm vụ khó mới là game, dễ quá thì ai cũng qua sẽ đâm ra chán. Nên hãy cứ đam mê đi!
-max cs,max chi so,chi so max|HP KI 780K SD 40K nhé
-ad giàu|ad không có tiền mua sịp mặc nữa chứ giàu
-tiền chưa vào|nạp tiền chưa cộng thì chờ 3-5phut chưa cộng thì liên hệ key vàng
-trạng thái|Trạng Thái: Đang hoạt động
-Super Kamejoko,Ma Phong Ba,Liên Hoàn Chưởng,Super Kame,Skill đặc biệt|Học ở hành tinh Kaio ( rừng karin đi lên ) gặp Thiên Sứ Whis
-Skill đệ tử|Đệ tử có 6 chiêu ước rồng thường đổi được skill 2-3-4, rồng từ các event đổi skill 1-5 nhé quý zị
-skill ô,5 chiêu| trên điện thoại chỉ gán được 5 ô thôi, mở máy tính lên sẽ gán được 10 ô đấy
-vamchar|Trước làng morri có cổng vào làng vamchar
-rương cấp 11|đủ 24 giờ từ lúc nhận rương thì mới mở được nhé
-kí gửi,ký gửi|Kí gửi mua bán bằng hồng ngọc nhé, không phải vàng
+hồng ngọc,hong ngoc,đỏ ngọc,hngoc,hn|:; Hồng ngọc săn boss, up quái cold, hiến tế đồ thần linh, nạp thẻ
+thỏi,tvang,tv|:; thỏi vàng làm nhiệm vụ hàng ngày ở bò mộng, hộ tống ở quy lão, nạp thẻ (vàng và ngọc xanh nhận miễn phí ở nhà)
+spl,sao pha lê|:; Sao pha lê bạn train quái gì cũng rơi, hoặc xin người chơi khác
+bot pin|:; Tôi chạy bằng điện trực tiếp nên không có sài pin nhen
+bò mộng,nvhn,bo mong|:; Bò mộng ở Rừng karin có giao nhiệm vụ hàng ngày nhận được thỏi vàng, cày chân mệnh chí tôn ở đó luôn nhé. 1000 điểm lên 1 level chân mệnh đó
+địa ngục|:; Map địa ngục bạn ra gặp Cu Tí ở đảo kame rồi vào map gặp Diêm Vương để xuống nhé
+ngục tù,htnt|:; Hành tinh ngục tù bạn vào rừng karin rồi đi miết miết lên trên là tới
+tiểu hạt|:; Bạn đi doanh trại giết boss sẽ rơi tiểu hạt nhiệm vụ
+sau đảo|:; Gặp Cu Tí để vào sau đảo
+hihi|:3
+hehe|:3
+bán bot|:~ Sao lại bán chứ! 
+haha|:>
+bot bot|:; kêu gì thế?
+khúc gỗ,keo dán,giấy,cái cưa|:; khúc gỗ,keo dán,giấy,cái cưa là vật phẩm sự kiện (gỗ + cưa = giấy, giấy + kéo = sách)
+cay|:$ Cay thì mua sữa về uống, tiện mua dùm tui thùng vinamilk luôn nhé. Cảm ơn!
+potaufeu|:; Hang potaufeu bạn đến trạm tàu vũ trụ trái đất tìm thằng Jaco để vào đánh nhân bản rơi item siêu cấp
+doanh trại|:; Vào rừng bambo gặp lính canh để vào doanh trại, tất cả người đứng gần phải xong nhiệm vụ 24 mới được đi
+up đâu, up sm, úp đâu, úp sm|:; Bạn ép sức đánh cho đồ rồi vào Ngũ Hành Sơn ở Làng Aru up cho lẹ, Sau đó đến địa ngục ở Cu Tí Đảo Kame vào sau đảo gặp Diêm Vương
+kẹt|:; kẹp map thì đăng nhập vào web rồi bấm nút thoát kẹt nhé
+làm về|:> Đi làm về mệt mỏi thì kệ chứ kể chi z
+tạo nv,tạo nhân vật,tao nv|:; Bạn chọn cấu hình cao mới tạo nhân vật được nhé
+điểm boss|:; Điểm boss bạn đánh boss sẽ có điểm ( tuỳ boss ngẫu nhiên chứ không xác định được boss nào rơi điểm )
+website,trang chủ,web|:; Link website: https://ngocrongnthev.com
+ngáo bot|:! Ngáo đâu, mày mới ngáo đó
+vũ trụ 9|:; Bạn chat 'm' hoặc 'map' để vào Vũ trụ số 9
+vamchar|:; Làng vamchar bạn tới làng morri để vào nhé
+đảo hoa|:; gặp Quy lão để vào đảo hoa
+làng lá|:; Từ đảo hoa chạy sang trái là đến làng lá
+nhoè màn hình|:; nhoè màn hình, tình trạng này bạn nên tắt game mở lại, nếu không khắc phục được thì bạn hãy Xoá dữ liệu và tải lại dữ liệu mới (chat [xoá dữ liệu] để tôi hướng dẫn)
+lag khi đăng nhập bị xoay|:; lag khi đăng nhập bị xoay, tình trạng này bạn tắt game và vào trang chủ, đăng nhập vào và bấm nút thoát kẹt sẽ vào được game
+lag khi đã vào game|:; lag khi đã vào game, tình trạng này bạn thử thoát game vào lại, nếu không khắc phục được có thể nhắn cho admin
+game giật giật|:; Tình trạng game giật giật là do FPS máy bạn bị tụt thấp, nếu bạn sài bản Vũ Đăng hãy chọn cấu hình cao (đừng chọn cấu hình thấp)
+k vô dc,k vào dc,k vào được,không vào được game,k vô được,không vào được|:; Bạn cung cấp về tình trạng của bạn: [game giật giật], [lag khi đã vào game], [lag khi đăng nhập bị xoay], [nhoè màn hình], [tốc độ chậm]. Các lag khác bạn quay video hoặc ảnh gửi vào box để mọi người hỗ trợ
+lag|:; Bạn cung cấp về tình trạng của bạn: [game giật giật], [lag khi đã vào game], [lag khi đăng nhập bị xoay], [nhoè màn hình], [tốc độ chậm]. Các lag khác bạn quay video hoặc ảnh gửi vào box để mọi người hỗ trợ
+lỗi|:; Bạn đang gặp lỗi gì? [không vào được game] hay [không thấy npc] ? Lỗi khác thì bạn quay video hoặc hình ảnh rồi gửi vào box để mọi người hỗ trợ bạn nha!
+không thấy npc|:; Hãy xoá dữ liệu để tải dữ liệu mới, chọn loại thiết bị bạn đang dùng? [xoá dữ liệu PC], [xoá dữ liệu apk], [xoá dữ liệu ios], [xoá dữ liệu Jar]
+xoá dữ liệu PC|:; Bản Pc bạn chuột phải vào file tải về chọn Extract Here (k thấy extract here thì chat [Winrar] để mình gửi link tải). Mở game lên rồi bấm chữ Xoá Dữ Liệu dưới góc là được
+winrar|:; Bạn tải về rồi bấm cài đặt rồi tiếp tục như bên trên tôi chỉ: https://www.win-rar.com/fileadmin/winrar-versions/winrar/winrar-x64-701.exe   
+xoá dữ liệu apk|:; Để xoá dữ liệu bản Android bạn bấm giữ vào app game ->Chọn Thông tin ứng dụng -> Dung lượng lưu trữ -> Xoá dữ liệu
+xoá dữ liệu ios|:; Bạn xoá game tải lại là được hoặc bấm nút Xoá dữ liệu màu trắng ở góc
+xoá dữ liệu jar|:; Nếu sài Jar trên Android bạn xoá J2Me Loader đi, sau đó cài lại là được. Trên Pc thì xem hướng dẫn ở đây: https://youtu.be/Od90G9deiI4
+chậm,tốc|:; Bạn tăng tốc độ game bằng: một số lệnh chat bạn thử từng cái nhé (speed X | cheat_X | tdX | tocdo X - X là Số nhé - không viết hoa)
+cộng chỉ số,auto chỉ số,cộng cs,tăng cs|:; Bạn bấm vào ô thứ 2 ở phần Chức Năng có Auto cộng chỉ số nhanh
+up sm,cày sm|:; Bạn ép sức đánh cho đồ rồi vào Ngũ Hành Sơn ở Làng Aru up cho lẹ, Sau đó đến địa ngục ở Cu Tí Đảo Kame vào sau đảo gặp Diêm Vương
+cuồng nộ,item,cnsc,cn,bh, bổ huyết,bổ khí,bk|:; Các loại item và item siêu cấp đều mở ra từ capsule kì bí
+cskb,capsule,kì bí|:; Capsule kì bí rơi ở tương lai khi bạn sử dụng máy dò và đánh quái [xu mua máy dò]
+đồng xu,xu mua máy dò|:; Xu mua máy dò bạn đánh quái ngũ hành sơn là rơi nhé
+thật ko|:> Nói xạo đó kaka
+sức mạnh,chỉ số max,ghsm|:; Bạn ra vách núi morri gặp quốc vương để mở giới hạn sức mạnh nhé (Sức mạnh max hiện tại cho sư phụ và đệ tử là 300 tỷ) Chỉ số max hiện tại cho sư phụ và đệ tử là 780K và 40K (Sư phụ có thể [trùng sinh] để tăng thêm)
+trùng sinh|:; Bạn cần có Canh Mạnh Bà để trùng sinh, Trùng sinh sẽ tăng thêm 5% chỉ số gốc (819K và 42K) [nguyên liệu trùng sinh]
+mạnh bà|:; Canh mạnh bà bạn có thể mua ở Sau đảo hoặc thu thập x999 11 nguyên liệu ở địa ngục để nấu Canh mạnh bà
+chỉ số đệ|:; Đệ tử không lỗi sức mạnh và chỉ số, bạn treo up lâu là full hết
+bí kíp, yadat, yardrat|:; Bạn qua núi khỉ vàng gặp goku ssj rồi vào hành tinh yardrat up bí kíp cải trang. Và Đi doanh trại đánh quái là rơi bí kíp tuyệt kĩ nhé, xong lên hành tinh kaio học sì kiu đặc biệt
+mảnh thiên sứ, mts, mảnh ts, manh ts|:; mảnh thiên sứ up ở hành tinh ngục tù xong đem ra Thiên sứ whis đảo kame mà nâng (đọc nguyên liệu ở đó)
+câu cá|:; Câu cá thì mua cần câu rồi bấm sử dụng là được (1 lần câu 500 hồng ngọc - không mất cần câu)
+Tiểu đội sát thủ,tdst,boss số, số 4, tđst|:; Tiểu đội sát thủ (thời gian: 10 phút) (địa chỉ: Núi khỉ đỏ) (hỗ trợ: có) (sát thương tối đa: 30.000.000)
+Fide|:; Fide (thời gian: 10 phút) (địa chỉ: Núi khỉ vàng) (hỗ trợ: có) (sát thương tối đa: 50.000.000)
+androi19,androi20,kore,apk19,apk20|:; Android19-20 (thời gian: 15 phút) (địa chỉ: Thành phố phía nam) (hỗ trợ: có) (sát thương tối đa: 70.000.000)
+pic,poc,kingkong,ppkk|:; Pic-Poc-Kingkong (thời gian: 15 phút) (địa chỉ: Thành phố phía bắc) (hỗ trợ: có) (sát thương tối đa: 100.000.000)
+xên thị trấn,cell thị trấn,xên bọ hung,ginder,thị trấn|:; Xên ở thị trấn Ginder (thời gian: 15 phút) (địa chỉ: Thị trấn Ginder) (hỗ trợ: có) (sát thương tối đa: 400.000.000)
+xên võ đài,cell võ đài,siêu bọ hung,võ đài,vo dai|:; Xên ở Võ đài Xên Bọ Hung (thời gian: 15 phút) (địa chỉ: Võ Đài Xên Bọ Hung) (hỗ trợ: có) (sát thương tối đa: 500.000.000)
+doremon,doraemon,nobita,shizuka,chaien,xeko|:; Boss Tiểu đội doraemon (thời gian: 20 phút) (địa chỉ: không xác định) (hỗ trợ: không) (sát thương tối đa: không)
+doremon,doraemon,nobita,shizuka,chaien,xeko|:; Boss Tiểu đội doraemon (thời gian: 20 phút) (địa chỉ: không xác định) (hỗ trợ: không) (sát thương tối đa: không)
+hải tặc,luffy,nami,zoro,sanji,brook|:; Boss Tiểu đội Luffy (thời gian: 20 phút) (địa chỉ: không xác định) (hỗ trợ: không) (sát thương tối đa: 100.000.000)
+dọc,màn hình|:; IPhone bị màn hình dọc bạn: Bạn tắt cái khóa xoay màn hình đi. xong tắt game mở lên lại. xoay ngang trước khi mở nhé
+nút di chuyển|:; Nút di chuyển bạn bấm vào nút tam giác bên tay trái rồi vào phần Chức Năng, chọn Cấu Hình, rồi chọn Bàn Phím Ảo nhé
+xoá dữ liệu,xdl|:; Chọn loại thiết bị bạn đang dùng? [xoá dữ liệu PC], [xoá dữ liệu apk], [xoá dữ liệu ios], [xoá dữ liệu Jar]
+đăng ký,dky,tạo,sai,chính xác,đăng nhập|:; đăng ký hoặc đăng nhập không được thì chụp màn hình lại gửi vào đây mọi người hướng dẫn nhé
+hồn thiên tôn,hồn chí tôn|:; hồn thiên tôn hay còn gọi là hồn chí tôn, Cách kiếm: bạn dùng cuồng nộ siêu cấp và đánh quái cold sẽ rơi, Cách dùng: bạn xem ở Bà Hạt Mít
+hồn hạ tôn|:; hồn hạ tôn, Cách kiếm: bạn dùng cuồng nộ thường và đánh quái cold sẽ rơi, Cách dùng: bạn xem ở Bà Hạt Mít
+mảnh hồn,kính soi,kính lúp,viên kẹo|:; Bạn mua [kính lúp], [kính soi], và [viên kẹo] sau đó đi tìm [mảnh hồn] nhé (có thể tìm được [rương chí tôn] từ chức năng này đó) Các [mảnh hồn] có thể đổi vài món đồ ở santa đó
+hồn|:; Hãy cho mình biết bạn muốn hỏi về hồn gì? [hồn thiên tôn], [hồn hạ tôn], [hồn chí tôn], [mảnh hồn]
+thức ăn,thuc an, đồ ăn|:; Thức ăn bạn mặc set thần linh rồi up quái cold là rơi
+black goku|:; Black goku mạnh vcl đấy mấy cưng, rơi nhẫn thời không để vào map Chilled
+giftcode,code|:; Game hiện đang có giftcode: ngocrong1, ngocrong2, ngocrong3, ngocrong4, ngocrong5, ngocrong6, zalobox và ngocrongnthevcom
+link tải,tải game,download,apk,pc,máy tính, iphone,ios,jar,testflight,appcenter|:; Bạn có thể tải game (đầy đủ mọi thứ) bằng link trên ghim hoặc link này nhé: https://ngocrongvosong.com
+id,ip,ipsv|:; Nhập đầy đủ từ NgocRong đến hết |231:         NgocRongNThev:14.225.203.19:14445:0,0,0|231
+bảo trì,btri|:; Thấy bảo trì thì lo mà thoát game đi (không thoát mất đồ khỏi ib ad - ad không có rep đâu) :))
+Fanpage|:; Link fanpage nè https://www.facebook.com/ngocrongnthevmax
+Tiktok|:; Link tiktok nè https://www.tiktok.com/@megameonline2024
+Youtube|:; Link youtube nè https://youtube.com/@ngocrongonline2501
+cập nhật mới|:; Tin mới: Mỗi tháng sẽ clear bang hội 1 lần để tối ưu độ mượt từ server
+nạp,donate|:; Bạn vào trang chủ rồi nạp tự động rồi vô santa đổi sang hồng ngọc hoặc thỏi vàng nhé (tỷ lệ quy đổi 10k = 20k hồng ngọc, 60k = 10k thỏi vàng)
+code mới|:; Khi nào game có giftcode mới sẽ có thông báo nha quý dị
+đồ thần,dtl,đồ tl|:; đồ thần bạn săn boss hoặc up cold nhé (dâng hiến ở thiên sứ whis)
+hỗ trợ,ho tro nv|:; khung giờ hỗ trợ nhiệm vụ 9-12h sáng tối (ai nhiệm vụ đó mới được vào khu)
+bán nick,mua nick,bán nick,bán acc,bay nick,bay acc|:+ Vui lòng thu hồi tin nhắn, hãy vào box mua bán trên ghim
+chiến thần|:; chiến thần là đệ tử thứ 2 tăng sức mạnh cực mạnh, mua trứng ở chỗ Quy lão rồi vào đảo hoa nhé
+calich|:; Calich ở đầu rừng bambo
+kuku,mập đầu đinh,map dau dinh,rambo|:; Mấy boss KuKu,Mdđ,Rambo (5phút) bạn ra Thành Phố Vegeta Gặp Cui để tìm nhanh nhé (boss chết thì chờ rồi tìm tiếp)
+Đồ vip,trang bị vip|:; Trang bị kích hoạt vip nâng ở Thiên Sứ whis đảo kame (xem nguyên liệu ở đó luôn nhé)
+mảnh ấn|:; bạn tiêu diệt boss ở Hành tinh ngục tù nhé
+mấy sao,level|:; trang bị thường 10 sao và trang bị vip 12 sao, trang bị thường 9 cấp và trang bị vip 10 cấp (cày có hết)
+mất pt, mất bang,xóa pt,xóa bang,clear pt, lỗi pt,lỗi bang,clear bang|:; Mỗi tháng sẽ clear bang hội để lọc toàn bộ clone (tối ưu cho server) (không bù đâu nên không cần báo)
+cày chay|:$ Mèo méo meo mèo meo...mlem..mlem
+đá quý,da quy,khí gas,khi gas|:; đá quý săn tiểu đội đường tăng hoặc đi khí gas ở làng aru nhé
+dbv,đá bảo vệ|:; đá bảo vệ bạn đi doanh trại rơi đầy
+khuyến mãi,km nạp|:; Game khuyến mãi nạp thẻ tối đa 30% chứ không có quá nha mọi người
+đổi|:$ Bạn ơi bạn ơi, xin hãy viết đúng chính tả và đừng viết tắt tôi mới hiểu bạn nói gì! :))
+ngọc rồng siêu cấp,nrsc,ngọc rồng sc, nr siêu cấp,ước được gì|:; Ngọc rồng siêu cấp chỉ để ước (không ép được) (ước được gì thì ước đi rồi biết chứ tôi biết đâu)
+ai đẹp,bot đẹp|:> admin đẹp nhất nhé! Tôi đánh giá khách quan là như thế
+chán|:( Tại sao bạn lại chán, bắt con gián bỏ vô háng cho đỡ chán
+bot ngủ|:; Tôi không ngủ đâu nhé, tôi luôn sẵn sàng phục vụ bạn
+alo,lô,alô,hello,chào|:$ Hello anh đẹp trai
+bot ơi,alo bot,bot đâu|:! kêu gì mà lắm vậy
+chào bot|:3 Hi! Chào cậu, cho mình làm quen nhé!
+chê bot|:! Chê lol gì mà chê
+nm td|:$ thích chơi gì chơi, chơi với tôi sẽ vui hơn đấy
+mốc nạp|:3 bạn đăng nhập vô web rồi tự mở mốc nhé
+thành công|:; Bạn gặp vấn đề khi vào game, hãy chụp chỗ Tên server ở chỗ đăng nhập trong game gửi vô đây xem đúng Ngoc Rong Vo Song không, nếu không đúng thì bạn xóa dữ liệu đi nhé mới vào được
+bot khôn,bot không khôn|:> ai cũng biết rằng tôi khôn mà
+còn sống không|:> Tôi vẫn còn sống đây, tôi đứng đây chờ bạn từ chiều
+phụ kiện|:; phụ kiện mua ở santa cho nhanh
+cành tre|:; Bạn gom đủ 9999 rồi ghép thành cần câu đi câu cá nhé
+sv mấy|:; bạn chọn server 1 nhé
+test,open,op,sv|:; Server Vừa Mới Open Vẫn Free Hơn Cả Test
+mtv,mở tv,mở thành viên,kích hoạt|:; Game free MTV nhé (tạo acc là kích hoạt sẵn rồi)
+tàn sát|:; Lệnh tàn sát ở thông báo phần chức năng, còn tàn sát bản koioctieu bạn mua máy tự động luyện tập rồi sử dụng rồi bấm góc trên cùng bên trái chọn train quái
+chức năng|:; Các NPC đều có chỉ chức năng, bạn tới đó đọc nhé
+tỷ lệ nạp,tỉ lệ nạp, tỷ lệ quy đổi, tỉ lệ quy đổi|:; Quy đổi ở santa có tỷ lệ bạn ra xem nhé
+dhd, dts, đồ hủy diệt, đồ thiên sứ, đồ ts|:; Nâng cấp đồ ở thiên sứ đảo kame (có hướng dẫn)
+bịp|:> thằng bên trên mới bịp nhé
+cái gì,update,cái j,gì đây|:> Có nhiều thứ tôi chưa được biết đến, bạn cứ gửi vào nhóm đi mọi người sẽ giúp đỡ bạn nhé
+varon,food,mp3|:> Ngọc rồng Varon mua source của Server này nhen
+lỡ đổi đệ,quên tháo|:! Lỡ đổi thì lỗi tại mình chứ ai mà hỏi, tự chịu đi kaka
+bot giận,bot dỗi|:! Tôi không biết giận đâu, ai chửi thì tôi chửi lại
+bot yêu|:3 Tôi đang thầm yêu bạn nè! Xíu chúng ta in bóc nhau nhé
+boss bí ngô|:; Boss bí ngô khi bạn dùng mắt kính + kính lúp + kẹo mua ở Sau đảo kame (gặp Cu Tí) dùng để dò hồn sẽ rơi ra mảnh hồn đổi được rương thần linh kích hoạt với rương mị lực mở ra cốt chí tôn đó
+chụp|:3 Chụp đi chụp đi, chụp gửi vô đây xem ké với
+dcu bot|:! dcu mày
+lặc|:! lặc má mày chứ lặc
+ra chửi tụi nó|:; nào? nào? thằng nào ngon thì bước ra đây nào?
+bot ơi|:3 Có tôi đây! bạn muốn hỏi gì? nhớ ghi đúng chính tả tôi mới hiểu nhé
+Tiêu diệt ở đâu|:; Nhiệm vụ bò mộng có chỉ chỗ Quái đó quí zị
+code live|:; Nào admin live mới có, chứ admin đang nuôi con lười
+ngũ hành sơn|:; ra làng aru gặp Đường tăng để vào Ngũ Hành Sơn
+bot cặc|:! cặc ba mày chứ cặc
+đéo tin|:! Đéo tin thì thôi ai mượn m tin
+thơm|:3 Thơm quá đi, cho hưởng ké xíu
+fide|:; boss fide 10 phút 1 đợt (xuất hiện tại núi khỉ vàng)
+ai lấy|:3 Cho tui, cho tui đi
+im đi|:; mày mới phải im đấy
+dcu bot|:; dcu mày
+bot thông minh|:3 ai cũng nói là tôi thông minh mà. cảm ơn bạn! 
+câm bot|:; mày mới là người phải câm đấy
+bot lồn|:; lồn má mày chứ lồn
+bot ngu|:; mày mới là thằng ngu đó
+bot nguu|:; mày mới là thằng nguu đó
+lỗi ước rồng|:; Bạn tắt game rồi vào lại khu là gọi được
+bot cặc|:; cặc ba mày chứ cặc
+bot hài|:3 Tôi sinh ra cũng để tấu hài cho cái box này, mong được trả lương hậu hĩnh
+Địt|:; địt cái đầu mày chứ địt
+thông đít|:; thông đít mày
+óc lồn|:; lồn mà có óc hử?
+bot nói nhiều|:; nói nhiều sao bằng mày được hả nhóc
+solo|:; nào nào? muốn gì nào? muốn solo thì nhào vô nào?
+mệt|:; làm gì mà mệt hả?
+lỗi nạp thẻ|:; Báo lỗi nạp thì liên hệ người có chìa khoá màu vàng trong box zalo nhé
+đĩ mẹ m|:; đĩ mẹ m
+dame sao,dame gì,dame gốc,dame ảo,dame trung|:; Server dame trung (giải thích: dame gốc: boss yếu, dame trung: boss trâu, dame ảo: boss siêu trâu) không khác gì nhau cả
+nv khó quá|:; Game nào cũng có nhiệm vụ dễ nhiệm vụ khó mới là game, dễ quá thì ai cũng qua sẽ đâm ra chán. Nên hãy cứ đam mê đi!
+max cs,max chi so,chi so max|:; HP KI 780K SD 40K nhé
+ad giàu|:> ad không có tiền mua sịp mặc nữa chứ giàu
+tiền chưa vào|:3 nạp tiền chưa cộng thì chờ 3-5phut chưa cộng thì liên hệ key vàng
+trạng thái|:3 Trạng Thái: Đang hoạt động
+Super Kamejoko,Ma Phong Ba,Liên Hoàn Chưởng,Super Kame,Skill đặc biệt|:; Học ở hành tinh Kaio ( rừng karin đi lên ) gặp Thiên Sứ Whis
+Skill đệ tử|:; Đệ tử có 6 chiêu ước rồng thường đổi được skill 2-3-4, rồng từ các event đổi skill 1-5 nhé quý zị
+skill ô,5 chiêu|:; trên điện thoại chỉ gán được 5 ô thôi, mở máy tính lên sẽ gán được 10 ô đấy
+vamchar|:; Trước làng morri có cổng vào làng vamchar
+rương cấp 11|:; đủ 24 giờ từ lúc nhận rương thì mới mở được nhé
+kí gửi,ký gửi|:; Kí gửi mua bán bằng hồng ngọc nhé, không phải vàng
 danh hiệu,dhieu|Danh hiệu từ lúc nhận đã tăng sẵn chỉ số (lỡ làm mất danh hiệu thì chỉ số vẫn được cộng) ở Thần Mèo Karin trong rừng karin nhé chỗ Bò Mộng
 trái thần long,mảnh đất,cây cuốc,khu đất,nông trại|Bạn mua đất + cây cuốc rồi săn boss đủ 30 điểm sẽ trồng được cây thần long, thu hoạch trái thần long ăn vào tăng chỉ số ( đặc biệt không bị ảnh hưởng với sức mạnh chí tôn )
 max sm,sdg,hpg,max sd, max hp|max sức mạnh là 300 tỷ nhé, max chỉ số 780k và 40k
