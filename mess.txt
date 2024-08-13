@@ -93,7 +93,7 @@ ai đẹp,bot đẹp|admin đẹp nhất nhé! Tôi đánh giá khách quan là 
 chán|Tại sao bạn lại chán, bắt con gián bỏ vô háng cho đỡ chán
 bot ngủ|Tôi không ngủ đâu nhé, tôi luôn sẵn sàng phục vụ bạn
 alo,lô,alô,hello,chào|Hello anh đẹp trai
-bot ơi, alo bot, bot đâu|kêu gì mà lắm vậy
+bot ơi,alo bot,bot đâu|kêu gì mà lắm vậy
 chào bot|Hi! Chào cậu, cho mình làm quen nhé!
 chê bot|Chê lol gì mà chê
 nm td|thích chơi gì chơi, chơi với tôi sẽ vui hơn đấy
