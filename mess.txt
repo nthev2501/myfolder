@@ -1,32 +1,32 @@
-hồng ngọc,hong ngoc,đỏ ngọc,hngoc,hn|Hồng ngọc săn boss, up quái cold, hiến tế đồ thần linh, nạp thẻ
-thỏi,tvang,tv|thỏi vàng làm nhiệm vụ hàng ngày ở bò mộng, hộ tống ở quy lão, nạp thẻ (vàng và ngọc xanh nhận miễn phí ở nhà)
+hồng ngọc,hong ngoc,đỏ ngọc,hngoc,hn|Hồng ngọc săn boss, up quái cold, hiến tế đồ thần linh, nạp thẻ :;
+thỏi,tvang,tv|thỏi vàng làm nhiệm vụ hàng ngày ở bò mộng, hộ tống ở quy lão, nạp thẻ (vàng và ngọc xanh nhận miễn phí ở nhà)  :;
 spl,sao pha lê|Sao pha lê bạn train quái gì cũng rơi, hoặc xin người chơi khác
-bot pin|Tôi chạy bằng điện trực tiếp nên không có sài pin nhen
-bò mộng,nvhn,bo mong|Bò mộng ở Rừng karin có giao nhiệm vụ hàng ngày nhận được thỏi vàng, cày chân mệnh chí tôn ở đó luôn nhé. 1000 điểm lên 1 level chân mệnh đó
-địa ngục|Map địa ngục bạn ra gặp Cu Tí ở đảo kame rồi vào map gặp Diêm Vương để xuống nhé
-ngục tù,htnt|Hành tinh ngục tù bạn vào rừng karin rồi đi miết miết lên trên là tới
-tiểu hạt|Bạn đi doanh trại giết boss sẽ rơi tiểu hạt nhiệm vụ
-sau đảo|Gặp Cu Tí để vào sau đảo
+bot pin|Tôi chạy bằng điện trực tiếp nên không có sài pin nhen :>
+bò mộng,nvhn,bo mong|Bò mộng ở Rừng karin có giao nhiệm vụ hàng ngày nhận được thỏi vàng, cày chân mệnh chí tôn ở đó luôn nhé. 1000 điểm lên 1 level chân mệnh đó :3
+địa ngục|Map địa ngục bạn ra gặp Cu Tí ở đảo kame rồi vào map gặp Diêm Vương để xuống nhé :;
+ngục tù,htnt|Hành tinh ngục tù bạn vào rừng karin rồi đi miết miết lên trên là tới :;
+tiểu hạt|Bạn đi doanh trại giết boss sẽ rơi tiểu hạt nhiệm vụ :;
+sau đảo|Gặp Cu Tí để vào sau đảo :;
 hihi,hehe|:3
-bán bot|Sao lại bán chứ! 
+bán bot|Sao lại bán chứ! :3
 tha nv|Tha gì mà tha, thằng nào phá nv cứ kêu tao là em của bot bot, để bot bot ra xin tha dùm cho :3
 haha|:>
 bán hao điện|:3
 bán phế quá|:3
-bot bot|kêu gì thế?
-khúc gỗ,keo dán,giấy,cái cưa|khúc gỗ,keo dán,giấy,cái cưa là vật phẩm sự kiện (gỗ + cưa = giấy, giấy + kéo = sách)
-cay|Cay thì mua sữa về uống, tiện mua dùm tui thùng vinamilk luôn nhé. Cảm ơn!
-potaufeu|Hang potaufeu bạn đến trạm tàu vũ trụ trái đất tìm thằng Jaco để vào đánh nhân bản rơi item siêu cấp
-doanh trại|Vào rừng bambo gặp lính canh để vào doanh trại, tất cả người đứng gần phải xong nhiệm vụ 24 mới được đi
-up đâu, up sm, úp đâu, úp sm|Bạn ép sức đánh cho đồ rồi vào Ngũ Hành Sơn ở Làng Aru up cho lẹ, Sau đó đến địa ngục ở Cu Tí Đảo Kame vào sau đảo gặp Diêm Vương
-kẹt|kẹp map thì đăng nhập vào web rồi bấm nút thoát kẹt nhé
-làm về|Đi làm về mệt mỏi thì kệ chứ kể chi z
-tạo nv,tạo nhân vật,tao nv|Bạn chọn cấu hình cao mới tạo nhân vật được nhé
-điểm boss|Điểm boss bạn đánh boss sẽ có điểm ( tuỳ boss ngẫu nhiên chứ không xác định được boss nào rơi điểm )
-website,trang chủ,web|Link website: https://ngocrongnthev.com
-ngáo bot|Ngáo đâu, mày mới ngáo đó
-vũ trụ 9|Bạn chat 'm' hoặc 'map' để vào Vũ trụ số 9
-vamchar|Làng vamchar bạn tới làng morri để vào nhé
+bot bot|kêu gì thế? :|
+khúc gỗ,keo dán,giấy,cái cưa|khúc gỗ,keo dán,giấy,cái cưa là vật phẩm sự kiện (gỗ + cưa = giấy, giấy + kéo = sách) :;
+cay|Cay thì mua sữa về uống, tiện mua dùm tui thùng vinamilk luôn nhé. Cảm ơn! :3
+potaufeu|Hang potaufeu bạn đến trạm tàu vũ trụ trái đất tìm thằng Jaco để vào đánh nhân bản rơi item siêu cấp :;
+doanh trại|Vào rừng bambo gặp lính canh để vào doanh trại, tất cả người đứng gần phải xong nhiệm vụ 24 mới được đi :;
+up đâu, up sm, úp đâu, úp sm|Bạn ép sức đánh cho đồ rồi vào Ngũ Hành Sơn ở Làng Aru up cho lẹ, Sau đó đến địa ngục ở Cu Tí Đảo Kame vào sau đảo gặp Diêm Vương :;
+kẹt|kẹp map thì đăng nhập vào web rồi bấm nút thoát kẹt nhé :;
+làm về|Đi làm về mệt mỏi thì kệ chứ kể chi z :>
+tạo nv,tạo nhân vật,tao nv|Bạn chọn cấu hình cao mới tạo nhân vật được nhé :;
+điểm boss|Điểm boss bạn đánh boss sẽ có điểm ( tuỳ boss ngẫu nhiên chứ không xác định được boss nào rơi điểm ) :;
+website,trang chủ,web|Link website: https://ngocrongnthev.com :;
+ngáo bot|Ngáo đâu, mày mới ngáo đó :!
+vũ trụ 9|Bạn chat 'm' hoặc 'map' để vào Vũ trụ số 9 :;
+vamchar|Làng vamchar bạn tới làng morri để vào nhé :;
 đảo hoa|gặp Quy lão để vào đảo hoa
 làng lá|Từ đảo hoa chạy sang trái là đến làng lá
 nhoè màn hình|nhoè màn hình, tình trạng này bạn nên tắt game mở lại, nếu không khắc phục được thì bạn hãy Xoá dữ liệu và tải lại dữ liệu mới (chat [xoá dữ liệu] để tôi hướng dẫn)
