@@ -43,7 +43,7 @@ winrar|Bạn tải về rồi bấm cài đặt rồi tiếp tục như bên tr�
 xoá dữ liệu apk|Để xoá dữ liệu bản Android bạn bấm giữ vào app game ->Chọn Thông tin ứng dụng -> Dung lượng lưu trữ -> Xoá dữ liệu 
 xoá dữ liệu ios|Bạn xoá game tải lại là được hoặc bấm nút Xoá dữ liệu màu trắng ở góc 
 xoá dữ liệu jar|Nếu sài Jar trên Android bạn xoá J2Me Loader đi, sau đó cài lại là được. Trên Pc thì xem hướng dẫn ở đây: https://youtu.be/Od90G9deiI4 
-chậm,tốc|Bạn tăng tốc độ game bằng: một số lệnh chat bạn thử từng cái nhé (speed X | cheat_X | tdX | tocdo X - X là Số nhé - không viết hoa) 
+chậm,tốc,cheat|Bạn tăng tốc độ game bằng: một số lệnh chat bạn thử từng cái nhé (speed X | cheat_X | tdX | tocdo X - X là Số nhé - không viết hoa) 
 cộng chỉ số,auto chỉ số,cộng cs,tăng cs|Bạn bấm vào ô thứ 2 ở phần Chức Năng có Auto cộng chỉ số nhanh 
 up sm,cày sm|Bạn ép sức đánh cho đồ rồi vào Ngũ Hành Sơn ở Làng Aru up cho lẹ, Sau đó đến địa ngục ở Cu Tí Đảo Kame vào sau đảo gặp Diêm Vương 
 cuồng nộ,item,cnsc,cn,bh, bổ huyết,bổ khí,bk|Các loại item và item siêu cấp đều mở ra từ capsule kì bí
