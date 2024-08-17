@@ -106,8 +106,7 @@ bot khôn,bot không khôn|ai cũng biết rằng tôi khôn mà
 còn sống không|Tôi vẫn còn sống đây, tôi đứng đây chờ bạn từ chiều 
 phụ kiện|phụ kiện mua ở santa cho nhanh  
 cành tre|Bạn gom đủ 9999 rồi ghép thành cần câu đi câu cá nhé 
-sv mấy|bạn chọn server 1 nhé 
-test,open,op,sv|Server Vừa Mới Open Vẫn Free All 
+test,open,op,sv|Server Vừa Mới Open Vẫn Free All (Dame trung, Free MTV)
 mtv,mở tv,mở thành viên,kích hoạt|Game free MTV nhé (tạo acc là kích hoạt sẵn rồi) 
 tàn sát|Lệnh tàn sát ở thông báo phần chức năng, còn tàn sát bản koioctieu bạn mua máy tự động luyện tập rồi sử dụng rồi bấm góc trên cùng bên trái chọn train quái 
 chức năng|Các NPC đều có chỉ chức năng, bạn tới đó đọc nhé 
@@ -115,12 +114,11 @@ tỷ lệ nạp,tỉ lệ nạp, tỷ lệ quy đổi, tỉ lệ quy đổi|Quy 
 dhd, dts, đồ hủy diệt, đồ thiên sứ, đồ ts|Nâng cấp đồ ở thiên sứ đảo kame (có hướng dẫn) 
 bịp|thằng bên trên mới bịp nhé 
 cái gì,update,cái j,gì đây|Có nhiều thứ tôi chưa được biết đến, bạn cứ gửi vào nhóm đi mọi người sẽ giúp đỡ bạn nhé 
-varon,food,mp3|Ngọc rồng Varon mua source của Server này nhen 
 lỡ đổi đệ,quên tháo|Lỡ đổi thì lỗi tại mình chứ ai mà hỏi, tự chịu đi kaka 
 bot giận,bot dỗi|Tôi không biết giận đâu, ai chửi thì tôi chửi lại 
 bot yêu|Tôi đang thầm yêu bạn nè! Xíu chúng ta in bóc nhau nhé 
 boss bí ngô|Boss bí ngô khi bạn dùng mắt kính + kính lúp + kẹo mua ở Sau đảo kame (gặp Cu Tí) dùng để dò hồn sẽ rơi ra mảnh hồn đổi được rương thần linh kích hoạt với rương mị lực mở ra cốt chí tôn đó 
-chụp|Chụp đi chụp đi, chụp gửi vô đây xem ké với 
+gửi video,quay video|Bạn quay video đi, rồi gửi vô đây mọi người hướng dẫn
 dcu bot|dcu mày 
 lặc|lặc má mày chứ lặc 
 ra chửi tụi nó|nào? nào? thằng nào ngon thì bước ra đây nào?
