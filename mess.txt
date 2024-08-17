@@ -183,7 +183,7 @@ lạnh|Bạn cảm thấy lạnh thì hãy đến bên tôi, để tôi đốt l
 nóng|nóng quá thì mình cùng đi biển thôi, nước mát quá nè 
 ngọc hóa|Ngọc hóa kiếm ở boss Cooler, max 7 level nhé 
 hộ tống|bạn hộ tống thằng nhóc về đến làng hoặc vách núi cạnh làng nhé 
-bỏ qua nv|Bạn bỏ qua nhiệm vụ ở Quy lão đó, ngon ác, bỏ 1 lần hẳn 1 level không phải nhiệm vụ nhỏ 
+bỏ qua nv|Bạn bỏ qua nhiệm vụ tân thủ ở nhà và bỏ qua nv chính tuyến ở Quy lão đó, ngon ác, bỏ 1 lần hẳn 1 level không phải nhiệm vụ nhỏ 
 cốt|Cốt chí tôn rơi từ các sự kiện và chức năng khác nhau. ép vào trang bị sẽ tăng chỉ số trang bị cực mạnh, nếu mặc đủ 3 món sẽ tăng thêm 10%, 4 món 20%, 5 món 30%. Những ai đứng gần sẽ bị giảm sát thương đi 50% mỗi 30 giây. Nhai trái thần long để không bị giảm khi đứng gần Chí Tôn nhé 
 set gì|set love nhé (setlove cùng mình nè) 
 pháo trẻ trâu|sử dụng pháo trẻ trâu sẽ nổ banh lon cả khu nhé 
