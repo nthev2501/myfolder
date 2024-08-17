@@ -32,14 +32,7 @@ vũ trụ 9|Bạn chat 'm' hoặc 'map' để vào Vũ trụ số 9
 vamchar|Làng vamchar bạn tới làng morri để vào nhé
 đảo hoa|gặp Quy lão để vào đảo hoa
 làng lá|Từ đảo hoa chạy sang trái là đến làng lá
-nhoè màn hình|nhoè màn hình, tình trạng này bạn nên tắt game mở lại, nếu không khắc phục được thì bạn hãy Xoá dữ liệu và tải lại dữ liệu mới (chat [xoá dữ liệu] để tôi hướng dẫn)
-lag khi đăng nhập bị xoay|lag khi đăng nhập bị xoay, tình trạng này bạn tắt game và vào trang chủ, đăng nhập vào và bấm nút thoát kẹt sẽ vào được game
-lag khi đã vào game|lag khi đã vào game, tình trạng này bạn thử thoát game vào lại, nếu không khắc phục được có thể nhắn cho admin
-game giật giật|Tình trạng game giật giật là do FPS máy bạn bị tụt thấp, nếu bạn sài bản Vũ Đăng hãy chọn cấu hình cao (đừng chọn cấu hình thấp)
-k vô dc,k vào dc,k vào được,không vào được game,k vô được,không vào được|Bạn cung cấp về tình trạng của bạn: [game giật giật], [lag khi đã vào game], [lag khi đăng nhập bị xoay], [nhoè màn hình], [tốc độ chậm]. Các lag khác bạn quay video hoặc ảnh gửi vào box để mọi người hỗ trợ
-lag|Bạn cung cấp về tình trạng của bạn: [game giật giật], [lag khi đã vào game], [lag khi đăng nhập bị xoay], [nhoè màn hình], [tốc độ chậm]. Các lag khác bạn quay video hoặc ảnh gửi vào box để mọi người hỗ trợ
-lỗi|Bạn đang gặp lỗi gì? [không vào được game] hay [không thấy npc] ? Lỗi khác thì bạn quay video hoặc hình ảnh rồi gửi vào box để mọi người hỗ trợ bạn nha! 
-không thấy npc|Hãy xoá dữ liệu để tải dữ liệu mới, chọn loại thiết bị bạn đang dùng? [xoá dữ liệu PC], [xoá dữ liệu apk], [xoá dữ liệu ios], [xoá dữ liệu Jar]
+k vô dc,k vào dc,k vào được,không vào được game,k vô được,không vào được,lag,lỗi,lang,lắc,lác|Bạn gặp tình trạng (giật, lag, chậm, delay, nhòe map, không vào được game,...). Bạn vui lòng quay video gửi vào box để mọi người hướng dẫn fix nhé, bạn nói thì cũng chẳng ai biết bị gì để chỉ cho bạn đâu!
 xoá dữ liệu PC|Bản Pc bạn chuột phải vào file tải về chọn Extract Here (k thấy extract here thì chat [Winrar] để mình gửi link tải). Mở game lên rồi bấm chữ Xoá Dữ Liệu dưới góc là được
 winrar|Bạn tải về rồi bấm cài đặt rồi tiếp tục như bên trên tôi chỉ: https://www.win-rar.com/fileadmin/winrar-versions/winrar/winrar-x64-701.exe 
 xoá dữ liệu apk|Để xoá dữ liệu bản Android bạn bấm giữ vào app game ->Chọn Thông tin ứng dụng -> Dung lượng lưu trữ -> Xoá dữ liệu 
