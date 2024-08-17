@@ -184,7 +184,7 @@ tàu pảy pảy|tàu pảy pảy xuất hiện ở Rừng karin, tiêu diệt h
 lệnh,auto|Auto mod có full ở phần Thông Báo chỗ Chức Năng 
 cảm ơn bot,ok bot|Dạ không có gì đâu anh yêu! Nhiệm vụ của em mà 
 scam|Sì Trái Cam là hành vi vi phạm đạo đức của một con người! Xin đừng Sì Trái Cam 
-đệ tử,gohan,itachi,mabu,ma bư,trứng bư,mabư,bư|có 4 loại đệ : thường (0%), mabu (30%) - săn ma bư ở trong nhà, gohan bư (50%) săn bư 12h00 và 19h00 ở đại hội võ thuật, itachi (70%) cày hồng ngọc rồi mua ở santa. (tăng chỉ số hợp thể)
+đệ tử,đệ ngon,đệ vip,gohan,itachi,mabu,ma bư,trứng bư,mabư,bư|có 4 loại đệ : thường (0%), mabu (30%) - săn ma bư ở trong nhà, gohan bư (50%) săn bư 12h00 và 19h00 ở đại hội võ thuật, itachi (70%) cày hồng ngọc rồi mua ở santa. (tăng chỉ số hợp thể)
 Vòng quay thượng đế|Vòng quay thượng đế quay tốn hồng ngọc (chưa thêm vật phẩm đặc biệt) 
 linh thú|Linh thú mua ở santa nè, rút ở Thỏ Đại bịp nè, mua trứng linh thú ở santa nè 
 mới chơi|Bạn mới chơi thì năng nổ giao tiếp với mọi người trong box nè, nhất là giao tiếp với tôi nhé! 
