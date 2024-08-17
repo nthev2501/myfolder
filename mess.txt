@@ -62,7 +62,6 @@ doremon,doraemon,nobita,shizuka,chaien,xeko|Boss Tiểu đội doraemon (thời 
 hải tặc,luffy,nami,zoro,sanji,brook|Boss Tiểu đội Luffy (thời gian: 20 phút) (địa chỉ: không xác định) (hỗ trợ: không) (sát thương tối đa: 100.000.000) 
 dọc,màn hình|IPhone bị màn hình dọc bạn: Bạn tắt cái khóa xoay màn hình đi. xong tắt game mở lên lại. xoay ngang trước khi mở nhé 
 nút di chuyển|Nút di chuyển bạn bấm vào nút tam giác bên tay trái rồi vào phần Chức Năng, chọn Cấu Hình, rồi chọn Bàn Phím Ảo nhé 
-xoá dữ liệu,xdl|Chọn loại thiết bị bạn đang dùng? [xoá dữ liệu PC], [xoá dữ liệu apk], [xoá dữ liệu ios], [xoá dữ liệu Jar] 
 đăng ký,dky,tạo,sai,chính xác,đăng nhập|đăng ký hoặc đăng nhập không được thì chụp màn hình lại gửi vào đây mọi người hướng dẫn nhé 
 hồn thiên tôn,hồn chí tôn|hồn thiên tôn hay còn gọi là hồn chí tôn, Cách kiếm: bạn dùng cuồng nộ siêu cấp và đánh quái cold sẽ rơi, Cách dùng: bạn xem ở Bà Hạt Mít 
 hồn hạ tôn|hồn hạ tôn, Cách kiếm: bạn dùng cuồng nộ thường và đánh quái cold sẽ rơi, Cách dùng: bạn xem ở Bà Hạt Mít 
@@ -70,16 +69,13 @@ mảnh hồn,kính soi,kính lúp,viên kẹo|Bạn mua [kính lúp], [kính soi
 hồn|Hãy cho mình biết bạn muốn hỏi về hồn gì? [hồn thiên tôn], [hồn hạ tôn], [hồn chí tôn], [mảnh hồn] 
 thức ăn,thuc an, đồ ăn|Thức ăn bạn mặc set thần linh rồi up quái cold là rơi 
 black goku|Black goku mạnh vcl đấy mấy cưng, rơi nhẫn thời không để vào map Chilled 
+code mới|Khi nào game có giftcode mới sẽ có thông báo nha quý dị 
 giftcode,code,Code|Game hiện đang có giftcode: ngocrong1, ngocrong2, ngocrong3, ngocrong4, ngocrong5, ngocrong6, zalobox và ngocrongnthevcom 
-link tải,tải game,download,apk,pc,máy tính, iphone,ios,jar,testflight,appcenter|Bạn có thể tải game (đầy đủ mọi thứ) bằng link trên ghim hoặc link này nhé: https://ngocrongvosong.com 
+link tải,tải game,download,apk,pc,máy tính, iphone,ios,jar,testflight,appcenter|Bạn có thể tải game qua box tải: https://zalo.me/g/vsvzbr273 hoặc bằng link trên ghim hoặc link này nhé: https://ngocrongnthev.com
 id,ip,ipsv|Nhập đầy đủ từ NgocRong đến hết |231:         NgocRongNThev:14.225.203.19:14445:0,0,0|231
 bảo trì,btri|Thấy bảo trì (tầm 1-5p) thì lo mà thoát game đi (không thoát mất đồ khỏi ib ad - ad không có rep đâu) 
-Fanpage|Link fanpage nè https://www.facebook.com/ngocrongnthevmax  
-Tiktok|Link tiktok nè https://www.tiktok.com/@megameonline2024  
-Youtube|lLink youtube nè https://youtube.com/@ngocrongonline2501  
-cập nhật mới|Tin mới: Mỗi tháng sẽ clear bang hội 1 lần để tối ưu độ mượt từ server
-nạp,donate|Bạn vào trang chủ rồi nạp tự động rồi vô santa đổi sang hồng ngọc hoặc thỏi vàng nhé (tỷ lệ quy đổi 10k = 20k hồng ngọc, 60k = 10k thỏi vàng)  
-code mới|Khi nào game có giftcode mới sẽ có thông báo nha quý dị 
+fanpage,tiktok,youtube|Link Fanpage nè https://www.facebook.com/ngocrongnthevmax   Tiktok nè https://www.tiktok.com/@megameonline2024 Youtube nè https://youtube.com/@ngocrongonline2501  
+nạp,donate|Nạp tự động tại https://ngocrongnthev.com/napthe rồi vô santa đổi sang hồng ngọc hoặc thỏi vàng (tỷ lệ quy đổi 10k = 20k hồng ngọc, 60k = 10k thỏi vàng)
 đồ thần,dtl,đồ tl|đồ thần bạn săn boss hoặc up cold nhé (dâng hiến ở thiên sứ whis) 
 hỗ trợ,ho tro nv|khung giờ hỗ trợ nhiệm vụ 9-12h sáng tối (ai nhiệm vụ đó mới được vào khu) 
 bán nick,mua nick,bán nick,bán acc,bay nick,bay acc|Vui lòng thu hồi tin nhắn, hãy vào box mua bán trên ghim 
