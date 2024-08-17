@@ -8,15 +8,11 @@ ngục tù,htnt|Hành tinh ngục tù bạn vào rừng karin rồi đi miết m
 tiểu hạt|Bạn đi doanh trại giết boss sẽ rơi tiểu hạt nhiệm vụ
 sau đảo|Gặp Cu Tí để vào sau đảo
 đổi skill|Đổi skill đệ tử 2-3-4 Bạn gọi rồng thần nhé. 1-5-6 Gọi rồng thần siêu cấp
-hihi,hehe|:3
 4 tab|Giới hạn địa chỉ IP là 4 Tab online cùng lúc nhé
 bán vàng,bán thỏi|Thỏi vàng chỉ để mua đồ ở Santa chứ không có bán, vàng thì nhận miễn phí không giới hạn ở nhà
 lời chúc,nến,khung tre,giấy màu,rada linh hồn|Bạn vào Trang chủ mà đọc sự kiện Vu Lan nhen
 đậu bư|Đậu thần mabu mở ra set kích hoạt (săn ở mabu 21h ở đại hội võ thuật nhen)
-bán bot|Sao lại bán chứ!
-tha nv|Tha gì mà tha, thằng nào phá nv cứ kêu tao là em của bot bot, để bot bot ra xin tha dùm cho
-haha|:>
-bot bot|kêu gì thế?
+bot bot,bot ơi,alo bot,bot đâu|kêu gì mà lắm vậy?
 khúc gỗ,keo dán,giấy,cái cưa|khúc gỗ,keo dán,giấy,cái cưa là vật phẩm sự kiện (gỗ + cưa = giấy, giấy + kéo = sách) 
 cay|Cay thì mua sữa về uống, tiện mua dùm tui thùng vinamilk luôn nhé. Cảm ơn!
 potaufeu|Hang potaufeu bạn đến trạm tàu vũ trụ trái đất tìm thằng Jaco để vào đánh nhân bản rơi item siêu cấp
@@ -96,7 +92,6 @@ ai đẹp,bot đẹp|admin đẹp nhất nhé! Tôi đánh giá khách quan là 
 chán|Tại sao bạn lại chán, bắt con gián bỏ vô háng cho đỡ chán 
 bot ngủ|Tôi không ngủ đâu nhé, tôi luôn sẵn sàng phục vụ bạn 
 alo,lô,alô,hello,chào|Hello anh đẹp trai 
-bot ơi,alo bot,bot đâu|kêu gì mà lắm vậy 
 chào bot|Hi! Chào cậu, cho mình làm quen nhé! 
 chê bot|Chê lol gì mà chê 
 nm td|thích chơi gì chơi, chơi với tôi sẽ vui hơn đấy 
