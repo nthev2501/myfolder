@@ -65,8 +65,7 @@ mảnh hồn,kính soi,kính lúp,viên kẹo|Bạn mua [kính lúp], [kính soi
 hồn|Hãy cho mình biết bạn muốn hỏi về hồn gì? [hồn thiên tôn], [hồn hạ tôn], [hồn chí tôn], [mảnh hồn] 
 thức ăn,thuc an, đồ ăn|Thức ăn bạn mặc set thần linh rồi up quái cold là rơi 
 black goku|Black goku mạnh vcl đấy mấy cưng, rơi nhẫn thời không để vào map Chilled 
-code mới|Khi nào game có giftcode mới sẽ có thông báo nha quý dị 
-giftcode,code,Code|Game hiện đang có giftcode: ngocrong1, ngocrong2, ngocrong3, ngocrong4, ngocrong5, ngocrong6, zalobox và ngocrongnthevcom 
+giftcode,code,xin code,sin code|Game hiện đang có giftcode: ngocrong1, ngocrong2, ngocrong3, ngocrong4, ngocrong5, ngocrong6, zalobox và ngocrongnthevcom 
 link tải,tải game,download,apk,pc,máy tính, iphone,ios,jar,testflight,appcenter|Bạn có thể tải game qua box tải: https://zalo.me/g/vsvzbr273 hoặc bằng link trên ghim hoặc link này nhé: https://ngocrongnthev.com
 id,ip,ipsv|Nhập đầy đủ từ NgocRong đến hết |231:         NgocRongNThev:14.225.203.19:14445:0,0,0|231
 bảo trì,btri|Thấy bảo trì (tầm 1-5p) thì lo mà thoát game đi (không thoát mất đồ khỏi ib ad - ad không có rep đâu) 
