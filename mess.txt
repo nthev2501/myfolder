@@ -83,7 +83,7 @@ mấy sao,level|trang bị thường 10 sao và trang bị vip 12 sao, trang b�
 mất pt, mất bang,xóa pt,xóa bang,clear pt, lỗi pt,lỗi bang,clear bang|Mỗi tháng sẽ clear bang hội để lọc toàn bộ clone (tối ưu cho server) (không bù đâu nên không cần báo) 
 cày chay|Mèo méo meo mèo meo...mlem..mlem 
 đá quý,da quy,khí gas,khi gas|đá quý săn tiểu đội đường tăng hoặc đi khí gas ở làng aru nhé 
-dbv,đá bảo vệ|đá bảo vệ bạn đi doanh trại rơi đầy 
+dbv,đá bảo vệ|đá bảo vệ bạn đi doanh trại rơi đầy hoặc mua 3000 Đá bảo vệ giá rẻ ở santa
 khuyến mãi,km nạp|Game khuyến mãi nạp thẻ tối đa 30% chứ không có quá nha mọi người 
 đổi|Bạn ơi bạn ơi, xin hãy viết đúng chính tả và đừng viết tắt tôi mới hiểu bạn nói gì! 
 ngọc rồng siêu cấp,nrsc,ngọc rồng sc, nr siêu cấp,ước được gì|Ngọc rồng siêu cấp chỉ để ước (không ép được) (ước được gì thì ước đi rồi biết chứ tôi biết đâu) 
