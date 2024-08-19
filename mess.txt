@@ -71,7 +71,7 @@ link tải,tải game,download,apk,pc,máy tính, iphone,ios,jar,testflight,appc
 id,ip,ipsv|Nhập đầy đủ từ NgocRong đến hết |231:         NgocRongNThev:14.225.203.19:14445:0,0,0|231
 bảo trì,btri|Thấy bảo trì (tầm 1-5p) thì lo mà thoát game đi (không thoát mất đồ khỏi ib ad - ad không có rep đâu) 
 fanpage,tiktok,youtube|Link Fanpage nè https://www.facebook.com/ngocrongnthevmax   Tiktok nè https://www.tiktok.com/@megameonline2024 Youtube nè https://youtube.com/@ngocrongonline2501  
-nạp,donate|Nạp tự động tại https://ngocrongnthev.com/napthe rồi vô santa đổi sang hồng ngọc hoặc thỏi vàng (tỷ lệ quy đổi 10k = 20k hồng ngọc, 60k = 10k thỏi vàng)
+nạp,donate|Nạp tự động tại https://ngocrongnthev.com rồi vô santa đổi sang hồng ngọc hoặc thỏi vàng (tỷ lệ quy đổi 10k = 20k hồng ngọc, 60k = 10k thỏi vàng)
 đồ thần,dtl,đồ tl|đồ thần bạn săn boss hoặc up cold nhé (dâng hiến ở thiên sứ whis) 
 hỗ trợ,ho tro nv|khung giờ hỗ trợ nhiệm vụ 9-12h sáng tối (ai nhiệm vụ đó mới được vào khu) 
 bán nick,mua nick,bán nick,bán acc,bay nick,bay acc|Vui lòng thu hồi tin nhắn, hãy vào box mua bán trên ghim 
