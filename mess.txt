@@ -41,7 +41,7 @@ up sm,cày sm|Bạn ép sức đánh cho đồ rồi vào Ngũ Hành Sơn ở L�
 cuồng nộ,item,cnsc,cn,bh, bổ huyết,bổ khí,bk|Các loại item và item siêu cấp đều mở ra từ capsule kì bí
 cskb,capsule,kì bí|Capsule kì bí rơi ở tương lai khi bạn sử dụng máy dò và đánh quái [xu mua máy dò]
 đồng xu,xu mua máy dò|Xu mua máy dò bạn đánh quái ngũ hành sơn là rơi nhé 
-thật ko|Nói xạo đó 
+thật ko|Nói xạo đó
 sức mạnh,chỉ số max,ghsm|Bạn ra vách núi morri gặp quốc vương để mở giới hạn sức mạnh nhé (Sức mạnh max hiện tại cho sư phụ và đệ tử là 300 tỷ) Chỉ số max hiện tại cho sư phụ và đệ tử là 780K và 40K (Sư phụ có thể [trùng sinh] để tăng thêm) 
 trùng sinh|Bạn cần có Canh Mạnh Bà để trùng sinh, Trùng sinh sẽ tăng thêm 5% chỉ số gốc (819K và 42K) [nguyên liệu trùng sinh] 
 mạnh bà|Canh mạnh bà bạn có thể mua ở Sau đảo hoặc thu thập x999 11 nguyên liệu ở địa ngục để nấu Canh mạnh bà 
@@ -94,6 +94,7 @@ bot ngủ|Tôi không ngủ đâu nhé, tôi luôn sẵn sàng phục vụ bạn
 alo,lô,alô,hello,chào|Hello anh đẹp trai 
 chào bot|Hi! Chào cậu, cho mình làm quen nhé! 
 chê bot|Chê lol gì mà chê 
+chs bot,chơi bot|Ok chơi luôn
 nm td|thích chơi gì chơi, chơi với tôi sẽ vui hơn đấy 
 mốc nạp|bạn đăng nhập vô web rồi tự mở mốc nhé 
 thành công|Bạn gặp vấn đề khi vào game, hãy chụp chỗ Tên server ở chỗ đăng nhập trong game gửi vô đây xem đúng Ngoc Rong Vo Song không, nếu không đúng thì bạn xóa dữ liệu đi nhé mới vào được 
