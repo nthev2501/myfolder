@@ -1,15 +1,14 @@
 hồng ngọc,hong ngoc,đỏ ngọc,hngoc,hn|Hồng ngọc săn boss (Tiểu đội Luffy, Tiểu đội Bojack, Jiren, Liễu Thần, Sói vũ trụ số 9 và một số boss khác,...), up quái cold, hiến tế đồ thần linh, nạp thẻ
 thỏi,tvang,tv|thỏi vàng làm nhiệm vụ hàng ngày ở bò mộng, hộ tống ở quy lão, nạp thẻ (vàng và ngọc xanh nhận miễn phí ở nhà)
 spl,sao pha lê|Sao pha lê bạn train quái gì cũng rơi, hoặc xin người chơi khác
-bot pin|Tôi chạy bằng điện trực tiếp nên không có sài pin nhen
 bò mộng,nvhn,bo mong|Bò mộng ở Rừng karin có giao nhiệm vụ hàng ngày nhận được thỏi vàng, cày chân mệnh chí tôn ở đó luôn nhé. 1000 điểm lên 1 level chân mệnh đó
 địa ngục|Map địa ngục bạn ra gặp Cu Tí ở đảo kame rồi vào map gặp Diêm Vương để xuống nhé
 ngục tù,htnt|Hành tinh ngục tù bạn vào rừng karin rồi đi miết miết lên trên là tới
 tiểu hạt|Bạn đi doanh trại giết boss sẽ rơi tiểu hạt nhiệm vụ
 sau đảo|Gặp Cu Tí để vào sau đảo
-set thần tiên|Để có set thần tiên bạn cần có phiếu giảm giá để mua set ở Vados
-hồn chiến thần|Hồn chiến thần thì có bông tai vô song rồi đi giết nakroth sẽ rơi mảnh chiến thần, gom đủ 50 mảnh sẽ tạo thành hồn chiến thần. Hồn chiến thần có thể mua ở Menu Nuôi chiến thần
-đổi skill|Đổi skill đệ tử 2-3-4 Bạn gọi rồng thần nhé. 1-5-6 Gọi rồng thần siêu cấp
+set thần tiên|Để có set thần tiên bạn cần có phiếu giảm giá để mua set ở Vados (sau đó nâng lên thiên tôn ở hạt mít)
+hồn chiến thần|Hồn chiến thần thì có bông tai vô song rồi đi giết nakroth sẽ rơi mảnh chiến thần, gom đủ 50 mảnh sẽ tạo thành hồn chiến thần. Hồn chiến thần có thể mua ở Menu Nuôi chiến thần (ô thứ 2 chỗ chức năng)
+đổi skill|Đổi skill đệ tử 2-3-4 Bạn gọi rồng thần nhé. 1-5-6 Gọi rồng thần siêu cấp (ngọc rồng siêu cấp train quái và tham gia các hoạt động trong game sẽ có)
 4 tab|Giới hạn địa chỉ IP là 4 Tab online cùng lúc nhé
 bán vàng,bán thỏi|Thỏi vàng chỉ để mua đồ ở Santa chứ không có bán, vàng thì nhận miễn phí không giới hạn ở nhà
 lời chúc,nến,khung tre,giấy màu,rada linh hồn|Bạn vào Trang chủ mà đọc sự kiện Vu Lan nhen
@@ -21,28 +20,24 @@ potaufeu|Hang potaufeu bạn đến trạm tàu vũ trụ trái đất tìm th�
 doanh trại|Vào rừng bambo gặp lính canh để vào doanh trại, tất cả người đứng gần phải xong nhiệm vụ 24 mới được đi
 up đâu, up sm, úp đâu, úp sm|Bạn ép sức đánh cho đồ rồi vào Ngũ Hành Sơn ở Làng Aru up cho lẹ, Sau đó đến địa ngục ở Cu Tí Đảo Kame vào sau đảo gặp Diêm Vương
 kẹt,- 1,-1,1 đấm|kẹp map thì đăng nhập vào web rồi bấm nút thoát kẹt. Còn boss kẹt map thì chưởng nó đi chứ hỏi chi
-làm về|Đi làm về mệt mỏi thì kệ chứ kể chi z
 tạo nv,tạo nhân vật,tao nv|Bạn chọn cấu hình cao mới tạo nhân vật được nhé 
-điểm boss|Điểm boss bạn đánh boss sẽ có điểm ( tuỳ boss ngẫu nhiên chứ không xác định được boss nào rơi điểm )
-website,trang chủ,web|Link website: https://ngocrongnthev.com
+điểm boss|Điểm boss bạn đánh boss sẽ có điểm (tuỳ boss ngẫu nhiên). mua thêm cuốc để trồng được trái thần long (tăng sức đánh)
+website,trang chủ,web|Link website: https://ngocrongnthev.com (Gặp vấn đề về tải game hay đăng ký hãy chụp lại gửi vào đây mọi người cùng hỗ trợ nhé)
 ngáo bot|Ngáo đâu, mày mới ngáo đó
 vũ trụ 9|Bạn chat 'm' hoặc 'map' để vào Vũ trụ số 9
 vamchar|Làng vamchar bạn tới làng morri để vào nhé
-đảo hoa|gặp Quy lão để vào đảo hoa
+đảo hoa|gặp Quy lão để vào đảo hoa (Trong đảo hoa có làng lá đó)
 làng lá|Từ đảo hoa chạy sang trái là đến làng lá
-k vô dc,k vào dc,k vào được,không vào được game,k vô được,không vào được,lag,lỗi,lang,lắc,lác|Bạn gặp tình trạng (giật, lag, chậm, delay, nhòe map, không vào được game,...). Bạn vui lòng quay video gửi vào box để mọi người hướng dẫn fix nhé, bạn nói thì cũng chẳng ai biết bị gì để chỉ cho bạn đâu!
+k vô dc,k vào dc,k vào được,không vào được game,k vô được,không vào được,lag,lỗi,lang,lắc,lác|Bạn có thể quay video tình trạng (lỗi,lag,giật,xoay,..) mà bạn đang gặp phải rồi gửi vào box để mọi người hướng dẫn fix nhé!
 xoá dữ liệu PC|Bản Pc bạn chuột phải vào file tải về chọn Extract Here (k thấy extract here thì chat [Winrar] để mình gửi link tải). Mở game lên rồi bấm chữ Xoá Dữ Liệu dưới góc là được
 winrar|Bạn tải về rồi bấm cài đặt rồi tiếp tục như bên trên tôi chỉ: https://www.win-rar.com/fileadmin/winrar-versions/winrar/winrar-x64-701.exe 
 xoá dữ liệu apk|Để xoá dữ liệu bản Android bạn bấm giữ vào app game ->Chọn Thông tin ứng dụng -> Dung lượng lưu trữ -> Xoá dữ liệu 
 xoá dữ liệu ios|Bạn xoá game tải lại là được hoặc bấm nút Xoá dữ liệu màu trắng ở góc 
 xoá dữ liệu jar|Nếu sài Jar trên Android bạn xoá J2Me Loader đi, sau đó cài lại là được. Trên Pc thì xem hướng dẫn ở đây: https://youtu.be/Od90G9deiI4 
 chậm,tốc,cheat|Bạn tăng tốc độ game bằng: một số lệnh chat bạn thử từng cái nhé (speed X | cheat_X | tdX | tocdo X - X là Số nhé - không viết hoa) 
-cộng chỉ số,auto chỉ số,cộng cs,tăng cs|Bạn bấm vào ô thứ 2 ở phần Chức Năng có Auto cộng chỉ số nhanh 
+cộng chỉ số,nâng chỉ số,nâng kinh nghiệm,auto chỉ số,cộng cs,tăng cs|Bạn bấm vào ô thứ 2 ở phần Chức Năng có Auto cộng chỉ số nhanh 
 up sm,cày sm|Bạn ép sức đánh cho đồ rồi vào Ngũ Hành Sơn ở Làng Aru up cho lẹ, Sau đó đến địa ngục ở Cu Tí Đảo Kame vào sau đảo gặp Diêm Vương 
-cuồng nộ,item,cnsc,cn,bh, bổ huyết,bổ khí,bk|Các loại item và item siêu cấp đều mở ra từ capsule kì bí
-cskb,capsule,kì bí|Capsule kì bí rơi ở tương lai khi bạn sử dụng máy dò và đánh quái [xu mua máy dò]
-đồng xu,xu mua máy dò|Xu mua máy dò bạn đánh quái ngũ hành sơn là rơi nhé 
-thật ko|Nói xạo đó
+cuồng nộ,item,cnsc,đồng xu,xu mua máy dò,cskb,capsule,kì bí,cn,bh,bổ huyết,bổ khí,bk|Các loại item và item siêu cấp đều mở ra từ capsule kì bí (train quái ngũ hành sơn lấy coin rồi sang bulma đổi máy dò capsule)
 sức mạnh,chỉ số max,ghsm|Bạn ra vách núi morri gặp quốc vương để mở giới hạn sức mạnh nhé (Sức mạnh max hiện tại cho sư phụ và đệ tử là 300 tỷ) Chỉ số max hiện tại cho sư phụ và đệ tử là 780K và 40K (Sư phụ có thể [trùng sinh] để tăng thêm) 
 trùng sinh|Bạn cần có Canh Mạnh Bà để trùng sinh, Trùng sinh sẽ tăng thêm 5% chỉ số gốc (819K và 42K) [nguyên liệu trùng sinh] 
 mạnh bà|Canh mạnh bà bạn có thể mua ở Sau đảo hoặc thu thập x999 11 nguyên liệu ở địa ngục để nấu Canh mạnh bà 
