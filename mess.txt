@@ -99,7 +99,7 @@ bot khôn,bot không khôn|ai cũng biết rằng tôi khôn mà
 còn sống không|Tôi vẫn còn sống đây, tôi đứng đây chờ bạn từ chiều 
 phụ kiện|phụ kiện mua ở santa cho nhanh  
 cành tre|Bạn gom đủ 9999 rồi ghép thành cần câu đi câu cá nhé 
-test,open,op,sv|Server Vừa Mới Open Vẫn Free All (Dame trung, Free MTV)
+test,open,op,sv|Server Vừa Mới Open Vẫn Free All (Dame trung, Free MTV, Cày 100 Tỷ mới giao dịch được)
 mtv,mở tv,mở thành viên,kích hoạt|Game free MTV nhé (tạo acc là kích hoạt sẵn rồi) 
 tàn sát|Lệnh tàn sát ở thông báo phần chức năng, còn tàn sát bản koioctieu bạn mua máy tự động luyện tập rồi sử dụng rồi bấm góc trên cùng bên trái chọn train quái 
 chức năng|Các NPC đều có chỉ chức năng, bạn tới đó đọc nhé 
@@ -128,7 +128,7 @@ im đi|mày mới phải im đấy
 dcu bot|dcu mày 
 bot thông minh|ai cũng nói là tôi thông minh mà. cảm ơn bạn!
 câm bot|mày mới là người phải câm đấy 
-bot lồn|lồn má mày chứ lồn 
+bot lồn|lồn má mày chứ lồn
 bot ngu|mày mới là thằng ngu đó 
 bot nguu|mày mới là thằng nguu đó 
 lỗi ước rồng|Bạn tắt game rồi vào lại khu là gọi được 
