@@ -57,7 +57,6 @@ doremon,doraemon,nobita,shizuka,chaien,xeko|Boss Tiểu đội doraemon (thời 
 hải tặc,luffy,nami,zoro,sanji,brook|Boss Tiểu đội Luffy (thời gian: 20 phút) (địa chỉ: không xác định) (hỗ trợ: không) (sát thương tối đa: 100.000.000) 
 dọc,màn hình|IPhone bị màn hình dọc bạn: Bạn tắt cái khóa xoay màn hình đi. xong tắt game mở lên lại. xoay ngang trước khi mở nhé 
 nút di chuyển|Nút di chuyển bạn bấm vào nút tam giác bên tay trái rồi vào phần Chức Năng, chọn Cấu Hình, rồi chọn Bàn Phím Ảo nhé 
-đăng ký,dky,tạo,sai,chính xác,đăng nhập|đăng ký hoặc đăng nhập không được thì chụp màn hình lại gửi vào đây mọi người hướng dẫn nhé 
 hồn thiên tôn,hồn chí tôn|hồn thiên tôn hay còn gọi là hồn chí tôn, Cách kiếm: bạn dùng cuồng nộ siêu cấp và đánh quái cold sẽ rơi, Cách dùng: bạn xem ở Bà Hạt Mít 
 hồn hạ tôn|hồn hạ tôn, Cách kiếm: bạn dùng cuồng nộ thường và đánh quái cold sẽ rơi, Cách dùng: bạn xem ở Bà Hạt Mít 
 mảnh hồn,kính soi,kính lúp,viên kẹo|Bạn mua [kính lúp], [kính soi], và [viên kẹo] sau đó đi tìm [mảnh hồn] nhé (có thể tìm được [rương chí tôn] từ chức năng này đó) Các [mảnh hồn] có thể đổi vài món đồ ở santa đó 
@@ -65,8 +64,8 @@ hồn|Hãy cho mình biết bạn muốn hỏi về hồn gì? [hồn thiên tô
 thức ăn,thuc an, đồ ăn|Thức ăn bạn mặc set thần linh rồi up quái cold là rơi 
 black goku|Black goku mạnh vcl đấy mấy cưng, rơi nhẫn thời không để vào map Chilled 
 giftcode,code,xin code,sin code|Game hiện đang có giftcode: ngocrong1, ngocrong2, ngocrong3, ngocrong4, ngocrong5, ngocrong6, zalobox và ngocrongnthevcom 
-link tải,tải game,download,apk,pc,máy tính, iphone,ios,jar,testflight,appcenter|Bạn có thể tải game qua box tải: https://zalo.me/g/vsvzbr273 hoặc bằng link trên ghim hoặc link này nhé: https://ngocrongnthev.com
-id,ip,ipsv|Nhập đầy đủ từ NgocRong đến hết |231:         NgocRongNThev:14.225.203.19:14445:0,0,0|231
+link tải,tải game,download,apk,pc,máy tính, iphone,ios,jar,testflight,đăng ký,dky,tạo,sai,chính xác,đăng nhập,appcenter|Tải game tại Trang chủ: https://ngocrongnthev.com hoặc qua box tải: https://zalo.me/g/vsvzbr273 (Lỗi đăng ký, đăng nhập,..Bạn hãy chụp lại hoặc quay lại gửi vào box để mọi người hỗ trợ nhé)
+id,ip,ipsv|NgocRongNThev:14.225.203.19:14445:0,0,0|231
 bảo trì,btri|Thấy thông báo bảo trì thì tắt game đi! bảo trì cho nhanh mà còn vào húp boss xinh tươi
 fanpage,tiktok,youtube|Link Fanpage nè https://www.facebook.com/ngocrongnthevmax   Tiktok nè https://www.tiktok.com/@megameonline2024 Youtube nè https://youtube.com/@ngocrongonline2501  
 nạp,donate|Nạp tự động tại https://ngocrongnthev.com rồi vô santa đổi sang hồng ngọc hoặc thỏi vàng (tỷ lệ quy đổi 10k = 20k hồng ngọc, 60k = 10k thỏi vàng)
