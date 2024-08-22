@@ -63,7 +63,7 @@ hồn|Hãy cho mình biết bạn muốn hỏi về hồn gì? [hồn thiên tô
 thức ăn,thuc an, đồ ăn|Thức ăn bạn mặc set thần linh rồi up quái cold là rơi 
 black goku|Black goku mạnh vcl đấy mấy cưng, rơi nhẫn thời không để vào map Chilled 
 giftcode,code,xin code,sin code|Game hiện đang có giftcode: ngocrong1, ngocrong2, ngocrong3, ngocrong4, ngocrong5, ngocrong6, zalobox và ngocrongnthevcom 
-link tải,tải game,download,apk,pc,máy tính, iphone,ios,jar,testflight,đăng ký,dky,tạo,sai,chính xác,đăng nhập,appcenter|Tải game tại Trang chủ: https://ngocrongnthev.com hoặc qua box tải: https://zalo.me/g/vsvzbr273 (Lỗi đăng ký, đăng nhập,..Bạn hãy chụp lại hoặc quay lại gửi vào box để mọi người hỗ trợ nhé)
+link tải,tải game,download,apk,pc,máy tính, iphone,ios,jar,testflight,thành công,đăng ký,dky,tạo,sai,chính xác,đăng nhập,appcenter|Tải game tại Trang chủ: https://ngocrongnthev.com hoặc qua box tải: https://zalo.me/g/vsvzbr273 (Lỗi đăng ký, đăng nhập,..Bạn hãy chụp lại hoặc quay lại gửi vào box để mọi người hỗ trợ nhé)
 id,ip,ipsv|NgocRongNThev:14.225.203.19:14445:0,0,0|231
 bảo trì,btri|Thấy thông báo bảo trì thì tắt game đi! bảo trì cho nhanh mà còn vào húp boss xinh tươi
 fanpage,tiktok,youtube|Link Fanpage nè https://www.facebook.com/ngocrongnthevmax   Tiktok nè https://www.tiktok.com/@megameonline2024 Youtube nè https://youtube.com/@ngocrongonline2501  
@@ -88,59 +88,46 @@ ai đẹp,bot đẹp|admin đẹp nhất nhé! Tôi đánh giá khách quan là 
 chán|Tại sao bạn lại chán, bắt con gián bỏ vô háng cho đỡ chán 
 bot ngủ|Tôi không ngủ đâu nhé, tôi luôn sẵn sàng phục vụ bạn 
 alo,lô,alô,hello,chào|Hello anh đẹp trai 
-chào bot|Hi! Chào cậu, cho mình làm quen nhé! 
-chê bot|Chê lol gì mà chê 
-chs bot,chơi bot|Ok chơi luôn
-nm td|thích chơi gì chơi, chơi với tôi sẽ vui hơn đấy 
-mốc nạp|bạn đăng nhập vô web rồi tự mở mốc nhé 
-thành công|Bạn gặp vấn đề khi vào game, hãy chụp chỗ Tên server ở chỗ đăng nhập trong game gửi vô đây xem đúng Ngoc Rong Vo Song không, nếu không đúng thì bạn xóa dữ liệu đi nhé mới vào được 
+chào bot|Hi! Chào cậu, cho mình làm quen nhé!  
+mốc nạp|bạn đăng nhập vô web rồi tự mở mốc nhé  
 bot khôn,bot không khôn|ai cũng biết rằng tôi khôn mà 
 còn sống không|Tôi vẫn còn sống đây, tôi đứng đây chờ bạn từ chiều 
 phụ kiện|phụ kiện mua ở santa cho nhanh  
 cành tre|Bạn gom đủ 9999 rồi ghép thành cần câu đi câu cá nhé 
-test,open,op,sv|Server Vừa Mới Open Vẫn Free All (Dame trung, Free MTV, Cày 100 Tỷ mới giao dịch được)
-mtv,mở tv,mở thành viên,kích hoạt|Game free MTV nhé (tạo acc là kích hoạt sẵn rồi) 
+test,open,op,sv,mtv,mở tv,mở thành viên,kích hoạt|Server Vừa Mới Open Vẫn Free All (Dame trung, Free MTV, Cày 100 Tỷ mới giao dịch được)
 tàn sát|Lệnh tàn sát ở thông báo phần chức năng, còn tàn sát bản koioctieu bạn mua máy tự động luyện tập rồi sử dụng rồi bấm góc trên cùng bên trái chọn train quái 
 chức năng|Các NPC đều có chỉ chức năng, bạn tới đó đọc nhé 
 tỷ lệ nạp,tỉ lệ nạp, tỷ lệ quy đổi, tỉ lệ quy đổi|Quy đổi ở santa có tỷ lệ bạn ra xem nhé 
-dhd, dts, đồ hủy diệt, đồ thiên sứ, đồ ts|Nâng cấp đồ ở thiên sứ đảo kame (có hướng dẫn) 
+dhd,dts,đồ hủy diệt,đồ thiên sứ,đồ ts|Nâng cấp đồ ở thiên sứ đảo kame (có hướng dẫn) 
 bịp|thằng bên trên mới bịp nhé 
 cái gì,update,cái j,gì đây|Có nhiều thứ tôi chưa được biết đến, bạn cứ gửi vào nhóm đi mọi người sẽ giúp đỡ bạn nhé 
 lỡ đổi đệ,quên tháo|Lỡ đổi thì lỗi tại mình chứ ai mà hỏi, tự chịu đi kaka 
 bot giận,bot dỗi|Tôi không biết giận đâu, ai chửi thì tôi chửi lại 
 bot yêu|Tôi đang thầm yêu bạn nè! Xíu chúng ta in bóc nhau nhé 
 boss bí ngô|Boss bí ngô khi bạn dùng mắt kính + kính lúp + kẹo mua ở Sau đảo kame (gặp Cu Tí) dùng để dò hồn sẽ rơi ra mảnh hồn đổi được rương thần linh kích hoạt với rương mị lực mở ra cốt chí tôn đó 
-gửi video,quay video|Bạn quay video đi, rồi gửi vô đây mọi người hướng dẫn
-dcu bot|dcu mày 
+gửi video,quay video|Bạn quay video đi, rồi gửi vô đây mọi người hướng dẫn 
 lặc|lặc má mày chứ lặc 
-ra chửi tụi nó|nào? nào? thằng nào ngon thì bước ra đây nào?
 bot ơi|Có tôi đây! bạn muốn hỏi gì? nhớ ghi đúng chính tả tôi mới hiểu nhé 
-Tiêu diệt ở đâu|Nhiệm vụ bò mộng có chỉ chỗ Quái đó quí zị 
 code live|Nào admin live mới có, chứ admin đang nuôi con lười 
 ngũ hành sơn|ra làng aru gặp Đường tăng để vào Ngũ Hành Sơn 
 bot cặc|cặc ba mày chứ cặc 
-đéo tin|Đéo tin thì thôi ai mượn m tin
-thơm|Thơm quá đi, cho hưởng ké xíu 
-fide|Fide (10 phút) (xuất hiện tại núi khỉ vàng) (có thể bỏ qua nhiệm vụ ở Quy Lão)
+Fide|Fide (10 phút) (xuất hiện tại núi khỉ vàng) (có thể bỏ qua nhiệm vụ ở Quy Lão)
 ai lấy|Cho tui, cho tui đi 
-im đi|mày mới phải im đấy
-dcu bot|dcu mày 
+im đi|mày im mẹ mồm vào đi
 bot thông minh|ai cũng nói là tôi thông minh mà. cảm ơn bạn!
 câm bot|mày mới là người phải câm đấy 
 bot lồn|lồn má mày chứ lồn
 bot ngu|mày mới là thằng ngu đó 
-bot nguu|mày mới là thằng nguu đó 
 lỗi ước rồng|Bạn tắt game rồi vào lại khu là gọi được 
 bot cặc|cặc ba mày chứ cặc 
-bot hài|Tôi sinh ra cũng để tấu hài cho cái box này, mong được trả lương hậu hĩnh 
+bot hài|Tôi sinh ra cũng để tấu hài cho cái box này mà
 Địt|địt cái đầu mày chứ địt 
 thông đít|thông đít mày 
 óc lồn|lồn mà có óc hử? 
 bot nói nhiều|nói nhiều sao bằng mày được hả nhóc 
 solo|nào nào? muốn gì nào? muốn solo thì nhào vô nào? 
 mệt|làm gì mà mệt hả? 
-lỗi nạp thẻ|Báo lỗi nạp thì liên hệ người có chìa khoá màu vàng trong box zalo nhé 
-đĩ mẹ m|đĩ mẹ m 
+lỗi nạp thẻ|Báo lỗi nạp thì liên hệ người có chìa khoá màu vàng trong box zalo nhé  
 nv khó quá|Game nào cũng có nhiệm vụ dễ nhiệm vụ khó mới là game, dễ quá thì ai cũng qua sẽ đâm ra chán. Nên hãy cứ đam mê đi! 
 max cs,max chi so,chi so max|HP KI 780K SD 40K nhé 
 ad giàu|ad không có tiền mua sịp mặc nữa chứ giàu 
