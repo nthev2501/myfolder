@@ -49,12 +49,11 @@ mảnh thiên sứ, mts, mảnh ts, manh ts|mảnh thiên sứ up ở hành tinh
 câu cá|Câu cá thì mua cần câu rồi bấm sử dụng là được (1 lần câu 500 hồng ngọc - không mất cần câu) 
 Tiểu đội sát thủ,tdst,boss số, số 4, tđst|Tiểu đội sát thủ (thời gian: 10 phút) (địa chỉ: Núi khỉ đỏ) (hỗ trợ: có) (sát thương tối đa: 30.000.000) 
 Fide|Fide (thời gian: 10 phút) (địa chỉ: Núi khỉ vàng) (hỗ trợ: có) (sát thương tối đa: 50.000.000) 
-android19,adr19,android20,kore,apk19,apk20|Android19-20 (thời gian: 15 phút) (địa chỉ: Thành phố phía nam) (hỗ trợ: có) (sát thương tối đa: 70.000.000) 
-pic,poc,kingkong,ppkk|Pic-Poc-Kingkong (thời gian: 15 phút) (địa chỉ: Thành phố phía bắc) (hỗ trợ: có) (sát thương tối đa: 100.000.000) 
-xên thị trấn,cell thị trấn,xên bọ hung,ginder,thị trấn|Xên ở thị trấn Ginder (thời gian: 15 phút) (địa chỉ: Thị trấn Ginder) (hỗ trợ: có) (sát thương tối đa: 400.000.000) 
-xên võ đài,cell võ đài,siêu bọ hung,võ đài,vo dai|Xên ở Võ đài Xên Bọ Hung (thời gian: 15 phút) (địa chỉ: Võ Đài Xên Bọ Hung) (hỗ trợ: có) (sát thương tối đa: 500.000.000) 
-doremon,doraemon,nobita,shizuka,chaien,xeko|Boss Tiểu đội doraemon (thời gian: 20 phút) (địa chỉ: không xác định) (hỗ trợ: không) (sát thương tối đa: không) 
-hải tặc,luffy,nami,zoro,sanji,brook|Boss Tiểu đội Luffy (thời gian: 20 phút) (địa chỉ: không xác định) (hỗ trợ: không) (sát thương tối đa: 100.000.000) 
+android19,adr19,android20,kore,apk19,apk20|Android19-20 (15 phút) (Thành phố phía nam) (sát thương tối đa: 70.000.000) (có thể bỏ qua nhiệm vụ ở Quy Lão)
+pic,poc,kingkong,ppkk|Pic-Poc-Kingkong (15 phút) (Thành phố phía bắc) (sát thương tối đa: 100.000.000) (có thể bỏ qua nhiệm vụ ở Quy Lão)
+xên thị trấn,cell thị trấn,xên bọ hung,ginder,thị trấn|Xên ở thị trấn Ginder (15 phút) (Thị trấn Ginder) (sát thương tối đa: 400.000.000) (có thể bỏ qua nhiệm vụ ở Quy Lão)
+xên võ đài,cell võ đài,siêu bọ hung,võ đài,vo dai|Xên ở Võ đài Xên Bọ Hung (15 phút) (Võ Đài Xên Bọ Hung) (sát thương tối đa: 500.000.000) (có thể bỏ qua nhiệm vụ ở Quy Lão)
+doremon,doraemon,nobita,shizuka,chaien,xeko|Boss Tiểu đội doraemon (20 phút) (có thể bỏ qua nhiệm vụ ở Quy Lão)
 dọc,màn hình|IPhone bị màn hình dọc bạn: Bạn tắt cái khóa xoay màn hình đi. xong tắt game mở lên lại. xoay ngang trước khi mở nhé 
 nút di chuyển|Nút di chuyển bạn bấm vào nút tam giác bên tay trái rồi vào phần Chức Năng, chọn Cấu Hình, rồi chọn Bàn Phím Ảo nhé 
 hồn thiên tôn,hồn chí tôn|hồn thiên tôn hay còn gọi là hồn chí tôn, Cách kiếm: bạn dùng cuồng nộ siêu cấp và đánh quái cold sẽ rơi, Cách dùng: bạn xem ở Bà Hạt Mít 
@@ -69,12 +68,12 @@ id,ip,ipsv|NgocRongNThev:14.225.203.19:14445:0,0,0|231
 bảo trì,btri|Thấy thông báo bảo trì thì tắt game đi! bảo trì cho nhanh mà còn vào húp boss xinh tươi
 fanpage,tiktok,youtube|Link Fanpage nè https://www.facebook.com/ngocrongnthevmax   Tiktok nè https://www.tiktok.com/@megameonline2024 Youtube nè https://youtube.com/@ngocrongonline2501  
 nạp,donate|Nạp tự động tại https://ngocrongnthev.com rồi vô santa đổi sang hồng ngọc hoặc thỏi vàng (tỷ lệ quy đổi 10k = 20k hồng ngọc, 60k = 10k thỏi vàng)
-đồ thần,dtl,đồ tl|đồ thần bạn săn boss hoặc up cold nhé (dâng hiến ở thiên sứ whis) 
-hỗ trợ,ho tro nv|khung giờ hỗ trợ nhiệm vụ 9-12h sáng tối (ai nhiệm vụ đó mới được vào khu) 
+đồ thần,dtl,đồ tl|đồ thần bạn săn boss hoặc up cold nhé (làm nguyên liệu nâng đồ huỷ diệt ở thiên sứ whis)
+hỗ trợ,ho tro nv|khung giờ hỗ trợ nhiệm vụ 9-12h sáng tối (ai nhiệm vụ đó mới được vào khu - áp dụng cho các boss từ TDST đến Xên Võ Đài) 
 bán nick,mua nick,bán nick,bán acc,bay nick,bay acc|Vui lòng thu hồi tin nhắn, hãy vào box mua bán trên ghim 
-chiến thần|chiến thần là đệ tử thứ 2 tăng sức mạnh cực mạnh, mua trứng ở chỗ Quy lão rồi vào đảo hoa nhé
-calich,tương lai|Calich ở đầu rừng bambo (đường đến tương lai)
-kuku,mập đầu đinh,map dau dinh,rambo|Mấy boss KuKu,Mdđ,Rambo (5phút) bạn ra Thành Phố Vegeta Gặp Cui để tìm nhanh nhé (boss chết thì chờ rồi tìm tiếp) 
+chiến thần|chiến thần là đệ tử thứ 2 tăng sức mạnh cực mạnh, mua trứng ở chỗ Đảo Hoa (chỗ Quy lão đi vào)
+calich,tương lai|Calich ở đầu rừng bambo (xong nhiệm vụ fide 3 mới thấy được calich để đến tương lai)
+kuku,mập đầu đinh,map dau dinh,rambo|KuKu,Mdđ,Rambo (5phút) Tìm nhanh ở Cui thành phố Vegeta (có thể bỏ qua nhiệm vụ ở Quy Lão)
 Đồ vip,trang bị vip,set vip|Trang bị kích hoạt vip nâng ở Thiên Sứ whis đảo kame hoặc mua nhanh ở Santa(xem nguyên liệu ở đó luôn nhé)
 mảnh ấn|bạn tiêu diệt boss ở Hành tinh ngục tù nhé 
 mấy sao,level|trang bị thường 10 sao và trang bị vip 12 sao, trang bị thường 9 cấp và trang bị vip 10 cấp (cày có hết) 
@@ -122,7 +121,7 @@ ngũ hành sơn|ra làng aru gặp Đường tăng để vào Ngũ Hành Sơn
 bot cặc|cặc ba mày chứ cặc 
 đéo tin|Đéo tin thì thôi ai mượn m tin
 thơm|Thơm quá đi, cho hưởng ké xíu 
-fide|boss fide 10 phút 1 đợt (xuất hiện tại núi khỉ vàng) 
+fide|Fide (10 phút) (xuất hiện tại núi khỉ vàng) (có thể bỏ qua nhiệm vụ ở Quy Lão)
 ai lấy|Cho tui, cho tui đi 
 im đi|mày mới phải im đấy
 dcu bot|dcu mày 
