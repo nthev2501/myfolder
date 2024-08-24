@@ -39,7 +39,7 @@ chậm,tốc,cheat|Bạn tăng tốc độ game bằng: một số lệnh chat b
 cộng chỉ số,nâng chỉ số,nâng kinh nghiệm,auto chỉ số,cộng cs,tăng cs|Bạn bấm vào ô thứ 2 ở phần Chức Năng có Auto cộng chỉ số nhanh 
 up sm,cày sm|Bạn ép sức đánh cho đồ rồi vào Ngũ Hành Sơn ở Làng Aru up cho lẹ, Sau đó đến địa ngục ở Cu Tí Đảo Kame vào sau đảo gặp Diêm Vương 
 cuồng nộ,item,cnsc,đồng xu,xu mua máy dò,cskb,capsule,kì bí,cn,bh,bổ huyết,bổ khí,bk|Các loại item và item siêu cấp đều mở ra từ capsule kì bí (train quái ngũ hành sơn lấy coin rồi sang bulma đổi máy dò capsule)
-sức mạnh,chỉ số max,ghsm|Bạn ra vách núi morri gặp quốc vương để mở giới hạn sức mạnh nhé (Sức mạnh max hiện tại cho sư phụ và đệ tử là 300 tỷ) Chỉ số max hiện tại cho sư phụ và đệ tử là 780K và 40K (Sư phụ có thể [trùng sinh] để tăng thêm) 
+sức mạnh,chỉ số,ghsm|Bạn ra vách núi morri gặp quốc vương để mở giới hạn sức mạnh nhé (Sức mạnh max hiện tại cho sư phụ và đệ tử là 300 tỷ) Chỉ số max hiện tại cho sư phụ và đệ tử là 780K và 40K (Sư phụ có thể [trùng sinh] để tăng thêm) 
 trùng sinh|Bạn cần có Canh Mạnh Bà để trùng sinh, Trùng sinh sẽ tăng thêm 5% chỉ số gốc (819K và 42K) [nguyên liệu trùng sinh] 
 mạnh bà|Canh mạnh bà bạn có thể mua ở Sau đảo hoặc thu thập x999 11 nguyên liệu ở địa ngục để nấu Canh mạnh bà 
 chỉ số đệ|Đệ tử không lỗi sức mạnh và chỉ số, bạn treo up lâu là full hết (MAX 780K 40K)
