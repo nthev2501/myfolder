@@ -70,7 +70,7 @@ fanpage,tiktok,youtube|Link Fanpage nè https://www.facebook.com/ngocrongnthevma
 nạp,donate|Nạp tự động tại https://ngocrongnthev.com rồi vô santa đổi sang hồng ngọc hoặc thỏi vàng (tỷ lệ quy đổi 10k = 20k hồng ngọc, 60k = 10k thỏi vàng)
 đồ thần,dtl,đồ tl|đồ thần bạn săn boss hoặc up cold nhé (làm nguyên liệu nâng đồ huỷ diệt ở thiên sứ whis)
 hỗ trợ,ho tro nv|khung giờ hỗ trợ nhiệm vụ 9-12h sáng tối (ai nhiệm vụ đó mới được vào khu - áp dụng cho các boss từ TDST đến Xên Võ Đài) 
-bán nick,mua nick,bán nick,bán acc,bay nick,bay acc|VUI LÒNG THU HỒI TIN NHẮN MUA BÁN TÀI KHOẢN, hãy vào box mua bán trên ghim (Không thu hồi bạn sẽ bị ban khỏi box chat)
+bán nick,mua nick,bán nick,bán acc,bay nick,bay acc,p acc,p nick,m nick,m acc,acc giá,nick giá|VUI LÒNG THU HỒI TIN NHẮN MUA BÁN TÀI KHOẢN, hãy vào box mua bán trên ghim (Không thu hồi bạn sẽ bị ban khỏi box chat)
 chiến thần|chiến thần là đệ tử thứ 2 tăng sức mạnh cực mạnh, mua trứng ở chỗ Đảo Hoa (chỗ Quy lão đi vào)
 calich,tương lai|Calich ở đầu rừng bambo (xong nhiệm vụ fide 3 mới thấy được calich để đến tương lai)
 kuku,mập đầu đinh,map dau dinh,rambo|KuKu,Mdđ,Rambo (5phút) Tìm nhanh ở Cui thành phố Vegeta (có thể bỏ qua nhiệm vụ ở Quy Lão)
