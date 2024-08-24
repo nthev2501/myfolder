@@ -55,7 +55,7 @@ xên võ đài,cell võ đài,siêu bọ hung,võ đài,vo dai|Xên ở Võ đà
 doremon,doraemon,nobita,shizuka,chaien,xeko|Boss Tiểu đội doraemon (20 phút) (có thể bỏ qua nhiệm vụ ở Quy Lão)
 dọc,màn hình|IPhone bị màn hình dọc bạn: Bạn tắt cái khóa xoay màn hình đi. xong tắt game mở lên lại. xoay ngang trước khi mở nhé 
 nút di chuyển|Nút di chuyển bạn bấm vào nút tam giác bên tay trái rồi vào phần Chức Năng, chọn Cấu Hình, rồi chọn Bàn Phím Ảo nhé 
-hồn thiên tôn,hồn chí tôn|hồn thiên tôn hay còn gọi là hồn chí tôn, Cách kiếm: bạn dùng cuồng nộ siêu cấp và đánh quái cold sẽ rơi, Cách dùng: bạn xem ở Bà Hạt Mít 
+thiên tôn,chí tôn|Dùng cuồng nộ siêu cấp đánh quái cold sẽ rơi hồn thiên tôn (chí tôn), nâng ở Whis đảo kame hoặc mua Rương thiên tôn (chí tôn) ở Santa (được chọn set)
 hồn hạ tôn|hồn hạ tôn, Cách kiếm: bạn dùng cuồng nộ thường và đánh quái cold sẽ rơi, Cách dùng: bạn xem ở Bà Hạt Mít 
 mảnh hồn,kính soi,kính lúp,viên kẹo|Bạn mua [kính lúp], [kính soi], và [viên kẹo] sau đó đi tìm [mảnh hồn] nhé (có thể tìm được [rương chí tôn] từ chức năng này đó) Các [mảnh hồn] có thể đổi vài món đồ ở santa đó 
 hồn|Hãy cho mình biết bạn muốn hỏi về hồn gì? [hồn thiên tôn], [hồn hạ tôn], [hồn chí tôn], [mảnh hồn] 
@@ -108,7 +108,7 @@ gửi video,quay video|Bạn quay video đi, rồi gửi vô đây mọi ngườ
 lặc|lặc má mày chứ lặc 
 bot ơi|Có tôi đây! bạn muốn hỏi gì? nhớ ghi đúng chính tả tôi mới hiểu nhé 
 code live|Nào admin live mới có, chứ admin đang nuôi con lười 
-ngũ hành sơn|ra làng aru gặp Đường tăng để vào Ngũ Hành Sơn 
+ngũ hành sơn,nhs|ra làng aru gặp Đường tăng để vào Ngũ Hành Sơn 
 bot cặc|cặc ba mày chứ cặc 
 Fide|Fide (10 phút) (xuất hiện tại núi khỉ vàng) (có thể bỏ qua nhiệm vụ ở Quy Lão)
 ai lấy|Cho tui, cho tui đi 
@@ -170,11 +170,10 @@ bỏ qua nv|Bạn bỏ qua nhiệm vụ tân thủ ở nhà và bỏ qua nv chí
 cốt|Cốt chí tôn rơi từ các sự kiện và chức năng khác nhau. ép vào trang bị sẽ tăng chỉ số trang bị cực mạnh, nếu mặc đủ 3 món sẽ tăng thêm 10%, 4 món 20%, 5 món 30%. Những ai đứng gần sẽ bị giảm sát thương đi 50% mỗi 30 giây. Nhai trái thần long để không bị giảm khi đứng gần Chí Tôn nhé 
 set gì|set love nhé (setlove cùng mình nè) 
 pháo trẻ trâu|sử dụng pháo trẻ trâu sẽ nổ banh lon cả khu nhé 
-ngọc bội,eyes|Bạn mua ngọc bội ở santa, sau đó mang bội lên người rồi train quái ở Làng lá (đường vào ở quy lão - đến đảo - chạy qua trái sẽ đến làng lá) Bạn train sẽ rơi mảnh mắt. thu thập đủ mảnh mắt thì nâng bội lên Susano (eyes chính thức) mới nâng thì eyes sẽ 1% 3 loại chỉ số. up càng nhiều nâng càng nhiều chỉ số susano sẽ tăng lên. hãy nâng susano lên 50% 55% 55% rồi mới đi đục lỗ ép sao nhé 
-đá nâng cấp,tat,ruby|Đá nâng cấp ở santa bạn có thể mua rồi sử dụng sẽ ra 1 đống đá nâng cấp nhé (thạch anh tím, ruby, titan,..)
+ngọc bội,eyes,dns,đá ngũ sắc|Bạn mua ngọc bội ở santa, sau đó mang bội lên người rồi train quái ở Làng lá (đường vào ở quy lão - đến đảo - chạy qua trái sẽ đến làng lá) Bạn train sẽ rơi mảnh mắt. thu thập đủ mảnh mắt thì nâng bội lên Susano (eyes chính thức) mới nâng thì eyes sẽ 1% 3 loại chỉ số. up càng nhiều nâng càng nhiều chỉ số susano sẽ tăng lên. hãy nâng susano lên 50% 55% 55% rồi mới đi đục lỗ ép sao nhé 
+dnc,đá nâng cấp,tat,ruby|Đá nâng cấp ở santa bạn có thể mua rồi sử dụng sẽ ra 1 đống đá nâng cấp nhé (thạch anh tím, ruby, titan,..)
 đổi tên|Thẻ đổi tên mua ở santa, được đổi tên thành có Dấu viết hoa và kí tự đặc biệt nhé (đừng đặt quá dài sẽ bị mất thẻ đổi tên mà không đổi được tên) 
 trứng linh thú|trứng linh thú thì chờ 60 phút nó mới cho nở nhé 
-Rương thiên tôn|Các rương đồ ở santa đều được chọn loại và chọn set (không phải ngẫu nhiên nhé) 
 mảnh sưu tầm|Mảnh sưu tầm quái nào bạn train quái đó là rơi 
 chờ duyệt|Bài chờ duyệt vẫn tính (yêu cầu chụp lại bài chờ duyệt) 
 thg,vãi|Anh em đô nết cho ad đi chứ đêm qua ad có chia sẻ với tui là ad dạo này đói ác. Thương ad quá đi! 
