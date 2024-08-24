@@ -5,10 +5,9 @@ bò mộng,nvhn,bo mong|Bò mộng ở Rừng karin có giao nhiệm vụ hàng 
 địa ngục|Map địa ngục bạn ra gặp Cu Tí ở đảo kame rồi vào map gặp Diêm Vương để xuống nhé
 ngục tù,htnt|Hành tinh ngục tù bạn vào rừng karin rồi đi miết miết lên trên là tới
 tiểu hạt|Bạn đi doanh trại giết boss sẽ rơi tiểu hạt nhiệm vụ
-sau đảo|Gặp Cu Tí để vào sau đảo
 boss mới|Boss mới đi hỏi admin chứ tui không biết
 10k,20k,30k,50k,100k,200k,300k,500k,700k,1tr|Tỷ lệ nạp là 1-1 (quy đổi: 10k = 20k hồng ngọc, 60k = 10k thỏi vàng)
-set thần tiên|Để có set thần tiên bạn cần có phiếu giảm giá để mua set ở Vados (sau đó nâng lên thiên tôn ở hạt mít)
+thần tiên|Để có set thần tiên bạn cần có phiếu giảm giá để mua set ở Vados (sau đó nâng lên thiên tôn ở hạt mít)
 hồn chiến thần|Hồn chiến thần thì có bông tai vô song rồi đi giết nakroth sẽ rơi mảnh chiến thần, gom đủ 50 mảnh sẽ tạo thành hồn chiến thần. Hồn chiến thần có thể mua ở Menu Nuôi chiến thần (ô thứ 2 chỗ chức năng)
 đổi skill|Đổi skill đệ tử 2-3-4 Bạn gọi rồng thần nhé. 1-5-6 Gọi rồng thần siêu cấp (ngọc rồng siêu cấp train quái và tham gia các hoạt động trong game sẽ có)
 4 tab|Giới hạn địa chỉ IP là 4 Tab online cùng lúc nhé
@@ -30,7 +29,7 @@ vũ trụ 9|Bạn chat 'm' hoặc 'map' để vào Vũ trụ số 9
 vamchar|Làng vamchar bạn tới làng morri để vào nhé
 đảo hoa|gặp Quy lão để vào đảo hoa (Trong đảo hoa có làng lá đó)
 làng lá|Từ đảo hoa chạy sang trái là đến làng lá
-k vô dc,k vào dc,k vào được,không vào được game,k vô được,không vào được,lag,lỗi,lang,lắc,lác|Quay video (lỗi,lag,giật,xoay,..) rồi gửi vào box để mọi người chỉ fix nhé! IPHONE: #####TẢI LẠI BẢN MỚI NHẤT NẾU KHÔNG VÀO ĐƯỢC####
+k vô dc,k vào dc,k vào được,không vào được game,k vô được,không vào được,lag,lỗi,lang,lắc,lác|Quay video (lỗi,lag,giật,xoay,..) rồi gửi vào box để mọi người chỉ fix nhé! #####___IPHONE TẢI LẠI BẢN MỚI NHẤT NẾU KHÔNG VÀO ĐƯỢC___####
 xoá dữ liệu PC|Bản Pc bạn chuột phải vào file tải về chọn Extract Here (k thấy extract here thì chat [Winrar] để mình gửi link tải). Mở game lên rồi bấm chữ Xoá Dữ Liệu dưới góc là được
 winrar|Bạn tải về rồi bấm cài đặt rồi tiếp tục như bên trên tôi chỉ: https://www.win-rar.com/fileadmin/winrar-versions/winrar/winrar-x64-701.exe 
 xoá dữ liệu apk|Để xoá dữ liệu bản Android bạn bấm giữ vào app game ->Chọn Thông tin ứng dụng -> Dung lượng lưu trữ -> Xoá dữ liệu 
