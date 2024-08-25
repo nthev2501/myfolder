@@ -96,7 +96,7 @@ còn sống không|Tôi vẫn còn sống đây, tôi đứng đây chờ bạn 
 phụ kiện|phụ kiện mua ở santa cho nhanh  
 cành tre|Bạn gom đủ 9999 rồi ghép thành cần câu đi câu cá nhé 
 test,open,op,sv,mtv,mở tv,mở thành viên,kích hoạt|Server Vừa Mới Open Vẫn Free All (Dame trung, Free MTV, Cày 100 Tỷ mới giao dịch được)
-tàn sát|Lệnh tàn sát ở thông báo phần chức năng, còn tàn sát bản koioctieu bạn mua máy tự động luyện tập rồi sử dụng rồi bấm góc trên cùng bên trái chọn train quái 
+tàn sát,tự động đánh|Lệnh tàn sát ở thông báo phần chức năng, còn tàn sát bản koioctieu bạn mua máy tự động luyện tập rồi sử dụng rồi bấm góc trên cùng bên trái chọn train quái 
 chức năng|Các NPC đều có chỉ chức năng, bạn tới đó đọc nhé 
 tỷ lệ nạp,tỉ lệ nạp, tỷ lệ quy đổi, tỉ lệ quy đổi|Quy đổi ở santa có tỷ lệ bạn ra xem nhé 
 dhd,dts,đồ hủy diệt,đồ thiên sứ,đồ ts|Nâng cấp đồ ở thiên sứ đảo kame (có hướng dẫn) 
