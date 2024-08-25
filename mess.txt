@@ -72,7 +72,7 @@ nạp,donate|Nạp tự động tại https://ngocrongnthev.com rồi vô santa 
 đồ thần,dtl,đồ tl|đồ thần bạn săn boss hoặc up cold nhé (làm nguyên liệu nâng đồ huỷ diệt ở thiên sứ whis)
 hỗ trợ,ho tro nv|khung giờ hỗ trợ nhiệm vụ 9-12h sáng tối (ai nhiệm vụ đó mới được vào khu - áp dụng cho các boss từ TDST đến Xên Võ Đài) 
 bán nick,mua nick,bán nick,bán acc,bay nick,bay acc,p acc,p nick,m nick,m acc,acc giá,nick giá|VUI LÒNG THU HỒI TIN NHẮN MUA BÁN TÀI KHOẢN, hãy vào box mua bán trên ghim (Không thu hồi bạn sẽ bị ban khỏi box chat)
-chiến thần|chiến thần là đệ tử thứ 2 tăng sức mạnh cực mạnh, mua trứng ở chỗ Đảo Hoa (chỗ Quy lão đi vào)
+chiến thần|chiến thần là đệ tử thứ 2 tăng sức mạnh cực mạnh, mua trứng ở chỗ Đảo Hoa (chỗ Quy lão đi vào) chức năng xem ở ô thứ 2 chỗ chức năng
 calich,tương lai|Calich ở đầu rừng bambo (xong nhiệm vụ fide 3 mới thấy được calich để đến tương lai)
 kuku,mập đầu đinh,map dau dinh,rambo|KuKu,Mdđ,Rambo (5phút) Tìm nhanh ở Cui thành phố Vegeta (có thể bỏ qua nhiệm vụ ở Quy Lão)
 Đồ vip,trang bị vip,set vip|Trang bị kích hoạt vip nâng ở Thiên Sứ whis đảo kame hoặc mua nhanh ở Santa(xem nguyên liệu ở đó luôn nhé)
