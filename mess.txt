@@ -23,7 +23,7 @@ up đâu, up sm, úp đâu, úp sm|Bạn ép sức đánh cho đồ rồi vào N
 kẹt,- 1,-1,1 đấm|kẹp map thì đăng nhập vào web rồi bấm nút thoát kẹt. Còn boss kẹt map thì chưởng nó đi chứ hỏi chi
 tạo nv,tạo nhân vật,tao nv|Bạn chọn cấu hình cao mới tạo nhân vật được nhé (nhận đệ tử trong nhà xong thì thoát game vào lại để hiện menu đệ tử)
 điểm boss|Điểm boss bạn đánh boss sẽ có điểm (tuỳ boss ngẫu nhiên). mua thêm cuốc để trồng được trái thần long (tăng sức đánh)
-website,trang chủ,web|Link website: https://ngocrongnthev.com (Gặp vấn đề về tải game hay đăng ký hãy chụp lại gửi vào đây mọi người cùng hỗ trợ nhé)
+website,trang chủ,web|Link website: http://ngocrongcooler.online (Gặp vấn đề về tải game hay đăng ký hãy chụp lại gửi vào đây mọi người cùng hỗ trợ nhé)
 ngáo bot|Ngáo đâu, mày mới ngáo đó
 mượt|Mượt mà như sunsik cấp ẩm da đầu ngăn gàu quay trở lại :))
 đen xì|Chọn server trên TestFlight xong thì tắt game mở lại là tải được dữ liệu rồi vô game nhé
@@ -66,11 +66,11 @@ hồn|Hãy cho mình biết bạn muốn hỏi về hồn gì? [hồn thiên tô
 thức ăn,thuc an, đồ ăn|Thức ăn bạn mặc set thần linh rồi up quái cold là rơi 
 black goku|Black goku mạnh vcl đấy mấy cưng, rơi nhẫn thời không để vào map Chilled 
 giftcode,code,xin code,sin code|Game hiện đang có giftcode: ngocrong1, ngocrong2, ngocrong3, ngocrong4, ngocrong5, ngocrong6, zalobox và ngocrongnthevcom 
-link tải,tải game,download,apk,pc,máy tính, iphone,ios,jar,testflight,thành công,đăng ký,dky,tạo,sai,chính xác,đăng nhập,appcenter|Tải game tại Trang chủ: https://ngocrongnthev.com hoặc tải qua box: https://zalo.me/g/vsvzbr273 (Lỗi đăng ký, đăng nhập,..Bạn hãy chụp lại hoặc quay lại gửi vào box để mọi người hỗ trợ nhé)
+link tải,tải game,download,apk,pc,máy tính, iphone,ios,jar,testflight,thành công,đăng ký,dky,tạo,sai,chính xác,đăng nhập,appcenter|Tải game tại Trang chủ: http://ngocrongcooler.online hoặc tải qua box: https://zalo.me/g/vsvzbr273 (Lỗi đăng ký, đăng nhập,..Bạn hãy chụp lại hoặc quay lại gửi vào box để mọi người hỗ trợ nhé)
 id,ip,ipsv|NgocRongNThev:14.225.203.19:14445:0,0,0|231
 bảo trì,btri|Bảo trì là fix vài lỗi vặt hoặc update mới (Bảo trì chỉ 1-2 phút thôi)
 fanpage,tiktok,youtube|Link Fanpage nè https://www.facebook.com/ngocrongnthevmax   Tiktok nè https://www.tiktok.com/@megameonline2024 Youtube nè https://youtube.com/@ngocrongonline2501  
-nạp,donate|Nạp tự động tại https://ngocrongnthev.com rồi vô santa đổi sang hồng ngọc hoặc thỏi vàng (tỷ lệ quy đổi 10k = 20k hồng ngọc, 60k = 10k thỏi vàng)
+nạp,donate|Nạp tự động tại http://ngocrongcooler.online rồi vô santa đổi sang hồng ngọc hoặc thỏi vàng (tỷ lệ quy đổi 10k = 20k hồng ngọc, 60k = 10k thỏi vàng)
 đồ thần,dtl,đồ tl|đồ thần bạn săn boss hoặc up cold nhé (làm nguyên liệu nâng đồ huỷ diệt ở thiên sứ whis)
 hỗ trợ,ho tro nv|khung giờ hỗ trợ nhiệm vụ 9-12h sáng tối (ai nhiệm vụ đó mới được vào khu - áp dụng cho các boss từ TDST đến Xên Võ Đài) 
 bán nick,mua nick,bán nick,bán acc,bay nick,bay acc,p acc,p nick,m nick,m acc,acc giá,nick giá|VUI LÒNG THU HỒI TIN NHẮN MUA BÁN TÀI KHOẢN, hãy vào box mua bán trên ghim (Không thu hồi bạn sẽ bị ban khỏi box chat)
