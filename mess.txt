@@ -19,7 +19,7 @@ khúc gỗ,keo dán,giấy,cái cưa|khúc gỗ,keo dán,giấy,cái cưa là v�
 cay|Cay thì mua sữa về uống, tiện mua dùm tui thùng vinamilk luôn nhé. Cảm ơn!
 potaufeu|Hang potaufeu bạn đến trạm tàu vũ trụ trái đất tìm thằng Jaco để vào đánh nhân bản rơi item siêu cấp
 doanh trại|Vào rừng bambo gặp lính canh để vào doanh trại, tất cả người đứng gần phải xong nhiệm vụ 24 mới được đi
-up đâu, up sm, úp đâu, úp sm|Bạn ép sức đánh cho đồ rồi vào Ngũ Hành Sơn ở Làng Aru up cho lẹ, Sau đó đến địa ngục ở Cu Tí Đảo Kame vào sau đảo gặp Diêm Vương
+up đâu,up sm,úp đâu,úp sm|Bạn ép sức đánh cho đồ rồi vào Ngũ Hành Sơn ở Làng Aru up cho lẹ, Sau đó đến địa ngục ở Cu Tí Đảo Kame vào sau đảo gặp Diêm Vương
 kẹt,- 1,-1,1 đấm|kẹp map thì đăng nhập vào web rồi bấm nút thoát kẹt. Còn boss kẹt map thì chưởng nó đi chứ hỏi chi
 tạo nv,tạo nhân vật,tao nv|Bạn chọn cấu hình cao mới tạo nhân vật được nhé (nhận đệ tử trong nhà xong thì thoát game vào lại để hiện menu đệ tử)
 điểm boss|Điểm boss bạn đánh boss sẽ có điểm (tuỳ boss ngẫu nhiên). mua thêm cuốc để trồng được trái thần long (tăng sức đánh)
@@ -69,7 +69,7 @@ black goku|Black goku mạnh vcl đấy mấy cưng, rơi nhẫn thời không �
 giftcode,code,xin code,sin code|Game hiện đang có giftcode: ngocrong1, ngocrong2, ngocrong3, ngocrong4, ngocrong5, ngocrong6, zalobox và ngocrongnthevcom 
 link tải,tải game,download,apk,pc,máy tính, iphone,ios,jar,testflight,thành công,đăng ký,dky,tạo,sai,chính xác,đăng nhập,appcenter|Tải game tại Trang chủ: http://ngocrongnthev.com hoặc tải qua box: https://zalo.me/g/vxcuux196 (Lỗi đăng ký, đăng nhập,..Bạn hãy chụp lại hoặc quay lại gửi vào box để mọi người hỗ trợ nhé)
 id,ip,ipsv|NgocRongNThev:14.225.203.19:14445:0,0,0|231
-bảo trì,btri,btr|Xem Server đang RUN hay OFF tại đây: http://ngocrongnthev.com/trang-thai
+bảo trì,btri,btr|Xem Server có bảo trì hay không tại đây: http://ngocrongnthev.com/trang-thai
 fanpage,tiktok,youtube|Link Fanpage nè https://www.facebook.com/ngocrongnthevmax   Tiktok nè https://www.tiktok.com/@megameonline2024 Youtube nè https://youtube.com/@ngocrongonline2501  
 nạp,donate|Nạp tự động tại http://ngocrongnthev.com rồi vô santa đổi sang hồng ngọc hoặc thỏi vàng (tỷ lệ quy đổi 10k = 20k hồng ngọc, 60k = 10k thỏi vàng)
 đồ thần,dtl,đồ tl|đồ thần bạn săn boss hoặc up cold nhé (làm nguyên liệu nâng đồ huỷ diệt ở thiên sứ whis)
