@@ -27,6 +27,7 @@ tạo nv,tạo nhân vật,tao nv|Bạn chọn cấu hình cao mới tạo nhân
 website,trang chủ,web|Link website: http://ngocrongnthev.com (Gặp vấn đề về tải game hay đăng ký hãy chụp lại gửi vào đây mọi người cùng hỗ trợ nhé)
 ngáo bot|Ngáo đâu, mày mới ngáo đó
 cặc|Cặc cha mày chứ cặc
+
 bot cơm chạy|Bot này chạy bằng tiền donate nha. Anh em donate nhiều thì phục vụ tốt
 qua cold,đến cold|Xong nhiệm vụ xên hoàn thiện ở thị trấn ginder là qua được cold
 mượt|Mượt mà như sunsik cấp ẩm da đầu ngăn gàu quay trở lại :))
@@ -73,7 +74,7 @@ giftcode,code,xin code,sin code|Giftcode tân thủ: ngocrong1, ngocrong2, ngocr
 link tải,tải game,download,apk,pc,máy tính, iphone,ios,jar,testflight,thành công,đăng ký,dky,tạo,sai,chính xác,đăng nhập,appcenter|Tải game tại Trang chủ: http://ngocrongnthev.com hoặc tải qua box: https://zalo.me/g/vxcuux196 (Lỗi đăng ký, đăng nhập,..Bạn hãy chụp lại hoặc quay lại gửi vào box để mọi người hỗ trợ nhé)
 id,ip,ipsv|NgocRongNThev:14.225.203.19:14445:0,0,0|231
 bảo trì,btri,btr|Xem Server có bảo trì hay không tại đây: http://ngocrongnthev.com/trang-thai
-fanpage,tiktok,youtube|Link Fanpage nè https://www.facebook.com/ngocrongnthevmax   Tiktok nè https://www.tiktok.com/@megameonline2024 Youtube nè https://youtube.com/@ngocrongonline2501  
+fanpage,tiktok,youtube|Link Fanpage nè https://www.facebook.com/ngocrongnthevmax   Tiktok nè https://www.tiktok.com/@nthev.ngocrongonline Youtube nè https://youtube.com/@ngocrongonline2501  
 nạp,donate|Nạp tự động tại http://ngocrongnthev.com rồi vô santa đổi sang hồng ngọc hoặc thỏi vàng (tỷ lệ quy đổi 10k = 20k hồng ngọc, 60k = 10k thỏi vàng)
 đồ thần,dtl,đồ tl|đồ thần bạn săn boss hoặc up cold nhé (làm nguyên liệu nâng đồ huỷ diệt ở thiên sứ whis)
 hỗ trợ,ho tro nv|khung giờ hỗ trợ nhiệm vụ 9-12h sáng tối (ai nhiệm vụ đó mới được vào khu - áp dụng cho các boss từ TDST đến Xên Võ Đài) 
