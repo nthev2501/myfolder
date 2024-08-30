@@ -184,7 +184,7 @@ dnc,đá nâng cấp,tat,ruby|Đá nâng cấp ở santa bạn có thể mua r�
 trứng linh thú|trứng linh thú thì chờ 60 phút nó mới cho nở nhé 
 mảnh sưu tầm|Mảnh sưu tầm quái nào bạn train quái đó là rơi 
 chờ duyệt|Bài chờ duyệt vẫn tính (yêu cầu chụp lại bài chờ duyệt) 
-thg,vãi,vc,chưa|Ae Follow Kênh đệ lên sự kiện nhé: https://www.tiktok.com/@nthev.ngocrongonline
+thg,vãi,vc,chưa|Mỗi video trên kênh đều có giftcode. Giới hạn lượt nhập nên Ae Follow Kênh để lấy code sớm nhé: https://www.tiktok.com/@nthev.ngocrongonline
 bông tai,porata,mvbt,đá đỏ, đá xanh|BÔNG TAI CẤP 2 max 15%, BÔNG TAI CẤP 3 max 25%, BÔNG TAI CẤP 4 (VôSong) 25% + Thêm Chỉ Số (Chỉ mua ở Santa - Cày hồng ngọc rồi mua), nguyên liệu C2,C3 rơi ở các map từ nappa->khỉ vàng (Nâng ở Hạt Mít vách núi) 
 sợ chưa|Chưa sợ, ngon nhào zô 
 bot var|ngon vào đây mà var này 
