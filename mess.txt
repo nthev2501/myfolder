@@ -65,7 +65,7 @@ doremon,doraemon,nobita,shizuka,chaien,xeko|Boss Tiểu đội doraemon (20 phú
 dọc,màn hình|IPhone bị màn hình dọc bạn: Bạn tắt cái khóa xoay màn hình đi. xong tắt game mở lên lại. xoay ngang trước khi mở nhé 
 nút di chuyển|Nút di chuyển bạn bấm vào nút tam giác bên tay trái rồi vào phần Chức Năng, chọn Cấu Hình, rồi chọn Bàn Phím Ảo nhé 
 thiên tôn,chí tôn|Dùng cuồng nộ siêu cấp đánh quái cold sẽ rơi hồn thiên tôn (chí tôn), nâng ở Whis đảo kame hoặc mua Rương thiên tôn (chí tôn) ở Santa (được chọn set)
-hồn hạ tôn|hồn hạ tôn, Cách kiếm: bạn dùng cuồng nộ thường và đánh quái cold sẽ rơi, Cách dùng: bạn xem ở Bà Hạt Mít 
+hạ tôn|hồn hạ tôn, Cách kiếm: bạn dùng cuồng nộ thường và đánh quái cold sẽ rơi, Cách dùng: bạn xem ở Bà Hạt Mít 
 mảnh hồn,kính soi,kính lúp,viên kẹo|Bạn mua [kính lúp], [kính soi], và [viên kẹo] sau đó đi tìm [mảnh hồn] nhé (có thể tìm được [rương chí tôn] từ chức năng này đó) Các [mảnh hồn] có thể đổi vài món đồ ở santa đó 
 hồn|Hãy cho mình biết bạn muốn hỏi về hồn gì? [hồn thiên tôn], [hồn hạ tôn], [hồn chí tôn], [mảnh hồn] 
 thức ăn,thuc an, đồ ăn|Thức ăn bạn mặc set thần linh rồi up quái cold là rơi 
