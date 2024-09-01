@@ -15,12 +15,12 @@ hồn chiến thần|Hồn chiến thần thì có bông tai vô song rồi đi 
 bán vàng,bán thỏi|Thỏi vàng chỉ để mua đồ ở Santa chứ không có bán, vàng thì nhận miễn phí không giới hạn ở nhà
 lời chúc,nến,khung tre,giấy màu,rada linh hồn|Bạn vào Trang chủ mà đọc sự kiện Vu Lan nhen
 đậu bư,đậu thần,bư béo|Đậu thần mabu mở ra set kích hoạt (săn ở mabu 21h ở đại hội võ thuật nhen)
-bot bot,bot ơi,alo bot,bot đâu|kêu gì mà lắm vậy?
+bot bot,bot ơi,alo bot,bot đâu|kêu gì mà lắm vậy? Ghi rõ ra tôi mới hiểu được
 khúc gỗ,keo dán,giấy,cái cưa|khúc gỗ,keo dán,giấy,cái cưa là vật phẩm sự kiện (gỗ + cưa = giấy, giấy + kéo = sách) 
 cay|Cay thì mua sữa về uống, tiện mua dùm tui thùng vinamilk luôn nhé. Cảm ơn!
 potaufeu|Hang potaufeu bạn đến trạm tàu vũ trụ trái đất tìm thằng Jaco để vào đánh nhân bản rơi item siêu cấp
 doanh trại|Vào rừng bambo gặp lính canh để vào doanh trại, tất cả người đứng gần phải xong nhiệm vụ 24 mới được đi
-up đâu,up sm,úp đâu,úp sm|Bạn ép sức đánh cho đồ rồi vào Ngũ Hành Sơn ở Làng Aru up cho lẹ, Sau đó đến địa ngục ở Cu Tí Đảo Kame vào sau đảo gặp Diêm Vương
+up đâu,up sm,úp đâu,úp sm,up nhanh,úp nhanh|Bạn ép sức đánh cho đồ rồi vào Ngũ Hành Sơn ở Làng Aru up cho lẹ, Sau đó đến địa ngục ở Cu Tí Đảo Kame vào sau đảo gặp Diêm Vương
 kẹt,- 1,-1,1 đấm|kẹp map thì đăng nhập vào web rồi bấm nút thoát kẹt. Còn boss kẹt map thì chưởng nó đi chứ hỏi chi
 tạo nv,tạo nhân vật,tao nv|Bạn chọn cấu hình cao mới tạo nhân vật được nhé (nhận đệ tử trong nhà xong thì thoát game vào lại để hiện menu đệ tử)
 điểm boss|Điểm boss bạn đánh boss sẽ có điểm (tuỳ boss ngẫu nhiên). mua thêm cuốc để trồng được trái thần long (tăng sức đánh)
