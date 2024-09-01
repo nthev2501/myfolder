@@ -41,7 +41,7 @@ vũ trụ 9|Bạn chat 'm' hoặc 'map' để vào Vũ trụ số 9
 vamchar|Làng vamchar bạn tới làng morri để vào nhé
 đảo hoa|gặp Quy lão để vào đảo hoa (Trong đảo hoa có làng lá đó)
 làng lá|Từ đảo hoa chạy sang trái là đến làng lá
-k vô dc,k vào dc,k vào được,không vào được game,k vô được,không vào được,lag,lỗi,lang,lắc,lác|Bạn bị vấn đề gì cũng quay video rồi gửi vào box để mọi người chỉ fix nhé! TẠO NHÂN VẬT: Thì chọn cấu hình Cao, TestFlight chọn server 1 xong tắt game mở lại
+k vô dc,k vào dc,k vào được,không vào được game,k vô được,không vào được,lag,lỗi,lang,lắc,lác|Bạn vui lòng quay video tình trạng bạn đang gặp phải rồi gửi vào box để mọi người chỉ fix nhé! TẠO NHÂN VẬT: Thì chọn cấu hình Cao, TestFlight chọn server 1 xong tắt game mở lại
 xoá dữ liệu PC|Bản Pc bạn chuột phải vào file tải về chọn Extract Here (k thấy extract here thì chat [Winrar] để mình gửi link tải). Mở game lên rồi bấm chữ Xoá Dữ Liệu dưới góc là được 
 xoá dữ liệu apk|Để xoá dữ liệu bản Android bạn bấm giữ vào app game ->Chọn Thông tin ứng dụng -> Dung lượng lưu trữ -> Xoá dữ liệu 
 xoá dữ liệu ios|Bạn xoá game tải lại là được hoặc bấm nút Xoá dữ liệu màu trắng ở góc 
