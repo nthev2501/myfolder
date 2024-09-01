@@ -116,7 +116,6 @@ tỷ lệ nạp,tỉ lệ nạp, tỷ lệ quy đổi, tỉ lệ quy đổi|Quy 
 dhd,dts,đồ hủy diệt,đồ thiên sứ,đồ ts|Nâng cấp đồ ở thiên sứ đảo kame (có hướng dẫn) 
 bịp|thằng bên trên mới bịp nhé 
 cái gì,update,cái j,gì đây|Có nhiều thứ tôi chưa được biết đến, bạn cứ gửi vào nhóm đi mọi người sẽ giúp đỡ bạn nhé 
-lỡ đổi đệ,quên tháo|Lỡ đổi thì lỗi tại mình chứ ai mà hỏi, tự chịu đi kaka 
 bot giận,bot dỗi|Tôi không biết giận đâu, ai chửi thì tôi chửi lại 
 bot yêu|Tôi đang thầm yêu bạn nè! Xíu chúng ta in bóc nhau nhé 
 boss bí ngô|Boss bí ngô khi bạn dùng mắt kính + kính lúp + kẹo mua ở Sau đảo kame (gặp Cu Tí) dùng để dò hồn sẽ rơi ra mảnh hồn đổi được rương thần linh kích hoạt với rương mị lực mở ra cốt chí tôn đó 
@@ -138,7 +137,6 @@ bot hài|Tôi sinh ra cũng để tấu hài cho cái box này mà
 thông đít|thông đít mày 
 óc lồn|lồn mà có óc hử? 
 bot nói nhiều|nói nhiều sao bằng mày được hả nhóc 
-solo|nào nào? muốn gì nào? muốn solo thì nhào vô nào? 
 mệt|làm gì mà mệt hả? 
 lỗi nạp thẻ|Báo lỗi nạp thì liên hệ người có chìa khoá màu vàng trong box zalo nhé  
 nv khó quá|Game nào cũng có nhiệm vụ dễ nhiệm vụ khó mới là game, dễ quá thì ai cũng qua sẽ đâm ra chán. Nên hãy cứ đam mê đi! 
