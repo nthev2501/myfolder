@@ -40,8 +40,7 @@ vamchar|Làng vamchar bạn tới làng morri để vào nhé
 đảo hoa|gặp Quy lão để vào đảo hoa (Trong đảo hoa có làng lá đó)
 làng lá|Từ đảo hoa chạy sang trái là đến làng lá
 k vô dc,k vào dc,k vào được,không vào được game,k vô được,không vào được,lag,lỗi,lang,lắc,lác|Bạn bị vấn đề gì cũng quay video rồi gửi vào box để mọi người chỉ fix nhé! TẠO NHÂN VẬT: Thì chọn cấu hình Cao, TestFlight chọn server 1 xong tắt game mở lại
-xoá dữ liệu PC|Bản Pc bạn chuột phải vào file tải về chọn Extract Here (k thấy extract here thì chat [Winrar] để mình gửi link tải). Mở game lên rồi bấm chữ Xoá Dữ Liệu dưới góc là được
-winrar|Bạn tải về rồi bấm cài đặt rồi tiếp tục như bên trên tôi chỉ: https://www.win-rar.com/fileadmin/winrar-versions/winrar/winrar-x64-701.exe 
+xoá dữ liệu PC|Bản Pc bạn chuột phải vào file tải về chọn Extract Here (k thấy extract here thì chat [Winrar] để mình gửi link tải). Mở game lên rồi bấm chữ Xoá Dữ Liệu dưới góc là được 
 xoá dữ liệu apk|Để xoá dữ liệu bản Android bạn bấm giữ vào app game ->Chọn Thông tin ứng dụng -> Dung lượng lưu trữ -> Xoá dữ liệu 
 xoá dữ liệu ios|Bạn xoá game tải lại là được hoặc bấm nút Xoá dữ liệu màu trắng ở góc 
 xoá dữ liệu jar|Nếu sài Jar trên Android bạn xoá J2Me Loader đi, sau đó cài lại là được. Trên Pc thì xem hướng dẫn ở đây: https://youtu.be/Od90G9deiI4 
@@ -74,7 +73,9 @@ giftcode,code,xin code,sin code|Giftcode tân thủ: ngocrong1, ngocrong2, ngocr
 tkmk,tk mk,thành công,đăng ký,dky,tạo,sai,chính xác,đăng nhập|Bạn gặp bất kì lỗi gì đừng vội out box. Bạn hãy chụp lại hoặc quay lại gửi vào box để mọi người hỗ trợ cho bạn nhé
 link tải,tải game,download|Tải game tại Trang chủ: http://ngocrongnthev.com hoặc tải qua box: https://zalo.me/g/vxcuux196 (Lỗi đăng ký, đăng nhập,..Bạn hãy chụp lại hoặc quay lại gửi vào box để mọi người hỗ trợ nhé)
 id,ip,ipsv|NgocRongNThev:14.225.203.19:14445:0,0,0|231
-pc,windows,máy tính|Link tải PC Máy tính đây nhé: http://ngocrongnthev.com/download/windows
+cài game trên pc|Tải bản pc về -> chuột phải vào file game -> chọn Extract here -> mở thư mục màu vàng và mở game - xoá dữ liệu trước khi vô game! (Không thấy Extract Here thì cài winrar trước) - #HỎI: cách cài winrar?
+pc,windows,máy tính|Link tải PC Máy tính đây nhé: http://ngocrongnthev.com/download/windows - #HỎI: cài game trên pc)
+winrar|Bạn tải về rồi bấm cài đặt rồi next next là cài được rồi: https://www.win-rar.com/fileadmin/winrar-versions/winrar/winrar-x64-701.exe
 apk,adr,android,androi|Link tải Android đây nhé: http://ngocrongnthev.com/download/android
 jar,java|Link tải Jar đây nhé: http://ngocrongnthev.com/download/java
 iphone,ios|Link tải IPhone nhé: http://ngocrongnthev.com/download/iphone
