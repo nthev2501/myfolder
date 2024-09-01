@@ -167,7 +167,7 @@ scam|Sì Trái Cam là hành vi vi phạm đạo đức của một con người
 Vòng quay thượng đế|Vòng quay thượng đế quay tốn hồng ngọc (chưa thêm vật phẩm đặc biệt) 
 linh thú|Linh thú mua ở santa nè, rút ở Thỏ Đại bịp nè, mua trứng linh thú ở santa nè 
 mới chơi|Bạn mới chơi thì năng nổ giao tiếp với mọi người trong box nè, nhất là giao tiếp với tôi nhé! 
-share,event|Đăng nhập nick vào vào trang chủ rồi qua trang diễn đàn sẽ có hàng loạt event dành cho bạn, có hướng dẫn hết (ĐỌC KĨ NHÉ)
+share,event,even|Đăng nhập nick vào vào trang chủ rồi qua trang diễn đàn sẽ có hàng loạt event dành cho bạn, có hướng dẫn hết (ĐỌC KĨ NHÉ)
 khắc ấn vô song|Khắc ấn sẽ không mất bông tai vô song nhé 
 chân mệnh,tu luyện,vòng chân|bạn lên hành tinh kaio gặp thiên sứ whis để nâng chân mệnh nhé. điểm tu luyện làm nhiệm vụ tu luyện của bò mộng. 1000 điểm 1 level 
 người yêu bot|Máy móc mà được yêu thì chắc tôi yêu bạn đầu tiên đấy! 
