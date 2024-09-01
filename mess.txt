@@ -99,6 +99,7 @@ chán|Tại sao bạn lại chán, bắt con gián bỏ vô háng cho đỡ chá
 bot ngủ|Tôi không ngủ đâu nhé, tôi luôn sẵn sàng phục vụ bạn 
 alo,lô,alô,hello,chào|Hello anh đẹp trai 
 má bot|má mày chứ má tao gì?
+vô pt,xin pt,xin bang,vô pt,vô clan,xin clan|Bạn muốn vào bang hội thì nên chat thế giới rồi xin, ae trong game đông lắm
 chào bot|Hi! Chào cậu, cho mình làm quen nhé!  
 mốc nạp|bạn đăng nhập vô web rồi tự mở mốc nhé  
 bot khôn,bot không khôn|ai cũng biết rằng tôi khôn mà 
@@ -151,7 +152,7 @@ rương cấp 11|đủ 24 giờ từ lúc nhận rương thì mới mở đượ
 kí gửi,ký gửi|Kí gửi mua bán bằng hồng ngọc nhé, không phải vàng 
 danh hiệu,dhieu|Danh hiệu từ lúc nhận đã tăng sẵn chỉ số (lỡ làm mất danh hiệu thì chỉ số vẫn được cộng) ở Thần Mèo Karin trong rừng karin nhé chỗ Bò Mộng 
 trái thần long,mảnh đất,cây cuốc,khu đất,nông trại|Bạn mua đất + cây cuốc rồi săn boss đủ 30 điểm sẽ trồng được cây thần long, thu hoạch trái thần long ăn vào tăng chỉ số ( đặc biệt không bị ảnh hưởng với sức mạnh chí tôn ) 
-max sm,sdg,hpg,max sd, max hp|max sức mạnh là 300 tỷ nhé, max chỉ số 780k và 40k 
+max sm,sdg,hpg,max sd,max hp|max sức mạnh là 300 tỷ nhé, max chỉ số 780k và 40k 
 bot ơi,bot rep,con bot,bot trả lời|hỏi gì cứ hỏi đi? (liên quan đến vật phẩm hay gì cứ hỏi - không viết tắt - đúng chính tả) 
 ước ngọc rồng|ước ngọc rồng thường đổi được skill 2-3-4 đệ tử nhé 
 mị nương|rút cải trang mị nương ở Vua Hùng có tỷ lệ ra vĩnh viễn (nếu rút đủ 10 lần sẽ ra vĩnh viễn - không cần rút liên tục) 
