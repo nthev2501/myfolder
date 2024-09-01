@@ -74,12 +74,7 @@ tkmk,tk mk,thành công,đăng ký,dky,tạo,sai,chính xác,đăng nhập|Bạn
 link tải,tải game,download|Tải game tại Trang chủ: http://ngocrongnthev.com hoặc tải qua box: https://zalo.me/g/vxcuux196 (Lỗi đăng ký, đăng nhập,..Bạn hãy chụp lại hoặc quay lại gửi vào box để mọi người hỗ trợ nhé)
 id,ip,ipsv|NgocRongNThev:14.225.203.19:14445:0,0,0|231
 cài game trên pc|Tải bản pc về -> chuột phải vào file game -> chọn Extract here -> mở thư mục màu vàng và mở game - xoá dữ liệu trước khi vô game! (Không thấy Extract Here thì cài winrar trước) - #HỎI: cách cài winrar?
-pc,windows,máy tính|Link tải PC Máy tính đây nhé: http://ngocrongnthev.com/download/windows - #HỎI: cài game trên pc)
-winrar|Bạn tải về rồi bấm cài đặt rồi next next là cài được rồi: https://www.win-rar.com/fileadmin/winrar-versions/winrar/winrar-x64-701.exe
-apk,adr,android,androi|Link tải Android đây nhé: http://ngocrongnthev.com/download/android
-jar,java|Link tải Jar đây nhé: http://ngocrongnthev.com/download/java
-iphone,ios|Link tải IPhone nhé: http://ngocrongnthev.com/download/iphone
-testflight,tf|Link Testflight: https://testflight.apple.com/join/X7aPZdCV (CHỌN SV1 XONG TẮT GAME MỞ LẠI RỒI ĐĂNG NHẬP)
+winrar|Bạn tải về rồi bấm cài đặt rồi next next là cài được rồi: https://www.win-rar.com/fileadmin/winrar-versions/winrar/winrar-x64-701.exe - #HỎI: cài game trên pc?
 bảo trì,btri,btr|Xem Server có bảo trì hay không tại đây: http://ngocrongnthev.com/trang-thai
 fanpage,tiktok,youtube|Link Fanpage nè https://www.facebook.com/ngocrongnthevmax   Tiktok nè https://www.tiktok.com/@nthev.ngocrongonline Youtube nè https://youtube.com/@ngocrongonline2501  
 nạp,donate|Nạp tự động tại http://ngocrongnthev.com rồi vô santa đổi sang hồng ngọc hoặc thỏi vàng (tỷ lệ quy đổi 10k = 20k hồng ngọc, 60k = 10k thỏi vàng)
@@ -198,3 +193,8 @@ sợ chưa|Chưa sợ, ngon nhào zô
 bot var|ngon vào đây mà var này 
 bot ny|Tôi làm gì đã có ny, tôi còn đang sợ ế đây này :3
 bot nhà nghỉ|Khách sạn thì mình còn suy nghĩ lại :))
+pc,windows,máy tính|Link tải PC Máy tính đây nhé: http://ngocrongnthev.com/download/windows - #HỎI: cài game trên pc?
+apk,adr,android,androi|Link tải Android đây nhé: http://ngocrongnthev.com/download/android
+jar,java|Link tải Jar đây nhé: http://ngocrongnthev.com/download/java
+iphone,ios|Link tải IPhone nhé: http://ngocrongnthev.com/download/iphone
+testflight,tf|Link Testflight: https://testflight.apple.com/join/X7aPZdCV (CHỌN SV1 XONG TẮT GAME MỞ LẠI RỒI ĐĂNG NHẬP)
