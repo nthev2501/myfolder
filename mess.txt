@@ -27,6 +27,7 @@ tạo nv,tạo nhân vật,tao nv|Bạn chọn cấu hình cao mới tạo nhân
 website,trang chủ,web|Link website: http://ngocrongnthev.com (Gặp vấn đề về tải game hay đăng ký hãy chụp lại gửi vào đây mọi người cùng hỗ trợ nhé)
 ngáo bot|Ngáo đâu, mày mới ngáo đó
 cặc|Cặc cha mày chứ cặc
+appcenter|Link Appcenter: https://s.net.vn/abze (Có 5 bản lận nhé, bấm mũi tên xuống để lựa bản mod ưng ý)
 tên bot|Mình là biệt đội Pikemon gồm thằng Ếch Xanh, Rùa Nước và Khủng Long Lửa
 bot cơm chạy|Bot này chạy bằng tiền donate nha. Anh em donate nhiều thì phục vụ tốt
 qua cold,đến cold|Xong nhiệm vụ xên hoàn thiện ở thị trấn ginder là qua được cold
