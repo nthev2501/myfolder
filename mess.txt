@@ -194,7 +194,7 @@ sợ chưa|Chưa sợ, ngon nhào zô
 bot var|ngon vào đây mà var này 
 bot ny|Tôi làm gì đã có ny, tôi còn đang sợ ế đây này :3
 bot nhà nghỉ|Khách sạn thì mình còn suy nghĩ lại :))
-pc,windows,máy tính|Link tải PC Máy tính đây nhé: http://ngocrongnthev.com/download/windows - #HỎI: cài game trên pc?
+pc,windows,máy tính|Link tải PC Máy tính đây nhé: http://ngocrongnthev.com/download/windows - Hướng dẫn: https://youtu.be/Al87Vhor8KQ
 apk,adr,android,androi|Link tải Android đây nhé: http://ngocrongnthev.com/download/android
 jar,java|Link tải Jar đây nhé: http://ngocrongnthev.com/download/java
 iphone,ios|Link tải IPhone nhé: http://ngocrongnthev.com/download/iphone
