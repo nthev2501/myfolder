@@ -31,7 +31,7 @@ ngáo bot|Ngáo đâu, mày mới ngáo đó
 cặc|Cặc cha mày chứ cặc
 uron|Bạn bỏ qua hết nhiệm vụ tân thủ ở nhà rồi chạy ra trạm tàu vũ trụ sẽ thấy Uron nhé
 appcenter|Link Appcenter: https://s.net.vn/abze (Có 5 bản lận nhé, bấm mũi tên xuống để lựa bản mod ưng ý)
-tên bot,bot tht|Mình là biệt đội Pikemon gồm thằng Ếch Xanh, Rùa Nước và Khủng Long Lửa
+tên bot,bot tht|Mình là biệt đội Pikemon gồm thằng Ếch Xanh, Rùa Nước và Khủng Long Lửa. 2 thằng kia ở 2 box khác rồi
 bot cơm chạy|Bot này chạy bằng tiền donate nha. Anh em donate nhiều thì phục vụ tốt
 qua cold,đến cold|Xong nhiệm vụ xên hoàn thiện ở thị trấn ginder là qua được cold
 mượt|Mượt mà như sunsik cấp ẩm da đầu ngăn gàu quay trở lại :))
