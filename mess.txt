@@ -153,7 +153,7 @@ Skill đệ tử|Đệ tử có 6 chiêu ước rồng thường đổi được
 skill ô,5 chiêu|trên điện thoại chỉ gán được 5 ô thôi, mở máy tính lên sẽ gán được 10 ô đấy 
 vamchar|Trước làng morri có cổng vào làng vamchar 
 rương cấp 11|đủ 24 giờ từ lúc nhận rương thì mới mở được nhé 
-kí gửi,ký gửi|Kí gửi mua bán bằng hồng ngọc nhé (Do kí nhiều nrsc nên kí gửi tràn, xóa hết - khỏi ib admin)
+kí gửi,ký gửi|Kí gửi mua bán bằng hồng ngọc nhé
 danh hiệu,dhieu|Danh hiệu từ lúc nhận đã tăng sẵn chỉ số (lỡ làm mất danh hiệu thì chỉ số vẫn được cộng) ở Thần Mèo Karin trong rừng karin nhé chỗ Bò Mộng 
 trái thần long,mảnh đất,cây cuốc,khu đất,nông trại|Bạn mua đất + cây cuốc rồi săn boss đủ 30 điểm sẽ trồng được cây thần long, thu hoạch trái thần long ăn vào tăng chỉ số ( đặc biệt không bị ảnh hưởng với sức mạnh chí tôn ) 
 max sm,sdg,hpg,max sd,max hp|max sức mạnh là 300 tỷ nhé, max chỉ số 780k và 40k 
