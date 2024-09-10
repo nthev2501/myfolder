@@ -34,7 +34,6 @@ website,trang chủ,web,diễn đàn|Link website: http://ngocrongnthev.com (G�
 ngáo bot|Ngáo đâu, mày mới ngáo đó
 cặc|Cặc cha mày chứ cặc
 uron|Bạn bỏ qua hết nhiệm vụ tân thủ ở nhà rồi chạy ra trạm tàu vũ trụ sẽ thấy Uron nhé
-appcenter|Link Appcenter: https://s.net.vn/abze (Có 5 bản lận nhé, bấm mũi tên xuống để lựa bản mod ưng ý)
 tên bot,bot tht,bot thật,bot real|Mình là biệt đội Pikemon gồm thằng Ếch Xanh, Rùa Nước và Khủng Long Lửa. 2 thằng kia ở 2 box khác rồi
 bot cơm chạy|Bot này chạy bằng tiền donate nha. Anh em donate nhiều thì phục vụ tốt
 qua cold,đến cold|Xong nhiệm vụ xên hoàn thiện ở thị trấn ginder là qua được cold
@@ -201,5 +200,4 @@ bot nhà nghỉ|Khách sạn thì mình còn suy nghĩ lại :))
 pc,windows,máy tính|Link tải PC Máy tính đây nhé: http://ngocrongnthev.com/download/windows - Hướng dẫn: https://youtu.be/Al87Vhor8KQ
 apk,adr,android,androi|Link tải Android đây nhé: http://ngocrongnthev.com/download/android
 jar,java|Link tải Jar đây nhé: http://ngocrongnthev.com/download/java
-iphone,ios|Link tải IPhone nhé: http://ngocrongnthev.com/download/iphone
-testflight,tf|Link Testflight: https://testflight.apple.com/join/X7aPZdCV (CHỌN SV1 XONG TẮT GAME MỞ LẠI RỒI ĐĂNG NHẬP)
+iphone,ios,testflight,tf,appcenter|Link tải IPhone nhé: http://ngocrongnthev.com/download/iphone
