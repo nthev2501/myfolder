@@ -42,7 +42,7 @@ vamchar|Làng vamchar bạn tới làng morri để vào nhé
 làng lá|Từ đảo hoa chạy sang trái là đến làng lá
 k vô dc,k vào dc,k vào được,không vào được game,k vô được,không vào được,lag,lỗi,lang,lắc,lác|Bạn vui lòng quay video tình trạng bạn đang gặp phải rồi gửi vào box để mọi người chỉ fix nhé! TẠO NHÂN VẬT: Thì chọn cấu hình Cao, TestFlight chọn server 1 xong tắt game mở lại 
 chậm,tốc,cheat|Tăng tốc độ game, Chat không viết hoa nhé: speed 3 | cheat_3 | tocdo 3 | td3
-cộng chỉ số,nâng chỉ số,nâng kinh nghiệm,auto chỉ số,cộng cs,tăng cs|Auto cộng chỉ số nhanh: https://i.imgur.com/7a5cBPD.jpeg nhé
+cộng chỉ số,nâng chỉ số,nâng kinh nghiệm,auto chỉ số,cộng cs,tăng cs|Auto cộng chỉ số nhanh ở ô thứ 2 phần chức năng nhé
 up sm,cày sm|Bạn ép sức đánh cho đồ rồi vào Ngũ Hành Sơn ở Làng Aru up cho lẹ, Sau đó đến địa ngục ở Cu Tí Đảo Kame vào sau đảo gặp Diêm Vương 
 cuồng nộ,item,cnsc,đồng xu,xu mua máy dò,cskb,capsule,kì bí,cn,bh,bổ huyết,bổ khí,bk|Các loại item và item siêu cấp đều mở ra từ capsule kì bí (train quái ngũ hành sơn lấy coin rồi sang bulma đổi máy dò capsule)
 sức mạnh,chỉ số,ghsm|Bạn ra vách núi morri gặp quốc vương để mở giới hạn sức mạnh nhé (Sức mạnh max hiện tại cho sư phụ và đệ tử là 300 tỷ) Chỉ số max hiện tại cho sư phụ và đệ tử là 780K và 40K (Sư phụ có thể [trùng sinh] để tăng thêm) 
