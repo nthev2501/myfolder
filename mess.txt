@@ -51,7 +51,7 @@ xoá dữ liệu apk|Để xoá dữ liệu bản Android bạn bấm giữ vào
 xoá dữ liệu ios|Bạn xoá game tải lại là được hoặc bấm nút Xoá dữ liệu màu trắng ở góc 
 xoá dữ liệu jar|Nếu sài Jar trên Android bạn xoá J2Me Loader đi, sau đó cài lại là được. Trên Pc thì xem hướng dẫn ở đây: https://youtu.be/Od90G9deiI4 
 chậm,tốc,cheat|Bạn tăng tốc độ game bằng: một số lệnh chat bạn thử từng cái nhé (speed X | cheat_X | tdX | tocdo X - X là Số nhé - không viết hoa) 
-cộng chỉ số,nâng chỉ số,nâng kinh nghiệm,auto chỉ số,cộng cs,tăng cs|Auto cộng chỉ số nhanh: https://i.imgur.com/uCH5V6m.jpeg
+cộng chỉ số,nâng chỉ số,nâng kinh nghiệm,auto chỉ số,cộng cs,tăng cs|Auto cộng chỉ số nhanh: https://i.imgur.com/uCH5V6m.jpeg nhé
 up sm,cày sm|Bạn ép sức đánh cho đồ rồi vào Ngũ Hành Sơn ở Làng Aru up cho lẹ, Sau đó đến địa ngục ở Cu Tí Đảo Kame vào sau đảo gặp Diêm Vương 
 cuồng nộ,item,cnsc,đồng xu,xu mua máy dò,cskb,capsule,kì bí,cn,bh,bổ huyết,bổ khí,bk|Các loại item và item siêu cấp đều mở ra từ capsule kì bí (train quái ngũ hành sơn lấy coin rồi sang bulma đổi máy dò capsule)
 sức mạnh,chỉ số,ghsm|Bạn ra vách núi morri gặp quốc vương để mở giới hạn sức mạnh nhé (Sức mạnh max hiện tại cho sư phụ và đệ tử là 300 tỷ) Chỉ số max hiện tại cho sư phụ và đệ tử là 780K và 40K (Sư phụ có thể [trùng sinh] để tăng thêm) 
