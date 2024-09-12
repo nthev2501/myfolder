@@ -30,7 +30,7 @@ up đâu,up sm,úp đâu,úp sm,up nhanh,úp nhanh|Bạn ép sức đánh cho đ
 kẹt,- 1,-1,1 đấm|kẹp map thì đăng nhập vào web rồi bấm nút thoát kẹt. Còn boss kẹt map thì chưởng nó đi chứ hỏi chi
 tạo nv,tạo nhân vật,tao nv|Bạn chọn cấu hình cao mới tạo nhân vật được nhé (nhận đệ tử trong nhà xong thì thoát game vào lại để hiện menu đệ tử)
 điểm boss|Điểm boss bạn đánh boss sẽ có điểm (tuỳ boss ngẫu nhiên). mua thêm cuốc để trồng được trái thần long (tăng sức đánh)
-website,trang chủ,web,diễn đàn|Link website: http://ngocrongnthev.com (Gặp vấn đề về tải game hay đăng ký hãy chụp lại gửi vào đây mọi người cùng hỗ trợ nhé)
+website,trang chủ,web,diễn đàn|Link website: https://nthev2.github.io/nthev.github.io/ (Gặp vấn đề về tải game hay đăng ký hãy chụp lại gửi vào đây mọi người cùng hỗ trợ nhé)
 ngáo bot|Ngáo đâu, mày mới ngáo đó
 cặc|Cặc cha mày chứ cặc
 uron|Bạn bỏ qua hết nhiệm vụ tân thủ ở nhà rồi chạy ra trạm tàu vũ trụ sẽ thấy Uron nhé
@@ -77,7 +77,7 @@ thức ăn,thuc an, đồ ăn|Thức ăn bạn mặc set thần linh rồi up qu
 black goku|Black goku mạnh vcl đấy mấy cưng, rơi nhẫn thời không để vào map Chilled 
 code,giftcode,xin code,sin code|Giftcode tân thủ: ngocrong1, ngocrong2, ngocrong3, ngocrong4, ngocrong5, ngocrong6, ngocrongnthevcom (CODE MỚI: THAM GIA Ở TRANG CHỦ SẼ CÓ)
 tkmk,tk mk,thành công,đăng ký,dky,tạo,sai,chính xác,đăng nhập|Bạn gặp bất kì lỗi gì đừng vội out box. Bạn hãy chụp lại hoặc quay lại gửi vào box để mọi người hỗ trợ cho bạn nhé
-link tải,tải game,download|Tải game tại Trang chủ: http://ngocrongnthev.com hoặc tải qua box: https://zalo.me/g/vxcuux196 (Lỗi đăng ký, đăng nhập,..Bạn hãy chụp lại hoặc quay lại gửi vào box để mọi người hỗ trợ nhé)
+link tải,tải game,jar,java,iphone,ios,testflight,tf,appcenter,pc,windows,máy tính,apk,adr,android,androi,download|Tải game tại Trang chủ: https://nthev2.github.io/nthev.github.io/ hoặc tải qua box: https://zalo.me/g/vxcuux196 (Lỗi đăng ký, đăng nhập,..Bạn hãy chụp lại hoặc quay lại gửi vào box để mọi người hỗ trợ nhé)
 id,ip,ipsv|Tất cả bản trên web đã cài sẵn Ip (tải về xoá dữ liệu rồi sài thôi). Nếu không rành thì bạn đừng quan tâm tin nhắn này:     Sv1:14.225.203.19:14445:0,0,0|231
 cài game trên pc|Tải bản pc về -> chuột phải vào file game -> chọn Extract here -> mở thư mục màu vàng và mở game - xoá dữ liệu trước khi vô game! (Không thấy Extract Here thì cài winrar trước) - #HỎI: cách cài winrar?
 winrar|Bạn tải về rồi bấm cài đặt rồi next next là cài được rồi: https://www.win-rar.com/fileadmin/winrar-versions/winrar/winrar-x64-701.exe
@@ -194,10 +194,6 @@ mảnh sưu tầm|Mảnh sưu tầm quái nào bạn train quái đó là rơi
 chờ duyệt|Bài chờ duyệt vẫn tính (yêu cầu chụp lại bài chờ duyệt) 
 bông tai,porata,mvbt,đá đỏ,đá xanh,btc2,btc3|BÔNG TAI CẤP 2 max 15%, BÔNG TAI CẤP 3 max 25%, BÔNG TAI CẤP 4 (VôSong) 25% + Thêm Chỉ Số (Chỉ mua ở Santa - Cày hồng ngọc rồi mua), nguyên liệu C2,C3 rơi ở các map từ nappa->khỉ vàng (Nâng ở Hạt Mít vách núi) 
 sợ chưa|Chưa sợ, ngon nhào zô 
-bot var|ngon vào đây mà var này 
+bot var|ngon vào đây mà var này
 bot ny|Tôi làm gì đã có ny, tôi còn đang sợ ế đây này :3
 bot nhà nghỉ|Khách sạn thì mình còn suy nghĩ lại :))
-pc,windows,máy tính|Link tải PC Máy tính đây nhé: http://ngocrongnthev.com/download/windows - Hướng dẫn: https://youtu.be/Al87Vhor8KQ
-apk,adr,android,androi|Link tải Android đây nhé: http://ngocrongnthev.com/download/android
-jar,java|Link tải Jar đây nhé: http://ngocrongnthev.com/download/java
-iphone,ios,testflight,tf,appcenter|Link tải IPhone nhé: http://ngocrongnthev.com/download/iphone
