@@ -84,7 +84,7 @@ winrar|Bạn tải về rồi bấm cài đặt rồi next next là cài đượ
 bảo trì,btri,btr|Xem Server có bảo trì hay không tại đây: http://ngocrongnthev.com/trang-thai
 fanpage,tiktok,youtube|Link Fanpage nè https://www.facebook.com/ngocrongnthevmax   Tiktok nè https://www.tiktok.com/@nthev.ngocrongonline Youtube nè https://youtube.com/@ngocrongonline2501  
 tỷ lệ nạp|Tỷ lệ nạp là 1-1 (Quy đổi: 10K = 20K hồng ngọc, 60K = 10K thỏi vàng )
-nạp,donate|Nạp tự động tại http://ngocrongnthev.com rồi vô santa đổi sang hồng ngọc hoặc thỏi vàng https://i.imgur.com/IUYEJJL.jpeg nhé
+nạp,donate|Nạp tự động tại http://ngocrongnthev.com rồi vô santa đổi sang hồng ngọc hoặc thỏi vàng https://i.imgur.com/E61JS8K.png nhé
 đồ thần,dtl,đồ tl|đồ thần bạn săn boss hoặc up cold nhé (làm nguyên liệu nâng đồ huỷ diệt ở thiên sứ whis)
 hỗ trợ,ho tro nv|khung giờ hỗ trợ nhiệm vụ 9-12h sáng tối (ai nhiệm vụ đó mới được vào khu - áp dụng cho các boss từ TDST đến Xên Võ Đài) 
 bán nick,mua nick,bán nick,bán acc,bay nick,bay acc,p acc,p nick,m nick,m acc,acc giá,nick giá|VUI LÒNG THU HỒI TIN NHẮN MUA BÁN TÀI KHOẢN, hãy vào box mua bán trên ghim (Không thu hồi bạn sẽ bị ban khỏi box chat)
@@ -116,7 +116,6 @@ open khi,open lúc,open ngày,mở ngày|Server vừa khai mở open chính th�
 test,open,op,sv,mtv,mở tv,mở thành viên,kích hoạt|Server Vừa Mới Open Vẫn Free All - Đẳng cấp nhất hiện tại (Dame trung, Free MTV, Cày 100 Tỷ mới giao dịch được)
 tàn sát,tự đánh|Lệnh tàn sát ở thông báo phần chức năng, còn tàn sát bản koioctieu bạn mua máy tự động luyện tập rồi sử dụng rồi bấm góc trên cùng bên trái chọn train quái 
 chức năng|Các NPC đều có chỉ chức năng, bạn tới đó đọc nhé 
-tỷ lệ nạp,tỉ lệ nạp, tỷ lệ quy đổi, tỉ lệ quy đổi|Quy đổi ở santa có tỷ lệ bạn ra xem nhé 
 dhd,dts,đồ hủy diệt,đồ thiên sứ,đồ ts|Nâng cấp đồ ở thiên sứ đảo kame (có hướng dẫn) 
 bịp|thằng bên trên mới bịp nhé 
 cái gì,update,cái j,gì đây|Có nhiều thứ tôi chưa được biết đến, bạn cứ gửi vào nhóm đi mọi người sẽ giúp đỡ bạn nhé 
