@@ -9,7 +9,7 @@ boss mới|Boss mới đi hỏi admin chứ tui không biết
 yanrobi|Boss Yanrobi có rơi hồng ngọc nhé các bợn
 giới hạn dame,giới hạn sát thương,gh dame,gh st|Một số boss nhiệm vụ sẽ bị giới hạn sát thương để hỗ trợ nhiệm vụ (không có hỗ trợ thì bạn không thấy được boss đâu) Có nhiều boss không giới hạn sát thương
 bot người|Robot cũng là con người mà
-đậu xanh,trứng muối,bột|Đọc sự kiện trung thu ở diễn đàn hoặc fanpage nhé
+đậu xanh,trứng muối,bột,trung thu|Đọc sự kiện trung thu ở diễn đàn hoặc fanpage nhé
 code trung thu|Tới trung thu chưa mà hỏi code ???
 10k,20k,30k,50k,100k,200k,300k,500k,700k,1tr|Tỷ lệ nạp là 1-1 (quy đổi: 10k = 20k hồng ngọc, 60k = 10k thỏi vàng)
 thần tiên|Để có set thần tiên bạn cần có phiếu giảm giá để mua set ở Vados (sau đó nâng lên thiên tôn ở hạt mít)
