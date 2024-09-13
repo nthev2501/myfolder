@@ -84,7 +84,7 @@ kuku,mập đầu đinh,map dau dinh,rambo|KuKu,Mdđ,Rambo (5phút) Tìm nhanh �
 Đồ vip,trang bị vip,set vip|Trang bị kích hoạt vip nâng ở Thiên Sứ whis đảo kame hoặc mua nhanh ở Santa(xem nguyên liệu ở đó luôn nhé)
 mảnh ấn|bạn tiêu diệt boss ở Hành tinh ngục tù nhé 
 mấy sao,level|trang bị thường 10 sao và trang bị vip 12 sao, trang bị thường 9 cấp và trang bị vip 10 cấp (cày có hết) 
-mất pt, mất bang,xóa pt,xóa bang,clear pt,lỗi pt,lỗi bang,clear bang,pt|Mỗi tháng sẽ clear bang hội để lọc toàn bộ clone (tối ưu cho server) (không bù đâu nên không cần báo) 
+bang,pt|Mỗi tháng sẽ xoá bang hội để lọc toàn bộ clone (tối ưu cho server) (không bù đâu nên không cần báo)
 cày chay|Mèo méo meo mèo meo...mlem..mlem 
 đá quý,da quy,khí gas,khi gas|đá quý săn tiểu đội đường tăng hoặc đi khí gas ở làng aru nhé 
 dbv,đá bảo vệ|đá bảo vệ bạn đi doanh trại rơi đầy hoặc mua 3000 Đá bảo vệ giá rẻ ở santa
@@ -141,7 +141,7 @@ Skill đệ tử|Đệ tử có 6 chiêu ước rồng thường đổi được
 skill ô,5 chiêu|trên điện thoại chỉ gán được 5 ô thôi, mở máy tính lên sẽ gán được 10 ô đấy 
 vamchar|Trước làng morri có cổng vào làng vamchar 
 rương cấp 11|đủ 24 giờ từ lúc nhận rương thì mới mở được nhé 
-kí gửi,ký gửi|Kí gửi mua bán bằng hồng ngọc nhé
+kí gửi,ký gửi|Kí gửi mua bán bằng hồng ngọc nhé (kí ít thôi kí xong lo nhận đừng treo lâu quá hạn bị xoá thì tự chịu)
 danh hiệu,dhieu|Danh hiệu từ lúc nhận đã tăng sẵn chỉ số (lỡ làm mất danh hiệu thì chỉ số vẫn được cộng) ở Thần Mèo Karin trong rừng karin nhé chỗ Bò Mộng 
 trái thần long,mảnh đất,cây cuốc,khu đất,nông trại|Bạn mua đất + cây cuốc rồi săn boss đủ 30 điểm sẽ trồng được cây thần long, thu hoạch trái thần long ăn vào tăng chỉ số ( đặc biệt không bị ảnh hưởng với sức mạnh chí tôn ) 
 max sm,sdg,hpg,max sd,max hp|max sức mạnh là 300 tỷ nhé, max chỉ số 780k và 40k 
