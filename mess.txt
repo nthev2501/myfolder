@@ -84,7 +84,7 @@ kuku,mập đầu đinh,map dau dinh,rambo|KuKu,Mdđ,Rambo (5phút) Tìm nhanh �
 Đồ vip,trang bị vip,set vip|Trang bị kích hoạt vip nâng ở Thiên Sứ whis đảo kame hoặc mua nhanh ở Santa(xem nguyên liệu ở đó luôn nhé)
 mảnh ấn|bạn tiêu diệt boss ở Hành tinh ngục tù nhé 
 mấy sao,level|trang bị thường 10 sao và trang bị vip 12 sao, trang bị thường 9 cấp và trang bị vip 10 cấp (cày có hết) 
-mất pt, mất bang,xóa pt,xóa bang,clear pt, lỗi pt,lỗi bang,clear bang|Mỗi tháng sẽ clear bang hội để lọc toàn bộ clone (tối ưu cho server) (không bù đâu nên không cần báo) 
+mất pt, mất bang,xóa pt,xóa bang,clear pt,lỗi pt,lỗi bang,clear bang,pt|Mỗi tháng sẽ clear bang hội để lọc toàn bộ clone (tối ưu cho server) (không bù đâu nên không cần báo) 
 cày chay|Mèo méo meo mèo meo...mlem..mlem 
 đá quý,da quy,khí gas,khi gas|đá quý săn tiểu đội đường tăng hoặc đi khí gas ở làng aru nhé 
 dbv,đá bảo vệ|đá bảo vệ bạn đi doanh trại rơi đầy hoặc mua 3000 Đá bảo vệ giá rẻ ở santa
