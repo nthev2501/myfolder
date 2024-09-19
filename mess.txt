@@ -11,7 +11,7 @@ giới hạn dame,giới hạn sát thương,gh dame,gh st|Một số boss nhi�
 bot người|Robot cũng là con người mà
 kém|kém sang quá
 gas|Đi doanh trại kiếm Bản đồ kho báu (bình gas) rồi vào Khí gas ở làng aru 
-đảo,biến hình|Game vừa update đảo kame vui lòng xoá dữ liệu cũ và tải mới lại để trải nghiệm skill biến hình
+đảo,biến hình|Skill biến hình học ở Uron đảo kame (cày hoặc nạp đều học được cách cày có ghi ở uron luôn)
 sợ,thua|Ai sợ đi về :))
 đậu xanh,trứng muối,bột,trung thu|Đọc sự kiện trung thu ở diễn đàn hoặc fanpage nhé (Code Trung Thu vào Fanpage, Website,... có ghi ở đó)
 10k,20k,30k,50k,100k,200k,300k,500k,700k,1tr|Tỷ lệ nạp là 1-1 (quy đổi: 10k = 20k hồng ngọc, 60k = 10k thỏi vàng)
