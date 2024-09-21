@@ -10,6 +10,7 @@ yanrobi|Boss Yanrobi có rơi hồng ngọc nhé các bợn
 giới hạn dame,giới hạn sát thương,gh dame,gh st|Một số boss nhiệm vụ sẽ bị giới hạn sát thương để hỗ trợ nhiệm vụ (không có hỗ trợ thì bạn không thấy được boss đâu) Có nhiều boss không giới hạn sát thương
 bot người|Robot cũng là con người mà
 kém|kém sang quá
+sv1,sv2,sv3,sv4,sv5,sv6,sv7|Bạn chọn sv1 xong tắt hẳn game đi rồi mở lại sẽ vào được game (chỉ chơi sv1)
 lồn bot,đĩ bot,bot đụ|Vãi cả bìu, dám chửi cả t á. m chưa tài đâu
 gas|Đi doanh trại kiếm Bản đồ kho báu (bình gas) rồi vào Khí gas ở làng aru 
 đảo,biến hình|Skill biến hình học ở Uron đảo kame (cày hoặc nạp đều học được cách cày có ghi ở uron luôn)
