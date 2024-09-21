@@ -100,7 +100,7 @@ ngọc rồng siêu cấp,nrsc,ngọc rồng sc, nr siêu cấp,ước được 
 ai đẹp,bot đẹp|admin đẹp nhất nhé! Tôi đánh giá khách quan là như thế 
 chán|Tại sao bạn lại chán, bắt con gián bỏ vô háng cho đỡ chán 
 bot ngủ|Tôi không ngủ đâu nhé, tôi luôn sẵn sàng phục vụ bạn 
-alo,lô,alô,hello,chào|Hello anh đẹp trai 
+alo,lô,alô,hello,chào|Hello anh đẹp trai! Em là chatbot được phân công làm việc ở đây, anh cần giúp gì cứ nói nhé! 
 má bot|má mày chứ má tao gì?
 vô pt,xin pt,xin bang,vô pt,vô clan,xin clan|Bạn muốn vào bang hội thì nên chat thế giới rồi xin, ae trong game đông lắm
 chào bot|Hi! Chào cậu, cho mình làm quen nhé!  
