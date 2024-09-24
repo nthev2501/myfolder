@@ -110,8 +110,7 @@ bot khôn,bot không khôn|ai cũng biết rằng tôi khôn mà
 còn sống không|Tôi vẫn còn sống đây, tôi đứng đây chờ bạn từ chiều 
 phụ kiện|phụ kiện mua ở santa cho nhanh  
 cành tre|Bạn gom đủ 9999 rồi ghép thành cần câu đi câu cá nhé 
-open khi,open lúc,open ngày,mở ngày|Server vừa khai mở open chính thức vào ngày hôm qua nhé, phờ ri hết nhé (không cần MTV)
-test,open,op,sv,mtv,mở tv,mở thành viên,kích hoạt|Server Mới Open Vẫn Free All (Dame trung, Free MTV Cày 100 Tỷ mới giao dịch được)
+test,open,op,sv,mtv,mở tv,mở thành viên,kích hoạt|Server Open Vẫn Free 100% (Cày có hết tất cả)
 tàn sát,tự đánh|Lệnh tàn sát ở thông báo phần chức năng, còn tàn sát bản koioctieu bạn mua máy tự động luyện tập rồi sử dụng rồi bấm góc trên cùng bên trái chọn train quái 
 chức năng|Các NPC đều có chỉ chức năng, bạn tới đó đọc nhé 
 dhd,dts,đồ hủy diệt,đồ thiên sứ,đồ ts|Nâng cấp đồ ở thiên sứ đảo kame (có hướng dẫn) 
